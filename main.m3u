@@ -1,22 +1,22 @@
-#EXTM3U url-tvg="http://chipcun.dynu.com:8080/Upload/IPTV_M3U/mytv_rtp_epg/mytvepg.xml,https://dl.dropboxusercontent.com/s/ohcllgf432d97bk/epg.xml"
-#EXTM3U group id can be "vtvX"
-#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV1
+#EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/ohcllgf432d97bk/epg.xml,http://chipcun.dynu.com:8080/Upload/IPTV_M3U/mytv_rtp_epg/mytvepg.xml"
+#EXTM3U These can also be "vtvXhd"
+#EXTINF:-1 tvg-id="vtv1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV1
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV2
+#EXTINF:-1 tvg-id="vtv2" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV2
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV3
+#EXTINF:-1 tvg-id="vtv3" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV3
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/VTV4_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV4
+#EXTINF:-1 tvg-id="vtv4" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/VTV4_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV4
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV5
+#EXTINF:-1 tvg-id="vtv5" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV6
+#EXTINF:-1 tvg-id="vtv6" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV6
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c7/VTV7_%282015-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV7
+#EXTINF:-1 tvg-id="vtv7" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c7/VTV7_%282015-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV7
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8c/VTV8_%282016-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV8
+#EXTINF:-1 tvg-id="vtv8" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8c/VTV8_%282016-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b9/VTV9_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV9
+#EXTINF:-1 tvg-id="vtv9" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b9/VTV9_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV9
 udp://@225.1.1.128:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/zN9KmRM.png" group-title="News",ABC News Live
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -85,8 +85,8 @@ udp://@225.1.1.204:30120
 udp://@225.1.1.188:30120
 #EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV
 udp://@225.1.2.227:30120
-#EXTM3U This can also be "fox_life"
-#EXTINF:-1 tvg-id="foxlifehd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",FOXlife
+#EXTM3U This can also be "foxlifehd"
+#EXTINF:-1 tvg-id="fox_life" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",FOXlife
 udp://@225.1.2.237:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d0/ITV_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Independent Television 1
 https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
@@ -124,14 +124,16 @@ http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
 udp://@225.1.2.254:30120
 #EXTINF:-1 tvg-id="warner_tv_hd" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png" group-title="Entertainment",Warner Brothers TV
 udp://@225.1.1.139:30120
-#EXTINF:-1 tvg-id="animalhd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Animal Planet
+#EXTM3U This can also be "animalhd"
+#EXTINF:-1 tvg-id="animal_planet" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Animal Planet
 udp://@225.1.1.231:30120
 #EXTINF:-1 tvg-id="bbc_earth" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/512" group-title="Educational",BBC Earth
 udp://@225.1.2.24:30120
-#EXTM3U group id can also be "da_vinci_kids"
-#EXTINF:-1 tvg-id="davinci" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Da Vinci
+#EXTM3U group id can also be "davinci"
+#EXTINF:-1 tvg-id="da_vinci_kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Da Vinci
 udp://@225.1.1.197:30120
-#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Discovery
+#EXTM3U This can also be "discoveryhd"
+#EXTINF:-1 tvg-id="discovery" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Discovery
 udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="discovery_asia" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png/revision/latest/scale-to-width-down/512" group-title="Educational",Discovery Asia
 udp://@225.1.2.223:30120
@@ -145,7 +147,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/revision/latest/scale-to-width-down/512" group-title="Educational",NHK Educational
 http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
-#EXTINF:-1 tvg-id="outdoor-channel" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Outdoor Channel
+#EXTM3U This can also be "outdoor-channel"
+#EXTINF:-1 tvg-id="outdoor_channel" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Outdoor Channel
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/512" group-title="Movies",Animax
 http://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
@@ -153,7 +156,7 @@ http://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 udp://@225.1.1.142:30120
 #EXTINF:-1 tvg-id="fox_movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Movies
 udp://@225.1.2.239:30120
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/FOXFamilyMovies.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Family Movies
+#EXTINF:-1 tvg-id="fox_family_movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/FOXFamilyMovies.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Family Movies
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTM3U This one is 1 hr "ahead".
 #EXTINF:-1 tvg-id="max_by_hbo" tvg-shift="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax
@@ -178,9 +181,9 @@ udp://@225.1.2.233:30120
 udp://@225.1.1.93:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest/scale-to-width-down/512" group-title="Kids",Boomerang
 udp://@225.1.4.16:30120
-#EXTM3U This can also be "cartoon_network"
-#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/512" group-title="Kids",Cartoon Network
+#EXTM3U This can also be "cartoonhd"
+#EXTINF:-1 tvg-id="cartoon_network" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/512" group-title="Kids",Cartoon Network
 udp://@225.1.2.231:30120
-#EXTM3U This can also be "disney_channel"
-#EXTINF:-1 tvg-id="disney" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/512" group-title="Kids",Disney Channel
+#EXTM3U This can also be "disney"
+#EXTINF:-1 tvg-id="disney_channel" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/512" group-title="Kids",Disney Channel
 udp://@225.1.2.158:30120
