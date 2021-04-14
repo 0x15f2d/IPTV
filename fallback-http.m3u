@@ -1,0 +1,166 @@
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg,http://gg.gg/epgbeartv,http://gg.gg/fptepg"
+#EXTINF:-1 tvg-id="vtv1hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV1
+http://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV2
+http://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV3
+http://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/VTV4_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV4
+http://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV5
+http://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV6
+http://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV6
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" tvg-logo="https://i.imgur.com/EQaqb0h.png" group-title="Vietnam Television",VTV7
+http://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8c/VTV8_%282016-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV8
+http://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b9/VTV9_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV9
+http://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b9/VTV9_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV9
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512" group-title="News",ABC Australia
+http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="arirang" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1d/Arirang.svg.png/revision/latest/scale-to-width-down/512" group-title="News",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="arirang" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1d/Arirang.svg.png/revision/latest/scale-to-width-down/512" group-title="News",Arirang
+http://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/BBC_World_News.svg/revision/latest/scale-to-width-down/512" group-title="News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="bloomberg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Bloomberg_2015.svg/revision/latest/scale-to-width-down/512" group-title="News",Bloomberg
+http://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN
+http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN
+http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",Deutsche Welle
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 tvg-id="dw" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",Deutsche Welle
+http://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="france24-en" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="nhk_world" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 tvg-id="nhk_world" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan
+http://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="nhk_world" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan
+udp://@225.1.1.47:30120
+
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Asian Food Network
+http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Asian Food Network
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",AXN
+http://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="axnhd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",AXN
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="blue_ant_entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Blue_Ant_Entertainment.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Blue Ant Entertainment
+http://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="blue_ant_extreme" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Blue_Ant_Extreme.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Blue Ant Extreme
+http://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",Channel V
+http://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",Channel V
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="fashion-tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",Fashion TV
+http://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/512px-FOX_wordmark-orange.svg.png" group-title="Entertainment",FOX
+http://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/512px-FOX_wordmark-orange.svg.png" group-title="Entertainment",FOX
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="foxlifehd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",FOXlife
+http://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="foxlifehd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",FOXlife
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXLIFE-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",The Learning Channel
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://apac.tv5monde.com/assets/logos/tv5monde_apac.png" group-title="Entertainment",TV5Monde Asie
+http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="warner_tv_hd" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png" group-title="Entertainment",Warner Brothers TV
+http://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="warner_tv_hd" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png" group-title="Entertainment",Warner Brothers TV
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF:-1 tvg-id="animalhd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Animal Planet
+http://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/512" group-title="Educational",BBC Earth
+http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Da Vinci
+http://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Da Vinci
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Discovery
+http://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Discovery
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="discovery_asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Discovery-asia.png/revision/latest/scale-to-width-down/512" group-title="Educational",Discovery Asia
+http://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="national_geographic" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512" group-title="Educational",National Geographic
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="outdoor-channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Outdoor Channel
+http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/512" group-title="Movies",Animax JP
+http://180.92.158.208:9981/stream/channelid/806982131
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/512" group-title="Movies",Animax JP w/ English Subtitles
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:-1 tvg-id="cinema_world_hd" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="Movies",CinemaWorld
+http://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cinema_world_hd" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="Movies",CinemaWorld
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="max_by_hbo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Cinemax_2016.svg/revision/latest/scale-to-width-down/512" group-title="Movies",Cinemax VN
+http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
+#EXTINF:-1 tvg-id="foxmovieshd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/FOXFamilyMovies.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Family Movies
+http://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="fox_movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Movies
+http://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="fox_movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Movies
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",HBO VN
+http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648
+#EXTINF:-1 tvg-id="red_by_hbo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",Red by HBO VN
+http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest/scale-to-width-down/512" group-title="Kids",Boomerang VN
+http://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/512" group-title="Kids",Cartoon Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="disney" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/512" group-title="Kids",Disney Channel
+http://quocthai.duckdns.org:18886/rtp/232.84.2.143:10678
+#EXTINF:-1 tvg-id="disneyjunior" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png/revision/latest/scale-to-width-down/512" group-title="Kids",Disney Junior
+http://quocthai.duckdns.org:18886/rtp/232.84.3.200:11122
+#EXTINF:-1 tvg-id="vtc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/512px-VTC1_logo_2018.svg.png" group-title="VTC",VTC1
+http://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/512px-VTC1_logo_2018.svg.png" group-title="VTC",VTC1
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc13" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTC",VTC13
+http://livecdn.fptplay.net/sdc/vtc13_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtc13" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4d/VTC13.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTC",VTC13
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="VTC",VTC14
+http://livecdn.fptplay.net/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f5/CBSNBA.svg/revision/latest/scale-to-width-down/512" group-title="Local",CBSN Bay Area
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="null" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a1/CBSNM.svg/revision/latest/scale-to-width-down/512" group-title="Local",CBSN Minnesota
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="null" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png" group-title="Local",Fuji TV
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-id="null" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c9/CBSNNY.svg/revision/latest/scale-to-width-down/512" group-title="Local",CBSN New York
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="hanoitv1" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d9/HanoiTV1_HD.png/revision/latest?path-prefix=vi" group-title="Local",Hà Nội 1
+http://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hanoitv2" tvg-logo="http://static.wikia.nocookie.net/logos/images/9/93/HanoiTV2_HD.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Local",Hà Nội 2
+http://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/NHK2020-.svg/revision/latest/scale-to-width-down/512" group-title="Local",NHK G
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" group-title="Local",Nippon TV
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/QTV1_logo.png/revision/latest/scale-to-width-down/512" group-title="Local",QTV1
+http://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" group-title="Local",TBS
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/revision/latest/scale-to-width-down/512" group-title="Local",Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/TVAsahi_2003.svg/revision/latest/scale-to-width-down/512" group-title="Local",TV Asahi
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-id="null" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" group-title="Local",TV Tokyo
+http://203.162.235.41:16908
