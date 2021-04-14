@@ -66,8 +66,6 @@ https://www.news24.jp/livestream/index.m3u8
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 tvg-id="rt-america" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/RT_AMERICA_2018.png/revision/latest/scale-to-width-down/512" group-title="News",Russia Today (America)
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/QTV1_logo.png/revision/latest/scale-to-width-down/512" group-title="News",QTV1
-udp://@225.1.2.181:30120
 #EXTINF:-1 tvg-id="vtc14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="News",VTC14
 udp://@225.1.2.88:30120
 #EXTM3U This channel shifts 30 minutes behind. But you can't apply in here.
@@ -103,12 +101,14 @@ http://51.52.156.22:8888/http/007
 http://203.162.235.41:16910
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",NHK 1 (Satelite)
 http://203.162.235.41:16909
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",NHK Educational
-http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png/800px-NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" group-title="Entertainment",NHK General
 http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Nippon TV
 http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/df7e4a65-7362-4828-880c-dcdccf36fd0d/dbp6ta4-2f2b8b34-0831-4fa9-b130-e587041ed5e9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZGY3ZTRhNjUtNzM2Mi00ODI4LTg4MGMtZGNkY2NmMzZmZDBkXC9kYnA2dGE0LTJmMmI4YjM0LTA4MzEtNGZhOS1iMTMwLWU1ODcwNDFlZDVlOS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.79rocnPg3fDKfTXtqcZozI40Ha7gbbHJUe1JOchllTQ" group-title="Entertainment",Paramount Network
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/QTV1_logo.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",QTV1
+udp://@225.1.2.181:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fb/QTV3_logo.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",QTV3
 http://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tlc" tvg-shift="+6" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",The Learning Channel
@@ -142,6 +142,8 @@ udp://@225.1.2.235:30120
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e5/NASA_logo.svg/revision/latest/scale-to-width-down/512" group-title="Educational",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/revision/latest/scale-to-width-down/512" group-title="Educational",NHK Educational
+http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
 #EXTINF:-1 tvg-id="outdoor-channel" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/512" group-title="Educational",Outdoor Channel
 udp://@225.1.2.215:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/512" group-title="Movies",Animax
@@ -173,8 +175,6 @@ udp://@225.1.2.86:30120
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="red_by_hbo" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",Red by HBO (Vietnam)
 udp://@225.1.1.93:30120
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/df7e4a65-7362-4828-880c-dcdccf36fd0d/dbp6ta4-2f2b8b34-0831-4fa9-b130-e587041ed5e9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZGY3ZTRhNjUtNzM2Mi00ODI4LTg4MGMtZGNkY2NmMzZmZDBkXC9kYnA2dGE0LTJmMmI4YjM0LTA4MzEtNGZhOS1iMTMwLWU1ODcwNDFlZDVlOS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.79rocnPg3fDKfTXtqcZozI40Ha7gbbHJUe1JOchllTQ" group-title="Movies",Paramount Network
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest/scale-to-width-down/512" group-title="Kids",Boomerang
 udp://@225.1.4.16:30120
 #EXTM3U This can also be "cartoon_network"
