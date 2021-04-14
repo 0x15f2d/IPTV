@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg,http://gg.gg/epgbeartv,http://gg.gg/fptepg"
+#EXTM3U url-tvg="http://chipcun.dynu.com:8080/Upload/IPTV_M3U/mytv_rtp_epg/mytvepg.xml,https://dl.dropboxusercontent.com/s/ohcllgf432d97bk/epg.xml"
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV1
 udp://@225.1.2.249:30120
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV2
