@@ -69,7 +69,8 @@ http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 udp://@225.1.2.181:30120
 #EXTINF:-1 tvg-id="vtc14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="News",VTC14
 udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-id="asian_food_channel" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Asian Food Network
+#EXTM3U This channel shifts 30 minutes behind. But you can't apply in here.
+#EXTINF:-1 tvg-id="asian_food_channel" tvg-shift="" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Asian Food Network
 udp://@225.1.1.198:30120
 #EXTINF:-1 tvg-id="bbc_lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",BBC Lifestyle
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
