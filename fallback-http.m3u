@@ -222,6 +222,7 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 #EXTM3U This one is 1 hr "ahead".
 #EXTINF:-1 tvg-id="red_by_hbo" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTM3U TODO: These 3 channels are currently dead.
 #EXTINF:-1 tvg-id="max_by_hbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax (Vietnam)
 http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
 #EXTINF:-1 tvg-id="hbo" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",HBO (Vietnam)
