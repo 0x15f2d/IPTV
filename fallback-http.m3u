@@ -83,8 +83,6 @@ http://rt-news-gd.secure2.footprint.net/1103.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
 #EXTINF:-1 tvg-id="vtc14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="News",VTC14
 http://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="vtc14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="News",VTC14
-http://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/91/Adult_Swim.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 #EXTM3U This channel shifts 30 minutes behind. But you can't apply in here.
@@ -155,6 +153,8 @@ http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",TV Tokyo
 http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/VIVA_2011_logo.svg/512px-VIVA_2011_logo.svg.png" group-title="Entertainment",Viva Russia
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="vtc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/512px-VTC1_logo_2018.svg.png" group-title="Entertainment",VTC1
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png" group-title="Entertainment",Warner Brothers TV (720p@25fps)
@@ -207,6 +207,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 http://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="fox_family_movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/FOXFamilyMovies.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Family Movies (1080p@25fps)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+#EXTM3U This one is 1 hr "ahead"?
 #EXTINF:-1 tvg-id="max_by_hbo" tvg-shift="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTM3U This one is 1 hr "ahead"?
