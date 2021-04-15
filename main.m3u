@@ -48,6 +48,8 @@ http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
 http://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:-1 tvg-id="cnbc" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/512" group-title="News",CNBC
 udp://@225.1.1.227:30120
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/78/CNET_2011.svg/revision/latest/scale-to-width-down/512" group-title="News",CNET
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN
 udp://@225.1.4.17:30120
 #EXTM3U This channel is 6 hours ahead.
@@ -57,6 +59,8 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="france_24" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24
 udp://@225.1.2.211:30120
+#EXTINF:-1 tvg-id="null_epg" tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/ujet5lB.png" group-title="News",NBC News Now (XUMO)
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTM3U This is 2 hours ahead.
 #EXTINF:-1 tvg-id="nhk_world" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan
 https://raw.githubusercontent.com/0x15f2d/IPTV/main/nhk-world-japan.m3u8
@@ -66,11 +70,19 @@ https://www.news24.jp/livestream/index.m3u8
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 tvg-id="rt-america" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/RT_AMERICA_2018.png/revision/latest/scale-to-width-down/512" group-title="News",Russia Today (America)
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
 #EXTINF:-1 tvg-id="vtc14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="News",VTC14
 udp://@225.1.2.88:30120
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/91/Adult_Swim.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Adult Swim
+https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 #EXTM3U This channel shifts 30 minutes behind. But you can't apply in here.
 #EXTINF:-1 tvg-id="asian_food_channel" tvg-shift="" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Asian Food Network
 udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Entertainment",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Entertainment",BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="bbc_lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",BBC Lifestyle
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c8/BBC_One_2006.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",BBC One
@@ -85,6 +97,8 @@ udp://@225.1.1.204:30120
 udp://@225.1.1.188:30120
 #EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV
 udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png" group-title="Entertainment",Comedy Central by Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTM3U This can also be "foxlifehd"
 #EXTINF:-1 tvg-id="fox_life" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",FOXlife
 udp://@225.1.2.237:30120
@@ -106,7 +120,9 @@ http://203.162.235.41:16909
 http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Nippon TV
 http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/df7e4a65-7362-4828-880c-dcdccf36fd0d/dbp6ta4-2f2b8b34-0831-4fa9-b130-e587041ed5e9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZGY3ZTRhNjUtNzM2Mi00ODI4LTg4MGMtZGNkY2NmMzZmZDBkXC9kYnA2dGE0LTJmMmI4YjM0LTA4MzEtNGZhOS1iMTMwLWU1ODcwNDFlZDVlOS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.79rocnPg3fDKfTXtqcZozI40Ha7gbbHJUe1JOchllTQ" group-title="Entertainment",Paramount Network
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png",MTV by Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/2U6uLaE.png" group-title="Entertainment",Paramount Network
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/QTV1_logo.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",QTV1
 udp://@225.1.2.181:30120
@@ -179,8 +195,12 @@ udp://@225.1.2.86:30120
 udp://@225.1.2.233:30120
 #EXTINF:-1 tvg-id="red_by_hbo" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",Red by HBO (Vietnam)
 udp://@225.1.1.93:30120
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/y58J3a0.png" group-title="Movies",Sony Movies Action
+http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest/scale-to-width-down/512" group-title="Kids",Boomerang
 udp://@225.1.4.16:30120
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7a/Cbeebies.svg/revision/latest/scale-to-width-down/512" group-title="Kids",BBC CBeebies
+http://51.52.156.22:8888/http/003
 #EXTM3U This can also be "cartoonhd"
 #EXTINF:-1 tvg-id="cartoon_network" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/512" group-title="Kids",Cartoon Network
 udp://@225.1.2.231:30120
