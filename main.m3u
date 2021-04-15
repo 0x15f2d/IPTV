@@ -58,8 +58,8 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/512" group-title="News",FOX News
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="france_24" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24
-udp://@225.1.2.211:30120
-#EXTINF:-1 tvg-id="null_epg" tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/ujet5lB.png" group-title="News",NBC News Now (XUMO)
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/ujet5lB.png" group-title="News",NBC News Now
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTM3U This is 2 hours ahead.
 #EXTINF:-1 tvg-id="nhk_world" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan
@@ -95,10 +95,10 @@ udp://@225.1.1.203:30120
 udp://@225.1.1.204:30120
 #EXTINF:-1 tvg-id="channel_v" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",Channel V
 udp://@225.1.1.188:30120
-#EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV
-udp://@225.1.2.227:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png" group-title="Entertainment",Comedy Central by Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV
+udp://@225.1.2.227:30120
 #EXTM3U This can also be "foxlifehd"
 #EXTINF:-1 tvg-id="fox_life" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",FOXlife
 udp://@225.1.2.237:30120
