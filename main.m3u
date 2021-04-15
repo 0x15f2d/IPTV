@@ -18,10 +18,8 @@ udp://@225.1.2.96:30120
 udp://@225.1.2.166:30120
 #EXTINF:-1 tvg-id="vtv9" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b9/VTV9_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="Vietnam Television",VTV9
 udp://@225.1.1.128:30120
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/zN9KmRM.png" group-title="News",ABC News Live
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest/scale-to-width-down/512" group-title="News",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="abc_australia" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512" group-title="News",ABC Australia
-udp://@225.1.2.21:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/EBqRGbD.png" group-title="News",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-id="bbc_world_news" tvg-logo="https://i.imgur.com/OfivZR7.png" group-title="News",BBC World News
@@ -59,7 +57,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="france_24" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/ujet5lB.png" group-title="News",NBC News Now
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/fBgbcxM.png" group-title="News",NBC News Now
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTM3U This is 2 hours ahead.
 #EXTINF:-1 tvg-id="nhk_world" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan
@@ -74,6 +72,8 @@ http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
 #EXTINF:-1 tvg-id="vtc14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="News",VTC14
 udp://@225.1.2.88:30120
+#EXTINF:-1 tvg-id="abc_australia" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",ABC Australia
+udp://@225.1.2.21:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/91/Adult_Swim.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Adult Swim
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 #EXTM3U This channel shifts 30 minutes behind. But you can't apply in here.
@@ -95,7 +95,7 @@ udp://@225.1.1.203:30120
 udp://@225.1.1.204:30120
 #EXTINF:-1 tvg-id="channel_v" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fb/Channel_V_HD.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",Channel V
 udp://@225.1.1.188:30120
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://images.pluto.tv/channels/5d4947590ba40f75dc29c26b/colorLogoPNG.png" group-title="Entertainment",Comedy Central by Pluto TV
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/2xykbHn.png" group-title="Entertainment",Comedy Central by Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="fashion_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Entertainment",Fashion TV
 udp://@225.1.2.227:30120
