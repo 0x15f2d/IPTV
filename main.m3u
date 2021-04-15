@@ -79,9 +79,9 @@ https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master.m3u8
 #EXTM3U This channel shifts 30 minutes behind. But you can't apply in here.
 #EXTINF:-1 tvg-id="asian_food_channel" tvg-shift="" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c2/Asian_Food_Network_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Asian Food Network
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Entertainment",BBC Food
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/asEQs5A.png" group-title="Entertainment",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Entertainment",BBC Home
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/36UCi4n.png" group-title="Entertainment",BBC Home
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="bbc_lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",BBC Lifestyle
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
@@ -120,7 +120,7 @@ http://203.162.235.41:16909
 http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Nippon TV
 http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png",MTV by Pluto TV
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/FBM90uH.png",MTV by Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/2U6uLaE.png" group-title="Entertainment",Paramount Network
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
