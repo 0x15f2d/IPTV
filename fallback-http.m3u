@@ -49,21 +49,25 @@ http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
 http://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c9/CBSNNY.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN New York
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8b/CBSNPittsburgh.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Pittsburgh
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7c/CBSNPhilly.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Philadelphia
 http://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN (720p@30fps)
-http://1111296894.rsc.cdn77.org/ls-54548-1/index.m3u8
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTM3U This channel is slower than realtime stream about 15 minutes.
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN (576i@25fps)
 http://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTM3U This channel is 6 hours ahead.
 #EXTINF:-1 tvg-id="dw" tvg-shift="-6" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",Deutsche Welle (400p@25fps)
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 #EXTM3U This channel is 6 hours ahead and 15 minutes late (Not confirmed).
 #EXTINF:-1 tvg-id="dw" tvg-shift="-6" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",Deutsche Welle (720p@25fps)
 http://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/512" group-title="News",FOX News
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="france_24" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/fBgbcxM.png" group-title="News",NBC News Now
@@ -76,6 +80,8 @@ https://raw.githubusercontent.com/0x15f2d/IPTV/main/nhk-world-japan.m3u8
 http://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/QT2D7li.png" group-title="News",Nippon TV News24
 https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-name="RTÉ News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/RTE_News_2014_Stacked.svg/revision/latest/scale-to-width-down/512" group-title="News",RTÉ News
+https://live.rte.ie/live/a/channel3/news.isml/news.m3u8
 #EXTINF:-1 tvg-id="rt-uk" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg/revision/latest/scale-to-width-down/512" group-title="News",Russia Today (United Kingdom)
 http://rt-uk.secure.footprint.net/1106.m3u8
 #EXTINF:-1 tvg-id="rt-america" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/RT_AMERICA_2018.png/revision/latest/scale-to-width-down/512" group-title="News",Russia Today (America)
@@ -84,6 +90,8 @@ http://rt-news-gd.secure2.footprint.net/1103.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
 #EXTINF:-1 tvg-id="vtc14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="News",VTC14
 http://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="ABC.au" tvg-logo="https://static.epg.best/au/ABC.au.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Entertainment",ABC TV
+https://c.mjh.nz/101002510251/
 #EXTM3U TODO: Can't find one alternative for this channel yet.
 #EXTINF:-1 tvg-id="abc_australia" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",ABC Australia
 udp://@225.1.2.21:30120
@@ -143,6 +151,8 @@ http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/FBM90uH.png" group-id="Entertainment",MTV by Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/43/PBS_America_logo.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",PBS America
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/2U6uLaE.png" group-title="Entertainment",Paramount Network
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/QTV1_logo.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",QTV1
