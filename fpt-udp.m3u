@@ -1,0 +1,387 @@
+#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg,http://gg.gg/epgbeartv,http://gg.gg/epgmytv,http://gg.gg/fptepg"
+
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1",VTV1
+udp://@225.1.2.249:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/2.png" tvg-id="vtv2",VTV2
+udp://@225.1.2.13:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png" tvg-id="vtv3",VTV3
+udp://@225.1.2.247:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/4.png" tvg-id="vtv4",VTV4
+udp://@225.1.2.20:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/5.png" tvg-id="vtv5",VTV5
+udp://@225.1.1.131:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/6.png" tvg-id="vtv6",VTV6
+udp://@225.1.2.245:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png" tvg-id="vtv7",VTV7
+udp://@225.1.2.96:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/68.png" tvg-id="vtv8",VTV8
+udp://@225.1.2.166:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/69.png" tvg-id="vtv9",VTV9
+udp://@225.1.1.128:30120
+
+#EXTINF:-1 group-title="An Viên" tvg-logo="https://i.imgur.com/NF5YDkn.png" tvg-id="btv9_an_vien",An Viên BTV9
+udp://@225.1.2.189:30120
+#EXTINF:-1 group-title="An Viên" tvg-id="btv10_ncm",NCM BTV10 
+udp://@225.1.1.225:30120
+#EXTINF:-1 group-title="An Viên" tvg-id="btv11_sam",SAM BTV11 
+udp://@225.1.1.224:30120
+#EXTINF:-1 group-title="An Viên" tvg-id="btv6_viet_teen",BTV6 2!IDOL VietTeen 
+udp://@225.1.1.223:30120
+
+#EXTINF:-1 group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV2.png" group-title="SCTV" tvg-id="sctv2_hd",SCTV2-AMC
+udp://@225.1.1.234:30120
+#EXTINF:-1 tvg-logo="http://iptv-cloud-services.000webhostapp.com/sctv8.png" group-title="SCTV" tvg-id="SCTV8-VITV",SCTV8-VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://mytv.com.vn/upload/channel/37.png" tvg-id="vtvcab3_the_thao_tv_sd",VTVcab3 Thể Thao TV
+http://tvheadend.trialsontvh.xyz:9981/stream/channelid/1787362280?ticket=DDCBCF19A13A1E6D9995C125F4F11B64C8CF4000&profile=pass
+#EXTINF:-1 group-title="VTV Cab" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png"  tvg-id="vtvcab11_vgs_shop",VTVcab11 VGS Shop
+udp://@225.1.2.167:30120
+#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://mytv.com.vn/upload/channel/39.png" tvg-id="vtvcab16_bong_da_tv_hd",VTVcab16 Bóng Đá TV
+http://tvheadend.trialsontvh.xyz:9981/stream/channelid/440263713?ticket=599AA88351A53C418327E0FAA5F1C582DFF65F7A&profile=pass
+
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/75.png" tvg-id="vtc1",VTC1
+udp://@225.1.2.254:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/21.png" tvg-id="vtc2",VTC2
+udp://@225.1.2.202:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/83.png" tvg-id="vtc3",VTC3
+udp://@225.1.2.251:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/186.png" tvg-id="vtc4_yeah1_family",VTC4
+udp://@225.1.2.200:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/187.png" tvg-id="vtc5",VTC5
+udp://@225.1.2.199:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/23.png" tvg-id="vtc6",VTC6
+udp://@225.1.2.198:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/188.png" tvg-id="vtc7_today_tv",VTC7
+udp://@225.1.2.197:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/164.png" tvg-id="vtc8",VTC8
+udp://@225.1.2.196:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/189.png" tvg-id="vtc9_lets_viet",VTC9
+udp://@225.1.2.195:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/116.png" tvg-id="vtc10",VTC10
+udp://@225.1.2.194:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/26.png" tvg-id="vtc11_kids_tv",VTC11
+udp://@225.1.2.193:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/phpWgYcFl_5e1d3209b5e25.png" tvg-id="vtc12",VTC12
+udp://@225.1.2.51:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/78.png" tvg-id="vtc13",VTC13
+udp://@225.1.2.250:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/207.png" tvg-id="vtc14",VTC14
+udp://@225.1.2.88:30120
+#EXTINF:-1 group-title="VTC" tvg-logo="https://mytv.com.vn/upload/channel/206.png" tvg-id="vtc16",VTC16
+udp://@225.1.2.190:30120
+
+#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/10.png" tvg-id="htv1",HTV1
+udp://@225.1.1.180:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/93.png" tvg-id="htv2",HTV2 Vie Channel
+udp://@225.1.1.193:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/87.png" tvg-id="htv3",HTV3 Dreams TV
+udp://@225.1.1.178:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/14.png" tvg-id="htv4",HTV4 Keys
+udp://@225.1.1.177:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/94.png" tvg-id="htv7",HTV7
+udp://@225.1.1.192:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/95.png" tvg-id="htv9",HTV9
+udp://@225.1.1.190:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/124.png"  tvg-id="htvc_thuan_viet",Thuần Việt SD
+udp://@225.1.1.174:30120
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/74.png" tvg-id="htvc_thuan_viet_hd",Thuần Việt
+udp://@225.1.1.186:30120
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/9.png" tvg-id="htvc_phu_nu",HTVC Phụ Nữ
+udp://@225.1.1.171:30120
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/77.png" tvg-id="htvc_phim_hd",HTVC Phim
+udp://@225.1.1.184:30120
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/107.png"  tvg-id="htvc_ca_nhac",HTVC Ca Nhạc
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/63.png"  tvg-id="htvc_du_lich_cuoc_song",Du Lịch & Cuộc Sống
+udp://@225.1.1.166:30120
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/64.png"  tvg-id="htvc_gia_dinh",HTVC Gia Đình
+udp://@225.1.1.170:30120
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/15.png" tvg-id="htv_the_thao",HTV  Thể Thao
+udp://@225.1.1.165:30120
+#EXTINF:-1 group-title="HTVC" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png" tvg-id="htvc_plus_hd",HTVC Plus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8?
+#EXTINF:-1 group-title="HTVC" tvg-logo="http://img.hplus.com.vn/355x200/poster/2018/08/02/451568-logo_htvc_shopping.png" tvg-id="htvc_vgs_shop",HTVC VGS SHOP
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8?
+#EXTINF:-1 group-title="HTVC" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2016-08-31/7613159-htv-coop.png" tvg-id="htvc_coop",HTV Coop
+udp://@225.1.1.210:30120
+#EXTINF:-1 group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png" tvg-id="htvc_fbnc",FBNC
+udp://@225.1.1.182:30120
+
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ"  tvg-logo="https://mytv.com.vn/upload/channel/133.png"  tvg-id="ttxvn",TTXVN
+udp://@225.1.1.43:30120
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://mytv.com.vn/upload/channel/90.png" tvg-id="VOV Vietnam Journey",VOV Vietnam Journey
+udp://@225.1.2.171:30120
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://mytv.com.vn/upload/channel/128.png"  tvg-id="nhan_dan_tv",Nhân Dân TV
+udp://@225.1.1.91:30120
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://mytv.com.vn/upload/channel/35.png" tvg-id="antv",ANTV
+udp://@225.1.2.169:30120
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://mytv.com.vn/upload/channel/71.png"  tvg-id="quoc_hoi_tv",QUỐC HỘI
+udp://@225.1.2.148:30120
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://mytv.com.vn/upload/channel/127.png" tvg-id="quoc_phong_tv",QPVN
+udp://@225.1.2.217:30120
+
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/24.png" tvg-id="thvl1",THVL1 TH Vĩnh Long  
+udp://@225.1.1.155:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/28.png" tvg-id="thvl2",THVL2 TH Vĩnh Long 
+udp://@225.1.1.154:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/29.png" tvg-id="thvl3",THVL3 TH Vĩnh Long 
+udp://@225.1.1.235:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/phpKczJ13_5d75cc55e9d4a.png"  tvg-id="NTV TH Nghệ An",NTV TH Nghệ An
+udp://@225.1.2.183:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://nbtv.vn/templates/frontend/nbtv/Assets/img/logo.png?t=v2"  tvg-id="NTB TH Ninh Bình",NTB TH Ninh Bình
+udp://@225.1.2.185:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/671.png"  tvg-id="ATV TH An Giang",ATV TH An Giang
+udp://@225.1.2.173:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/721.png"  tvg-id="BRT TH Bà Rịa Vũng Tàu",BRT TH Bà Rịa Vũng Tàu
+udp://@225.1.2.175:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/881.png"  tvg-id="VP TH Vĩnh Phúc",VP TH Vĩnh Phúc
+udp://@225.1.2.99:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/941.png"  tvg-id="BLTV TH Bạc Liêu",BLTV TH Bạc Liêu
+udp://@225.1.1.61:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/981.png"  tvg-id="BGTV TH Bắc Giang",BGTV TH Bắc Giang
+udp://@225.1.1.164:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/992.png"  tvg-id="BTV TH Bắc Ninh",BTV TH Bắc Ninh
+udp://@225.1.1.40:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/711.png"  tvg-id="THBT TH Bến Tre",THBT TH Bến Tre
+udp://@225.1.1.156:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/613.png"  tvg-id="BTV1 TH Bình Dương",BTV1 TH Bình Dương
+udp://@225.1.1.150:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/612.png"  tvg-id="BTV2 TH Bình Dương",BTV2 TH Bình Dương
+udp://@225.1.1.149:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/615.png" tvg-id="BTV4 iMovie TV",BTV4 iMovie TV
+udp://@225.1.1.30:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/121.png" tvg-id="LSTV TH Lạng Sơn",LSTV TH Lạng Sơn
+udp://@225.1.1.160:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/931.png"  tvg-id="BPTV1 TH Bình Phước",BPTV1 TH Bình Phước
+udp://@225.1.2.23:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/861.png"  tvg-id="BTV TH Bình Thuận",BTV TH Bình Thuận
+udp://@225.1.1.124:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/691.png" tvg-id="CTV TH Cà Mau",CTV TH Cà Mau
+udp://@225.1.1.104:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/111.png"  tvg-id="CRTV TH Cao Bằng",CRTV TH Cao Bằng
+udp://@225.1.1.104:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/651.png"  tvg-id="THTPCT TH Thành phố Cần Thơ",THTPCT TH Thành phố Cần Thơ
+udp://@225.1.1.132:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/431.png" tvg-id="DaNangTV1 TH Thành phố Đà Nẵng",DaNangTV1 TH Thành phố Đà Nẵng
+udp://@225.1.1.147:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/432.png"  tvg-id="DaNangTV2 TH Thành phố Đà Nẵng",DaNangTV2 TH Thành phố Đà Nẵng
+udp://@225.1.1.146:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/601.png"  tvg-id="ĐNRTV1 TH Đồng Nai",ĐNRTV1 TH Đồng Nai
+udp://@225.1.1.152:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/602.png"  tvg-id="ĐNRTV2 TH Đồng Nai",ĐNRTV2 TH Đồng Nai
+udp://@225.1.1.151:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/661.png"  tvg-id="THĐT1 TH Đồng Tháp",THĐT1 TH Đồng Tháp
+udp://@225.1.1.163:30120V
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/471.png"  tvg-id="DRT TH  Đắk Lắk",DRT TH  Đắk Lắk
+udp://@225.1.1.64:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/811.png"  tvg-id="THGL TH Gia Lai",THGL TH Gia Lai
+udp://@225.1.2.176:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/231.png"  tvg-id="HGTV TH Hà Giang",HGTV TH Hà Giang
+udp://@225.1.1.62:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/901.png"  tvg-id="THHN TH Hà Nam",THHN TH Hà Nam
+udp://@225.1.1.63:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/190.png" tvg-id="hanoitv1",H1 TH Hà Nội
+udp://@225.1.2.186:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/193.png" tvg-id="hanoitv2",H2 TH Hà Nội
+udp://@225.1.1.125:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/382.png"  tvg-id="HTTV TH Hà Tĩnh  ",HTTV TH Hà Tĩnh  
+udp://@225.1.1.75:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/751.png" tvg-id="TRT TH Thừa Thiên Huế",TRT TH Thừa Thiên Huế
+udp://@225.1.1.161:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/159.png"  tvg-id="THP TH Thành phố Hải Phòng ",THP TH Thành phố Hải Phòng 
+udp://@225.1.1.44:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/281.png"  tvg-id="HBTV TH Hòa Bình",HBTV TH Hòa Bình
+udp://@225.1.2.168:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/951.png"  tvg-id="HGTV TH Hậu Giang",HGTV TH Hậu Giang
+udp://@225.1.1.157:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/891.png"  tvg-id="HY TH Hưng Yên",HY TH Hưng Yên
+udp://@225.1.1.118:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/851.png" tvg-id="NTV TH Ninh Thuận",NTV TH Ninh Thuận
+udp://@225.1.2.178:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/791.png"  tvg-id="KTV TH Khánh Hòa",KTV TH Khánh Hòa
+udp://@225.1.1.133:30120 
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/683.png"  tvg-id="KG TH Kiên Giang",KG TH Kiên Giang
+udp://@225.1.2.182:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/821.png"  tvg-id="KRT TH Kon Tum",KRT TH Kon Tum
+udp://@225.1.1.36:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/491.png"  tvg-id="LTV TH Lâm Đồng",LTV TH Lâm Đồng
+udp://@225.1.2.177:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://la34.com.vn/wp-content/themes/carrington-mobile/img/logo.png"  tvg-id="LA34 TH Long An",LA34 TH Long An
+udp://@225.1.1.162:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/781.png"  tvg-id="PTP TH Phú Yên",PTP TH Phú Yên
+udp://@225.1.2.58:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/921.png"  tvg-id="QRT TH Quảng Nam",QRT TH Quảng Nam
+udp://@225.1.2.50:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/762.png"  tvg-id="PTQ TH Quảng Ngãi",PTQ TH Quảng Ngãi
+udp://@225.1.2.174:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/192.png"  tvg-id="PTQ TH Phú Thọ",PTV TH Phú Thọ
+udp://@225.1.2.165:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/731.png"  tvg-id="QBTV TH Quảng Bình",QBTV TH Quảng Bình
+udp://@225.1.2.164:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/741.png"  tvg-id="QRTV TH Quảng Trị",QRTV TH Quảng Trị
+udp://@225.1.1.117:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/phpIrxA96_5d75c781dc80b.jpg"  tvg-id="QTV1 TH Quảng Ninh",QTV1 TH Quảng Ninh
+udp://@225.1.2.181:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/phpVlcRWk_5d75c955981df.jpg"  tvg-id="QTV3 TH Quảng Ninh",QTV3 TH Quảng Ninh
+udp://@225.1.2.180:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/831.png"  tvg-id="STV1 TH Sóc Trăng",STV1 TH Sóc Trăng
+udp://@225.1.1.159:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://thst.vn/Content/images/stv2.png"  tvg-id="STV2 TH Sóc Trăng",STV2 TH Sóc Trăng
+http://115.78.3.164:8134/liveeventstv2.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/261.png"  tvg-id="STV TH Sơn La",STV TH Sơn La
+udp://@225.1.1.98:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/171.png"  tvg-id="TBTV TH Thái Bình",TBTV TH Thái Bình
+udp://@225.1.1.99:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/361.png"  tvg-id="TTV TH Thanh Hóa",TTV TH Thanh Hóa
+udp://@225.1.2.184:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/701.png"  tvg-id="TTV11 TH Tây Ninh",TTV11 TH Tây Ninh
+udp://@225.1.1.130:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/203.png"  tvg-id=" TN1 TH Thái Nguyên", TN1 TH Thái Nguyên
+udp://@225.1.2.179:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/631.png"  tvg-id="THTG TH Tiền Giang",THTG TH Tiền Giang
+udp://@225.1.2.170:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/841.png" tvg-id="THTV TH Trà Vinh",THTV TH Trà Vinh
+udp://@225.1.2.172:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/211.png" tvg-id="YTV TH Yên Bái",YTV TH Yên Bái
+udp://@225.1.1.39:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/221.png" tvg-id="TTV TH Tuyên Quang",TTV TH Tuyên Quang
+udp://@225.1.2.188:30120
+#EXTINF:-1 group-title="Địa phương" tvg-logo="https://mytv.com.vn/upload/channel/241.png"  tvg-id="THLC TH Lào Cai",THLC TH Lào Cai
+udp://@225.1.1.119:30120
+
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/183.png"  tvg-id="animal_planet",Animal Planet 
+udp://@225.1.1.231:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/220px-Asian_Food_Network.svg.png"  tvg-id="asian_food_netword",Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/177.png"  tvg-id="axn",AXN 
+udp://@225.1.2.225:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/170.png"  tvg-id="arirang",Arirang 
+udp://@225.1.1.201:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/177.png"  tvg-id="abc",ABC Australia
+udp://@225.1.2.21:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/163.png"  tvg-id="baby_tv_hd",Baby TV 
+udp://@225.1.2.146:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://scinema.australiascience.tv/wp-content/uploads/2017/03/BBC-earth-.png"  tvg-id="bbc_earth",BBC Earth 
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png"  tvg-id="bbc_word_new",BBC Word News
+udp://@225.1.2.74:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/100px-BBC_Lifestyle2.svg.png"  tvg-id="bbc_life_style",BBC Lifestyle 
+udp://@225.1.4.23:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png"  tvg-id="blue_ant_entertainment",Blue Ant Entertainment 
+udp://@225.1.1.203:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png"  tvg-id="blue_ant_extreme",Blue Ant Extreme 
+udp://@225.1.1.204:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png"  tvg-id="boomerang",Boomerang 
+udp://@225.1.4.16:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/184.png"  tvg-id="bloomberg",Bloomberg 
+udp://@225.1.4.18:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/179.png"  tvg-id="cartoon_network",Cartoon Network 
+udp://@225.1.2.231:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/220px-Channel_NewsAsia_logo_%28shape_only%29.svg.png"  tvg-id="cna",CNA
+udp://@225.1.1.202:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/180.png"  tvg-id="cnn",CNN
+udp://@225.1.4.17:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png"  tvg-id="cnbc",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/147.png"  tvg-id="channel_v",[V] 
+udp://@225.1.1.188:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png"  tvg-id="cinema_world_hd",CinemaWorld 
+udp://@225.1.1.142:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/148.png"  tvg-id="da_vinci_kids",Da Vinci Kids
+udp://@225.1.1.197:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Discovery-Asia%201.png"  tvg-id="discovery_asia",Discovery Asia 
+udp://@225.1.2.223:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/160.png"  tvg-id="discovery",Discovery Channel 
+udp://@225.1.1.238:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/178.png"  tvg-id="disney_channel",Disney Channel 
+udp://@225.1.2.158:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/145.png"  tvg-id="disney_junior",Disney Junior
+udp://@225.1.1.233:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/136.png"  tvg-id="dw",DW 
+udp://@225.1.1.46:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/137.png"  tvg-id="france_24",France 24
+udp://@225.1.2.211:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/162.png"  tvg-id="fashion_tv",Fashion TV 
+udp://@225.1.2.227:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/162.png"  tvg-id="Ffashion_tv",Fashion 4K
+udp://@225.1.2.234:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/85.png"  tvg-id="fox",FOX 
+udp://@225.1.1.51:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/53.png"  tvg-id="fox_life",FOX life 
+udp://@225.1.2.237:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/52.png"  tvg-id="fox_movies",FOX MOVIES 
+udp://@225.1.2.239:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://www.foxsports.com.vn/message/images/fox-logo.png"  tvg-id="fox_sports",FOX SPORTS 
+udp://@225.1.2.229:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports2.png"  tvg-id="fox_sports2",FOX SPORTS 2 
+udp://@225.1.1.141:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png"  tvg-id="fox_sports3",FOX SPORTS 3 
+udp://@225.1.2.242:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/173.png"  tvg-id="hbo",HBO 
+udp://@225.1.2.233:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KIX_Logo_2014.jpg/240px-KIX_Logo_2014.jpg"  tvg-id="kix_hd",KIX 
+udp://@225.1.2.144:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/138.png"  tvg-id="kbs_world",KBS World 
+udp://@225.1.1.196:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/174.png"  tvg-id="cinemax",CINEMAX 
+udp://@225.1.2.86:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/46.png"  tvg-id="national_geographic",NATIONAL GEOGRAPHIC 
+udp://@225.1.2.235:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/50.png"  tvg-id="nhk_world ",NHK WORLD JAPAN 
+udp://@225.1.1.47:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/220px-NBC_logo_%282013%29.svg.png"  tvg-id="nbc",NBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/108.png"  tvg-id="outdoor_channel",Outdoor Channel 
+udp://@225.1.2.215:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/142.png"  tvg-id="red_by_hbo",RED BY HBO 
+udp://@225.1.1.93:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/185.png"  tvg-id="tlc",TLC 
+udp://@225.1.1.236:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/65.png"  tvg-id="tv5_monde",TV5 MONDE 
+udp://@225.1.1.200:30120
+#EXTINF:-1 group-title="Quốc tế" tvg-logo="https://mytv.com.vn/upload/channel/165.png"  tvg-id="warner_tv_hd",WBTV 
+udp://@225.1.1.139:30120
+
+#EXTINF:-1 group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/phpoFg1VQ_5d7659f638821.png"  tvg-id="kplus1hd",K+1 (DRM)
+udp://@225.1.1.5:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/phpTi2fFZ_5d7659dccf2da.png"  tvg-id="kplusnshd",K+NS (DRM)
+udp://@225.1.1.6:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/phpky6LWv_5d765a037252a.png"  tvg-id="kpluspmhd",K+PM (DRM)
+udp://@225.1.1.73:30120
+#EXTINF:-1 group-title="K+" tvg-logo="https://mytv.com.vn/upload/channel/phpdWNqGa_5d765a2419123.png"  tvg-id="kpluspchd",K+PC (DRM)
+udp://@225.1.1.77:30120
+
+#EXTINF:-1 group-title="Other" tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=https://i.imgur.com/Opop7gh.png"  tvg-id="hanoicab2_youtv",youTV Hanoicab2
+udp://@225.1.1.207:30120
+#EXTINF:-1 group-title="Other" tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=http://i.imgur.com/9fXGX5G.png"  tvg-id="hanoicab4_mov",MOV Hanoicab4
+udp://@225.1.1.206:30120
+#EXTINF:-1 tvg-name="MTV" group-title="Other" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/MTV.png"  tvg-id="MTV",MTV
+udp://@225.1.1.245:30120
+#EXTINF:-1 group-title="Other" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png"  tvg-id="Vietnamnet",Vietnamnet
+udp://@225.1.1.194:30120
+
+#EXTINF:-1 group-title="FPT Service" tvg-logo="http://www.dolifehospital.vn/uploads/plugin/setting/3/1580458426-21507-b-nh-vi-n-qu-c-t-dolife.png" tvg-id="Dolife Hospital",Dolife Hospital
+udp://@225.1.1.127:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://themirahotel.com.vn/wp-content/uploads/2019/09/logo-trang.png" tvg-id="The Mira Hotel",The Mira Hotel
+udp://@225.1.1.123:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://dmaevvtdousx6.cloudfront.net/uploads/2018/08/Logo_hero.svg" tvg-id="The Ocean Resort",The Ocean Resort
+udp://@225.1.1.121:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Giới Thiệu Chương Trình",FPT Giới Thiệu Chương Trình
+udp://@225.1.1.2:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Giới Thiệu Dịch Vụ",FPT Giới Thiệu Dịch Vụ
+udp://@225.1.1.137:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Mở Két",FPT Mở Két
+udp://@225.1.1.26:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Mở Két",FPT Mở Két
+udp://@225.1.1.97:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Thể Thao",FPT Thể Thao
+udp://@225.1.2.252:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Feed",FPT Feed
+udp://@225.1.1.11:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Feed",FPT Feed
+udp://@225.1.2.100:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Feed",FPT Feed
+udp://@225.1.2.102:30120
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="Unknown",Unknown
+udp://@225.1.4.30:30120
