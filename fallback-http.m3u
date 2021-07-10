@@ -141,7 +141,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fb/QTV3_logo.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",QTV3
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
-#EXTINF:-1 tvg-id="tlc" tvg-shift="+6" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",The Learning Channel
+#EXTINF:-1 tvg-id="tlc" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",The Learning Channel
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Tokyo Broadcasting System
 http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
