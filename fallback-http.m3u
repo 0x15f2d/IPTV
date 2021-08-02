@@ -117,8 +117,8 @@ http://vips-livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist.m3u8
 #EXTM3U This can also be "foxlifehd"
 #EXTINF:-1 tvg-id="fox_life" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",FOXlife
 http://vips-livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d0/ITV_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Independent Television 1
-https://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d0/ITV_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/nZ72nzb.png" group-title="Entertainment",JSTV 2
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",NHK Premium (Satelite)
