@@ -142,9 +142,8 @@ http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="vtc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/512px-VTC1_logo_2018.svg.png" group-title="Entertainment",VTC1
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="warner_tv_hd" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png" group-title="Entertainment",Warner Brothers TV
-http://vips-livecdn.fptplay.net/hda3/warnertv_hls.smil/chunklist.m3u8
-#EXTM3U This is now Warner Bros. TV
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+#http://vips-livecdn.fptplay.net/hda3/warnertv_hls.smil/chunklist.m3u8
 #http://vips-livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTM3U This can also be "animalhd"
