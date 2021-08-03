@@ -116,6 +116,7 @@ udp://@225.1.1.236:30120
 http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 #https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
+#https://stream.funcontent.ru/hls/vivarussia/index.m3u8
 #EXTINF:-1 tvg-id="vtc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/512px-VTC1_logo_2018.svg.png" group-title="Entertainment",VTC1
 udp://@225.1.2.254:30120
 #EXTINF:-1 tvg-id="warner_tv_hd" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png" group-title="Entertainment",Warner Brothers TV
