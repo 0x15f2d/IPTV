@@ -183,17 +183,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="hbosignaturehd-asia" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTM3U This one is 1 hr "ahead".
-#EXTINF:-1 tvg-id="red_by_hbo" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",Red by HBO
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTM3U This tvg-id can also be "max_by_hbo"
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-shift="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax (Vietnam)
 udp://@225.1.2.86:30120
 #EXTM3U This tvg-id can also be "hbo"
 #EXTINF:-1 tvg-id="hbohd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",HBO (Vietnam)
 udp://@225.1.2.233:30120
-#EXTINF:-1 tvg-id="red_by_hbo" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/RED_by_HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",Red by HBO (Vietnam)
-udp://@225.1.1.93:30120
 #EXTINF:-1 tvg-id="boomerang" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e6/Boomerang_2014.png/revision/latest/scale-to-width-down/512" group-title="Kids",Boomerang
 udp://@225.1.4.16:30120
 #EXTM3U This tvg-id can also be "cartoon_network"
