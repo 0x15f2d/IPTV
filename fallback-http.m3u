@@ -42,11 +42,10 @@ http://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest/scale-to-width-down/512" group-title="News",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTM3U This tvg-id can also be "bbc_world_news"
-#EXTM3U TODO: This channel might have incorrect EPG timing if it's RTC stream.
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-logo="https://i.imgur.com/OfivZR7.png" group-title="News",BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTM3U This channel is slower than realtime stream about 15 minutes. Neither hls.smil or vhls.smil are not avaliable for this channel.
-#http://vips-livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTM3U This channel is slower than realtime stream about 10 minutes. Neither hls.smil or vhls.smil are not avaliable for this channel.
+#EXTM3U This channel is in United Kingdom so it's 7 hours behind.
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="-7" tvg-logo="https://i.imgur.com/OfivZR7.png" group-title="News",BBC World News (Asia)
+http://vips-livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/28/CBSN_2021.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Nationwide
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f5/CBSNBA.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Bay Area
