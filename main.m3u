@@ -23,10 +23,9 @@ udp://@225.1.1.128:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest/scale-to-width-down/512" group-title="News",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTM3U This tvg-id can also be "bbc_world_news"
-#EXTM3U This channel is slower than realtime stream about 10 minutes. Neither hls.smil or vhls.smil are not avaliable for this channel.
-#EXTM3U This channel is in United Kingdom so it's 6 hours behind.
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="-6" tvg-logo="https://i.imgur.com/OfivZR7.png" group-title="News",BBC World News (Asia)
-http://vips-livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTM3U This channel is slower than realtime stream about 10 minutes.
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="" tvg-logo="https://i.imgur.com/OfivZR7.png" group-title="News",BBC World News (Asia)
+udp://@225.1.2.74:30120
 #EXTM3U This channel is slower than realtime stream about 15 minutes. Neither hls.smil or vhls.smil are not avaliable for this channel.
 #http://vips-livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/28/CBSN_2021.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Nationwide
@@ -53,20 +52,20 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa
 http://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
 #EXTINF:-1 tvg-id="cnbc" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/512" group-title="News",CNBC
 udp://@225.1.1.227:30120
+#EXTM3U This channel is might 15 minutes behind the RTC http stream.
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN
 udp://@225.1.4.17:30120
-#EXTM3U This channel is 6 hours ahead if RTC.
-#EXTINF:-1 tvg-id="dw" tvg-shift="-6" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",DW
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-#EXTM3U This channel is 6 hours ahead and 15 minutes late (Not confirmed).
-#http://vips-livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist.m3u8
+#EXTM3U Can't tell if RTC.
+#EXTINF:-1 tvg-id="dw" tvg-shift="" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",DW
+udp://@225.1.1.46:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/512" group-title="News",FOX News
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTM3U This tvg-id can also be "france_24"
-#EXTINF:-1 tvg-id="france24eng" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTM3U Can't tell if RTC.
+#EXTINF:-1 tvg-id="france24eng" tvg-shift="" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24
+udp://@225.1.2.211:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/fBgbcxM.png" group-title="News",NBC News Now
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 
@@ -94,7 +93,7 @@ udp://@225.1.2.21:30120
 udp://@225.1.1.198:30120
 #EXTM3U This tvg-id can also be "bbc_lifestyle"
 #EXTINF:-1 tvg-id="bbclifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",BBC Lifestyle
-http://vips-livecdn.fptplay.net/qnetlive/bbclifestyle_hls.smil/chunklist.m3u8
+udp://@225.1.4.23:30120
 #EXTM3U This tvg-id can also be "blue_ant_entertainment"
 #EXTINF:-1 tvg-id="blueantent" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2d/Blue_Ant_Entertainment.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Blue Ant Entertainment
 udp://@225.1.1.203:30120
@@ -114,9 +113,9 @@ udp://@225.1.2.237:30120
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/nZ72nzb.png" group-title="Entertainment",JSTV 2
 http://203.162.235.41:16901
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",NHK Premium (Satelite)
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",NHK BSP
 http://203.162.235.41:16910
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",NHK 1 (Satelite)
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",NHK BS1
 http://203.162.235.41:16909
 #EXTINF:-1 tvg-id="paramouthd" tvg-logo="https://i.imgur.com/2U6uLaE.png" group-title="Entertainment",Paramount Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
@@ -132,7 +131,8 @@ http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 #https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 #https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #https://stream.funcontent.ru/hls/vivarussia/index.m3u8
-#EXTINF:-1 tvg-id="vtc1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/512px-VTC1_logo_2018.svg.png" group-title="Entertainment",VTC1
+#EXTM3U This tvg-id can also be "vtc1"
+#EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/VTC1_logo_2018.svg/512px-VTC1_logo_2018.svg.png" group-title="Entertainment",VTC1
 udp://@225.1.2.254:30120
 #EXTM3U This tvg-id can also be "warner_tv_hd"
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png" group-title="Entertainment",Warner Brothers TV
@@ -165,7 +165,8 @@ http://vips-livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist.m3u8
 #EXTM3U This tvg-id can also be "cinema_world_hd"
 #EXTINF:-1 tvg-id="cinemaworldhd" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="Movies",CinemaWorld
 udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="fox_movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Movies
+#EXTM3U This tvg-id can also be "fox_movies"
+#EXTINF:-1 tvg-id="foxmovieshd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/ae/Fox_Movies_%28Asia%29.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Movies
 udp://@225.1.2.239:30120
 #EXTM3U This tvg-id can also be "fox_family_movies"
 #EXTINF:-1 tvg-id="foxfamilymovieshd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/FOXFamilyMovies.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Family Movies
