@@ -76,7 +76,8 @@ https://raw.githubusercontent.com/0x15f2d/IPTV/main/nhk-world-japan.m3u8
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
-#EXTINF:-1 tvg-id="vtc14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="News",VTC14
+#EXTM3U This tvg-id can also be "vtc14"
+#EXTINF:-1 tvg-id="vtc14hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/VTC14_logo_2018.svg/512px-VTC14_logo_2018.svg.png" group-title="News",VTC14
 udp://@225.1.2.88:30120
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/eF6g7cU.png" group-title="Entertainment",1HD Music Television
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
