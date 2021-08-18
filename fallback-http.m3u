@@ -198,7 +198,7 @@ http://vips-livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 #EXTM3U This tvg-id can also be "fox_family_movies"
 #EXTINF:-1 tvg-id="foxfamilymovieshd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/FOXFamilyMovies.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Family Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTM3U This tvg-id can also be "max_by_hbo", "4hd"
+#EXTM3U This tvg-id can also be "max_by_hbo", "chinemaxhd" but they need to have timeshift
 #EXTINF:-1 tvg-id="cinemaxhd-asia" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTM3U This tvg-id can also be "hbo"
