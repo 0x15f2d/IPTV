@@ -129,8 +129,6 @@ http://vips-livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist.m3u8
 #EXTM3U This tvg-id can also be "fox_life"
 #EXTINF:-1 tvg-id="foxlifehd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f9/FOXLifeLA.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",FOXlife
 http://vips-livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d0/ITV_logo_2019.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/nZ72nzb.png" group-title="Entertainment",JSTV 2
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",NHK BSP
@@ -200,7 +198,7 @@ http://vips-livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist.m3u8
 #EXTM3U This tvg-id can also be "fox_family_movies"
 #EXTINF:-1 tvg-id="foxfamilymovieshd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/FOXFamilyMovies.svg/revision/latest/scale-to-width-down/512" group-title="Movies",FOX Family Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTM3U This tvg-id can also be "max_by_hbo", "cinemaxhd"
+#EXTM3U This tvg-id can also be "max_by_hbo", "4hd"
 #EXTINF:-1 tvg-id="cinemaxhd-asia" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTM3U This tvg-id can also be "hbo"
