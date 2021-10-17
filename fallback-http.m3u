@@ -6,7 +6,7 @@
 #EXTM3U chunklist.m3u8 is the parent of bitrates like 450000 (270p), 1200000 (360p), 1800000 (480p), 2500000 (720p Most common with old CDN), 5000000 (1080i) {chunklist_b2800000.m3u8}
 #EXTM3U qnetlive (low end) could be replaced with higher end stream hda3
 #EXTM3U VTV1-6 (Not 5) are hda1. The rest are hda2. VTV7 hda3
-#EXTM3U TODO: Some links here are dead. Please update them.
+#EXTM3U TODO: Either deprecating (Most likely) this or update it.
 #EXTM3U http://gg.gg/gh-iptv-web
 
 #EXTM3U These are dead???? https://dl.dropboxusercontent.com/s/ohcllgf432d97bk/epg.xml,http://chipcun.dynu.com:8080/Upload/IPTV_M3U/mytv_rtp_epg/mytvepg.xml
