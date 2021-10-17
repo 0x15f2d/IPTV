@@ -302,6 +302,20 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" group-title="Internationals" tvg-logo="https://i.ibb.co/BwJ025N/Channel-News-Asia-BEARTV.png",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTM3U This tvg-id can also be "max_by_hbo", "chinemaxhd" but they need to have timeshift
+#EXTINF:-1 tvg-id="cinemaxhd-asia" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Go",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTM3U This tvg-id can also be "hbo"
+#EXTINF:-1 tvg-id="hbohd-asia" tvg-shift="0" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" group-title="HBO Go",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="hbofamilyhd-asia" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/512px-HBO_Family_Asia_logo.svg.png" group-title="HBO Go",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="hbohitshd-asia" tvg-shift="0" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/04/HBO_HiTS.svg/revision/latest/scale-to-width-down/512" group-title="HBO Go",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 tvg-id="hbosignaturehd-asia" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Go",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+
 #EXTINF:-1 tvg-id="cctv1" group-title="China" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png",CCTV-1
 #http://hdtv.lzu6.edu.cn/hls/cctv1hd.m3u8
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv1_2_hd.m3u8
