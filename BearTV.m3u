@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
 
-#EXTM3U BEARTV - Luôn cập nhật kênh ổn định (Snapshot 2021-10-17 20:58)
+#EXTM3U http://gg.gg/gh-iptv-beartv
+
+#EXTM3U BEARTV - Luôn cập nhật kênh ổn định (Snapshot 2021-10-17 21:00)
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png" tvg-chno="1" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTV1 HD
 #EXTVLCOPT:http-user-agent="BearTV"
