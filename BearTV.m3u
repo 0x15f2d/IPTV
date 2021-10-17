@@ -170,12 +170,12 @@ http://113.164.225.140:1935/live/quochoitvlive.stream_360p/chunklist_w880738422.
 http://rt-news-gd.secure2.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=false
+#EXTINF:-1 tvg-id="tv5monde" group-title="News" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png",TV5Monde Asie
+http://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="News" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png",VOV TV
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="News" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png",VNews
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="tv5monde" group-title="News" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png",TV5Monde Asie
-http://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="" group-title="Music" tvg-logo="https://i.ibb.co/ggNS5F5/1hdtv-BEARTV.png",1 Music Television
@@ -192,8 +192,10 @@ http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
 http://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Movies" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png",AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="Movies" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",Box Hits
+#EXTINF:-1 tvg-id="boxhits" group-title="Movies" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX Hits
 http://gg.gg/beartv-boxhit
+#EXTINF:0 tvg-id="boxmovie1" group-title="Movies" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png",BOX Movie 1
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd-asia" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Movies",Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Movies" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax (Vietnam)
@@ -211,8 +213,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:-1 tvg-id="hbosignaturehd-asia" tvg-shift="0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO Signature
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
-#EXTINF:0 tvg-id="boxmovie1" group-title="Movies" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png",Box Movie 1
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ABC.au" tvg-logo="https://static.epg.best/au/ABC.au.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Entertainment",ABC TV
