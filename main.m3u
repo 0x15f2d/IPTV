@@ -1,6 +1,6 @@
 #EXTM3U This playlist is for FPT ISP only.
-#EXTM3U url-tvg="http://gg.gg/epgbearlivetv"
 #EXTM3U TODO: Some links here are dead. Please update them.
+#EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
 #EXTM3U http://gg.gg/gh-iptv
 
 #EXTM3U These tvg-id can also be "vtvX"
