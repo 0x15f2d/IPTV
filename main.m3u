@@ -73,7 +73,7 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 
 #EXTM3U This channel is 2 hours ahead from GMT +7.
 #EXTM3U TODO: Rehost this channel Chromecast friendly with http only link.
-#EXTINF:-1 tvg-id="nhk_world" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-id="NHK World" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="News",NHK World Japan
 https://raw.githubusercontent.com/0x15f2d/IPTV/main/nhk-world-japan.m3u8
 #EXTINF:-1 tvg-id="rt-america" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/RT_AMERICA_2018.png/revision/latest/scale-to-width-down/512" group-title="News",Russia Today
 http://uiptv.do.am/1ufc/702424953/playlist.m3u8?streamType=live
