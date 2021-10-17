@@ -167,7 +167,7 @@ https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Movies" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax (Vietnam)
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Internationals" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png",Cinema World
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png",CinemaWorld
 http://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
 #EXTM3U This tvg-id can also be "hbo"
 #EXTINF:-1 tvg-id="hbohd-asia" tvg-shift="0" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" group-title="Movies",HBO
@@ -338,7 +338,7 @@ http://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Kids" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png",Cartoon Network
 http://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/qkPjJQh/Da-Vinci-BEARTV.png" group-title="Internationals",Da Vinci
+#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.ibb.co/qkPjJQh/Da-Vinci-BEARTV.png" group-title="Kids",Da Vinci
 http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="happykids"  group-title="Kids" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8
