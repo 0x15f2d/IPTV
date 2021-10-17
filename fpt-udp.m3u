@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/47shop_mytvepg,http://gg.gg/epgbeartv,http://gg.gg/epgmytv,http://gg.gg/fptepg"
+#EXTM3U url-tvg="http://gg.gg/epgbearlivetv"
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1",VTV1
 udp://@225.1.2.249:30120
