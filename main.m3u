@@ -1,6 +1,8 @@
 #EXTM3U This playlist is for FPT ISP only.
-#EXTM3U These are dead???? https://dl.dropboxusercontent.com/s/ohcllgf432d97bk/epg.xml,http://chipcun.dynu.com:8080/Upload/IPTV_M3U/mytv_rtp_epg/mytvepg.xml
-#EXTM3U url-tvg="http://megavie.live/schedule/epg.xml"
+#EXTM3U url-tvg="http://gg.gg/epgbearlivetv"
+#EXTM3U TODO: Some links here are dead. Please update them.
+#EXTM3U http://gg.gg/gh-iptv
+
 #EXTM3U These tvg-id can also be "vtvX"
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" group-title="VTV",VTV1
 udp://@225.1.2.249:30120
