@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="http://gg.gg/epgbearlivetv"
+#EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
+#EXTM3U URL http://gg.gg/gh-iptv-fpt-udp
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png" tvg-id="vtv1",VTV1
 udp://@225.1.2.249:30120
