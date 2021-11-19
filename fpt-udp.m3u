@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="vtv1hd",VTV1
 udp://@225.1.2.249:30120
-#EXTINF:-1 group-title="VTV" tvg-logo="ttp://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="vtv2hd",VTV2
+#EXTINF:-1 group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="vtv2hd",VTV2
 udp://@225.1.2.13:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" tvg-id="vtv3hd",VTV3
 udp://@225.1.2.247:30120
@@ -20,18 +20,9 @@ udp://@225.1.2.166:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b9/VTV9_%282013-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="vtv9hd",VTV9
 udp://@225.1.1.128:30120
 
-#EXTINF:-1 group-title="An Viên" tvg-id="btv6_viet_teen",BTV6
-udp://@225.1.1.223:30120
-#EXTINF:-1 group-title="An Viên" tvg-logo="https://i.imgur.com/NF5YDkn.png" tvg-id="btv9_an_vien",BTV9
-udp://@225.1.2.189:30120
-#EXTINF:-1 group-title="An Viên" tvg-id="btv10_ncm",BTV10 
-udp://@225.1.1.225:30120
-#EXTINF:-1 group-title="An Viên" tvg-id="btv11_sam",BTV11 
-udp://@225.1.1.224:30120
-
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV2.png" tvg-id="sctv2hd",SCTV2
+#EXTINF:-1 group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f0/SCTV2_logo_2021.png/revision/latest/scale-to-width-down/512?cb=20211119041326&path-prefix=vi" tvg-id="sctv2hd",SCTV2
 udp://@225.1.1.234:30120
-#EXTINF:-1 group-title="SCTV" tvg-logo="https://www.sctv.com.vn/Media/KenhTrai/SCTV6.png" tvg-id="sctv6hd",SCTV6
+#EXTINF:-1 group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/512?cb=20211119041328&path-prefix=vi" tvg-id="sctv6hd",SCTV6
 udp://@225.1.1.188:30120
 
 #EXTINF:-1 group-title="VTVCab" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" tvg-id="vtvcab11_vgs_shop",VTVcab11
@@ -94,8 +85,6 @@ udp://@225.1.1.166:30120
 udp://@225.1.1.170:30120
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/15.png" tvg-id="htvthethaohd",HTV Thể Thao
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="HTVC" tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2016-08-31/7613159-htv-coop.png" tvg-id="htvc_coop",HTV Coop
-udp://@225.1.1.210:30120
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png" tvg-id="htvcfbnc",FBNC
 udp://@225.1.1.182:30120
 
@@ -144,7 +133,7 @@ udp://@225.1.4.18:30120
 udp://@225.1.2.231:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/BwJ025N/Channel-News-Asia-BEARTV.png" tvg-id="cna",CNA
 udp://@225.1.1.202:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/180.png" tvg-id="cnn",CNN
+#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" tvg-id="cnn",CNN
 udp://@225.1.4.17:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-id="cnbc",CNBC
 udp://@225.1.1.227:30120
@@ -152,7 +141,7 @@ udp://@225.1.1.227:30120
 udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/148.png" tvg-id="davinci",Da Vinci Kids
 udp://@225.1.1.197:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Discovery-Asia%201.png" tvg-id="discoveryasiahd",Discovery Asia 
+#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" tvg-id="discoveryasiahd",Discovery Asia 
 udp://@225.1.2.223:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" tvg-id="discoveryhd",Discovery 
 udp://@225.1.1.238:30120
@@ -178,23 +167,15 @@ udp://@225.1.2.235:30120
 udp://@225.1.1.47:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/108.png" tvg-id="outdoorhd",Outdoor Channel 
 udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/185.png" tvg-id="tlchd",TLC 
+#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png" tvg-id="tlchd",TLC 
 udp://@225.1.1.236:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/65.png" tvg-id="tv5monde",TV5Monde Asie 
 udp://@225.1.1.200:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/165.png" tvg-id="warnertvhd",WBTV 
 udp://@225.1.1.139:30120
 
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=https://i.imgur.com/Opop7gh.png" tvg-id="hanoicab2_youtv",youTV Hanoicab2
+#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=https://i.imgur.com/Opop7gh.png" tvg-id="hanoicab2_youtv",Hanoicab2
 udp://@225.1.1.207:30120
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=http://i.imgur.com/9fXGX5G.png" tvg-id="hanoicab4_mov",MOV Hanoicab4
-udp://@225.1.1.206:30120
 
-#EXTINF:-1 group-title="FPT Service" tvg-logo="http://www.dolifehospital.vn/uploads/plugin/setting/3/1580458426-21507-b-nh-vi-n-qu-c-t-dolife.png" tvg-id="Dolife Hospital",Dolife Hospital
-udp://@225.1.1.127:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://themirahotel.com.vn/wp-content/uploads/2019/09/logo-trang.png" tvg-id="mira-hotel",The Mira Hotel
-udp://@225.1.1.123:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://dmaevvtdousx6.cloudfront.net/uploads/2018/08/Logo_hero.svg" tvg-id="Ocean-Resort",The Ocean Resort
-udp://@225.1.1.121:30120
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="fpt-previews",FPT Shows Trailers
 udp://@225.1.1.2:30120
