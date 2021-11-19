@@ -150,9 +150,9 @@ udp://@225.1.2.211:30120
 udp://@225.1.2.227:30120
 #EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" tvg-id="hbohd",HBO
 udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg/revision/latest/scale-to-width-down/512" tvg-id="kix",KIX 
+#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/743px-KIX_logo.svg.png" tvg-id="kix",KIX 
 udp://@225.1.2.144:30120
-#EXTINF:-1 tvg-name="MTV" group-title="Other" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png" tvg-id="mtvhd",MTV
+#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png" tvg-id="mtvhd",MTV
 udp://@225.1.1.245:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/138.png" tvg-id="kbsworld",KBS World 
 udp://@225.1.1.196:30120
@@ -173,6 +173,3 @@ udp://@225.1.1.139:30120
 
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="https://i.imgur.com/Opop7gh.png" tvg-id="hanoicab2_youtv",Hanoicab2
 udp://@225.1.1.207:30120
-
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="fpt-previews",FPT Shows Trailers
-udp://@225.1.1.2:30120
