@@ -192,23 +192,9 @@ udp://@225.1.1.206:30120
 
 #EXTINF:-1 group-title="FPT Service" tvg-logo="http://www.dolifehospital.vn/uploads/plugin/setting/3/1580458426-21507-b-nh-vi-n-qu-c-t-dolife.png" tvg-id="Dolife Hospital",Dolife Hospital
 udp://@225.1.1.127:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://themirahotel.com.vn/wp-content/uploads/2019/09/logo-trang.png" tvg-id="The Mira Hotel",The Mira Hotel
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://themirahotel.com.vn/wp-content/uploads/2019/09/logo-trang.png" tvg-id="mira-hotel",The Mira Hotel
 udp://@225.1.1.123:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://dmaevvtdousx6.cloudfront.net/uploads/2018/08/Logo_hero.svg" tvg-id="The Ocean Resort",The Ocean Resort
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://dmaevvtdousx6.cloudfront.net/uploads/2018/08/Logo_hero.svg" tvg-id="Ocean-Resort",The Ocean Resort
 udp://@225.1.1.121:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Giới Thiệu Chương Trình",FPT Giới Thiệu Chương Trình
+#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="fpt-previews",FPT Shows Trailers
 udp://@225.1.1.2:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Mở Két",FPT Mở Két
-udp://@225.1.1.26:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Mở Két",FPT Mở Két
-udp://@225.1.1.97:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Thể Thao",FPT Thể Thao
-udp://@225.1.2.252:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Feed",FPT Feed
-udp://@225.1.1.11:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Feed",FPT Feed
-udp://@225.1.2.100:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="FPT Feed",FPT Feed
-udp://@225.1.2.102:30120
-#EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="Unknown",Unknown
-udp://@225.1.4.30:30120
