@@ -25,9 +25,6 @@ udp://@225.1.1.234:30120
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/512?cb=20211119041328&path-prefix=vi" tvg-id="sctv6hd",SCTV6
 udp://@225.1.1.188:30120
 
-#EXTINF:-1 group-title="VTVCab" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png" tvg-id="vtvcab11_vgs_shop",VTVcab11
-udp://@225.1.2.167:30120
-
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png" tvg-id="vtc1hd",VTC1
 udp://@225.1.2.254:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/7WwzKSj/VTC2-BEARTV.png" tvg-id="vtc2",VTC2
@@ -59,17 +56,17 @@ udp://@225.1.2.88:30120
 #EXTINF:-1 group-title="VTC" tvg-logo="https://i.ibb.co/WfHrTR3/VTC16-BEARTV.jpg" tvg-id="vtc16",VTC16
 udp://@225.1.2.190:30120
 
-#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/10.png" tvg-id="htv1",HTV1
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e5/HTV1_screenbug_logo.png/revision/latest/scale-to-width-down/512" tvg-id="htv1",HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/93.png" tvg-id="htv2",HTV2
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/HTV2_%282019-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="htv2",HTV2
 udp://@225.1.1.193:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/87.png" tvg-id="htv3",HTV3
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2b/HTV3_logo_2019-present.png/revision/latest/scale-to-width-down/512" tvg-id="htv3",HTV3
 udp://@225.1.1.178:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png" tvg-id="htvkey",HTV Key
 udp://@225.1.1.177:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/94.png" tvg-id="htv7hd",HTV7
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/67/HTV7_%282017-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="htv7hd",HTV7
 udp://@225.1.1.192:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/95.png" tvg-id="htv9hd",HTV9
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/HTV9_%282016-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="htv9hd",HTV9
 udp://@225.1.1.190:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/124.png" tvg-id="htvcthuanviet",Thuần Việt
 udp://@225.1.1.174:30120
@@ -90,7 +87,7 @@ udp://@225.1.1.182:30120
 
 #EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/35.png" tvg-id="antvhd",ANTV
 udp://@225.1.2.169:30120
-#EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/128.png" tvg-id="nhandan",Nhân Dân
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/22/Nh%C3%A2n_d%C3%A2n_TV.png/revision/latest/scale-to-width-down/512?cb=20201017143844&path-prefix=vi" tvg-id="nhandan",Nhân Dân
 udp://@225.1.1.91:30120
 #EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/71.png" tvg-id="quochoi",Quốc Hội
 udp://@225.1.2.148:30120
@@ -141,11 +138,11 @@ udp://@225.1.1.227:30120
 udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/148.png" tvg-id="davinci",Da Vinci Kids
 udp://@225.1.1.197:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" tvg-id="discoveryasiahd",Discovery Asia 
-udp://@225.1.2.223:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" tvg-id="discoveryhd",Discovery 
 udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/136.png" tvg-id="dw",DW 
+#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" tvg-id="discoveryasiahd",Discovery Asia 
+udp://@225.1.2.223:30120
+#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/Deutsche_Welle_2012.svg/revision/latest/scale-to-width-down/512" tvg-id="dw",Deutsche Welle
 udp://@225.1.1.46:30120
 #EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" tvg-id="france24eng",France 24 English
 udp://@225.1.2.211:30120
@@ -153,7 +150,7 @@ udp://@225.1.2.211:30120
 udp://@225.1.2.227:30120
 #EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" tvg-id="hbohd",HBO
 udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/Q8NX9GC/kix-BEARTV.png" tvg-id="kix",KIX 
+#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e0/KIX_Logo_2014.jpg/revision/latest/scale-to-width-down/512" tvg-id="kix",KIX 
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-name="MTV" group-title="Other" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png" tvg-id="mtvhd",MTV
 udp://@225.1.1.245:30120
@@ -174,7 +171,7 @@ udp://@225.1.1.200:30120
 #EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/165.png" tvg-id="warnertvhd",WBTV 
 udp://@225.1.1.139:30120
 
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=https://i.imgur.com/Opop7gh.png" tvg-id="hanoicab2_youtv",Hanoicab2
+#EXTINF:-1 group-title="Hanoicab" tvg-logo="https://i.imgur.com/Opop7gh.png" tvg-id="hanoicab2_youtv",Hanoicab2
 udp://@225.1.1.207:30120
 
 #EXTINF:-1 group-title="FPT Service" tvg-logo="https://truyenhinh.fpt.vn/wp-content/uploads/LOGO.png" tvg-id="fpt-previews",FPT Shows Trailers
