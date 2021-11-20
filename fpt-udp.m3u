@@ -85,91 +85,97 @@ udp://@225.1.1.165:30120
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png" tvg-id="htvcfbnc",FBNC
 udp://@225.1.1.182:30120
 
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png" tvg-id="abcaustralia",ABC Australia
+udp://@225.1.2.21:30120
 #EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/35.png" tvg-id="antvhd",ANTV
 udp://@225.1.2.169:30120
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" tvg-id="bbcworldnews",BBC Word News (Asia)
+udp://@225.1.2.74:30120
+#EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/184.png" tvg-id="bloomberg",Bloomberg
+udp://@225.1.4.18:30120
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/BwJ025N/Channel-News-Asia-BEARTV.png" tvg-id="cna",CNA
+udp://@225.1.1.202:30120
+#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-id="cnbc",CNBC
+udp://@225.1.1.227:30120
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" tvg-id="cnn",CNN
+udp://@225.1.4.17:30120
+#EXTINF:-1 group-title="News" tvg-shift="+2" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" tvg-id="dw",DW English
+udp://@225.1.1.46:30120
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" tvg-id="france24eng",France 24 English
+udp://@225.1.2.211:30120
 #EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/22/Nh%C3%A2n_d%C3%A2n_TV.png/revision/latest/scale-to-width-down/512?cb=20201017143844&path-prefix=vi" tvg-id="nhandan",Nhân Dân
 udp://@225.1.1.91:30120
+#EXTINF:-1 group-title="News"  tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" tvg-id="nhkworld",NHK World Japan
+udp://@225.1.1.47:30120
 #EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/71.png" tvg-id="quochoi",Quốc Hội
 udp://@225.1.2.148:30120
 #EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/127.png" tvg-id="qpvnhd",QPVN
 udp://@225.1.2.217:30120
-#EXTINF:-1 group-title="News"  tvg-logo="https://mytv.com.vn/upload/channel/133.png" tvg-id="ttxvnhd",TTXVN
+#EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/65.png" tvg-id="tv5monde",TV5Monde Asie 
+udp://@225.1.1.200:30120
+#EXTINF:-1 group-title="News"  tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" tvg-id="ttxvnhd",VNews
 udp://@225.1.1.43:30120
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png" tvg-id="vovtvhd",VOV
 udp://@225.1.2.171:30120
 
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png" tvg-id="animalhd",Animal Planet 
-udp://@225.1.1.231:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" tvg-id="afnhd",Asian Food Network
-udp://@225.1.1.198:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" tvg-id="axnhd",AXN 
-udp://@225.1.2.225:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png" tvg-id="arirang",Arirang 
-udp://@225.1.1.201:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png" tvg-id="abcaustralia",ABC Australia
-udp://@225.1.2.21:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/McZF8q4/Baby-TV-BEARTV.png" tvg-id="babytvhd",Baby TV 
-udp://@225.1.2.146:30120
-#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/45/BabyFirstTV.png/revision/latest/scale-to-width-down/512" tvg-id="babyfirst",BabyFirst
-udp://@225.1.1.137:30120
-#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/512" tvg-id="bbcearth",BBC Earth 
-udp://@225.1.2.24:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" tvg-id="bbcworldnews",BBC Word News (Asia)
-udp://@225.1.2.74:30120
-#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" tvg-id="bbclifestyle",BBC Lifestyle 
-udp://@225.1.4.23:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-BEARTV.png" tvg-id="blueantent",Blue Ant Entertainment (Rock Entertainment)
-udp://@225.1.1.203:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png" tvg-id="blueantext",Blue Ant Extreme (Rock Extreme)
-udp://@225.1.1.204:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" tvg-id="boomerang",Boomerang 
-udp://@225.1.4.16:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/184.png" tvg-id="bloomberg",Bloomberg
-udp://@225.1.4.18:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png" tvg-id="cartoonhd",Cartoon Network 
-udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/BwJ025N/Channel-News-Asia-BEARTV.png" tvg-id="cna",CNA
-udp://@225.1.1.202:30120
-#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" tvg-id="cnn",CNN
-udp://@225.1.4.17:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-id="cnbc",CNBC
-udp://@225.1.1.227:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" tvg-id="cinemaworldhd",CinemaWorld 
-udp://@225.1.1.142:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/148.png" tvg-id="davinci",Da Vinci Kids
-udp://@225.1.1.197:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" tvg-id="discoveryhd",Discovery 
-udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" tvg-id="discoveryasiahd",Discovery Asia 
-udp://@225.1.2.223:30120
-#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/Deutsche_Welle_2012.svg/revision/latest/scale-to-width-down/512" tvg-id="dw",Deutsche Welle
-udp://@225.1.1.46:30120
-#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" tvg-id="france24eng",France 24 English
-udp://@225.1.2.211:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" tvg-id="fashionhd",Fashion TV 
-udp://@225.1.2.227:30120
-#EXTINF:-1 group-title="International" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" tvg-id="hbohd",HBO
-udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/743px-KIX_logo.svg.png" tvg-id="kix",KIX 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/743px-KIX_logo.svg.png" tvg-id="kix",KIX 
 udp://@225.1.2.144:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png" tvg-id="mtvhd",MTV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png" tvg-id="mtvhd",MTV
 udp://@225.1.1.245:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/138.png" tvg-id="kbsworld",KBS World 
-udp://@225.1.1.196:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-id="cinemaxhd",Cinemax 
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-BEARTV.png" tvg-id="blueantent",Rock Entertainment
+udp://@225.1.1.203:30120
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png" tvg-id="blueantext",Rock Extreme
+udp://@225.1.1.204:30120
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" tvg-id="axnhd",AXN 
+udp://@225.1.2.225:30120
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" tvg-id="cinemaxhd",Cinemax 
 udp://@225.1.2.86:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png" tvg-id="ngchd",National Geographic 
-udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" tvg-id="nhkworld",NHK World Japan
-udp://@225.1.1.47:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/108.png" tvg-id="outdoorhd",Outdoor Channel 
-udp://@225.1.2.215:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png" tvg-id="tlchd",TLC 
-udp://@225.1.1.236:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/65.png" tvg-id="tv5monde",TV5Monde Asie 
-udp://@225.1.1.200:30120
-#EXTINF:-1 group-title="International" tvg-logo="https://mytv.com.vn/upload/channel/165.png" tvg-id="warnertvhd",WBTV 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" tvg-id="cinemaworldhd",CinemaWorld 
+udp://@225.1.1.142:30120
+#EXTINF:-1 group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" tvg-id="hbohd",HBO
+udp://@225.1.2.233:30120
+#EXTINF:-1 group-title="Movies" tvg-logo="https://mytv.com.vn/upload/channel/165.png" tvg-id="warnertvhd",WBTV 
 udp://@225.1.1.139:30120
+
+#EXTINF:-1 group-title="Nature" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png" tvg-id="animalhd",Animal Planet 
+udp://@225.1.1.231:30120
+#EXTINF:-1 group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/512" tvg-id="bbcearth",BBC Earth 
+udp://@225.1.2.24:30120
+#EXTINF:-1 group-title="Nature" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" tvg-id="discoveryasiahd",Discovery Asia 
+udp://@225.1.2.223:30120
+
+#EXTINF:-1 group-title="Science" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" tvg-id="discoveryhd",Discovery 
+udp://@225.1.1.238:30120
+#EXTINF:-1 group-title="Science" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png" tvg-id="ngchd",National Geographic 
+udp://@225.1.2.235:30120
+#EXTINF:-1 group-title="Science" tvg-logo="https://mytv.com.vn/upload/channel/108.png" tvg-id="outdoorhd",Outdoor Channel 
+udp://@225.1.2.215:30120
+#EXTINF:-1 group-title="Science" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png" tvg-id="tlchd",TLC 
+udp://@225.1.1.236:30120
+
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" tvg-id="afnhd",Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" tvg-id="bbclifestyle",BBC Lifestyle 
+udp://@225.1.4.23:30120
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" tvg-id="fashionhd",Fashion TV 
+udp://@225.1.2.227:30120
+
+#EXTINF:-1 group-title="Korean" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png" tvg-id="arirang",Arirang 
+udp://@225.1.1.201:30120
+#EXTINF:-1 group-title="Korean" tvg-logo="https://mytv.com.vn/upload/channel/138.png" tvg-id="kbsworld",KBS World 
+udp://@225.1.1.196:30120
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/McZF8q4/Baby-TV-BEARTV.png" tvg-id="babytvhd",Baby TV 
+udp://@225.1.2.146:30120
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/175px-Boomerang_2014_logo.svg.png" tvg-id="boomerang",Boomerang 
+udp://@225.1.4.16:30120
+#EXTINF:-1 group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/45/BabyFirstTV.png/revision/latest/scale-to-width-down/512" tvg-id="babyfirst",BabyFirst
+udp://@225.1.1.137:30120
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png" tvg-id="cartoonhd",Cartoon Network 
+udp://@225.1.2.231:30120
+#EXTINF:-1 group-title="Kids" tvg-logo="https://mytv.com.vn/upload/channel/148.png" tvg-id="davinci",Da Vinci Kids
+udp://@225.1.1.197:30120
 
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="https://i.imgur.com/Opop7gh.png" tvg-id="hanoicab2_youtv",Hanoicab2
 udp://@225.1.1.207:30120
