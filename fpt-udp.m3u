@@ -93,7 +93,7 @@ udp://@225.1.2.169:30120
 udp://@225.1.2.74:30120
 #EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/184.png" tvg-id="bloomberg",Bloomberg
 udp://@225.1.4.18:30120
-#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/BwJ025N/Channel-News-Asia-BEARTV.png" tvg-id="cna",CNA
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/512" tvg-id="cna",CNA
 udp://@225.1.1.202:30120
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/200px-CNBC_logo.svg.png" tvg-id="cnbc",CNBC
 udp://@225.1.1.227:30120
@@ -161,9 +161,10 @@ udp://@225.1.4.23:30120
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" tvg-id="fashionhd",Fashion TV 
 udp://@225.1.2.227:30120
 
-#EXTINF:-1 group-title="Korean" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png" tvg-id="arirang",Arirang 
+#EXTINF Though Korea time and Japan is the same but the offset is shifted correctly. Please do not change it.
+#EXTINF:-1 tvg-id="arirang" tvg-shift="-1" group-title="Korea" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png",Arirang
 udp://@225.1.1.201:30120
-#EXTINF:-1 group-title="Korean" tvg-logo="https://mytv.com.vn/upload/channel/138.png" tvg-id="kbsworld",KBS World 
+#EXTINF:-1 group-title="Korea" tvg-logo="https://mytv.com.vn/upload/channel/138.png" tvg-id="kbsworld",KBS World 
 udp://@225.1.1.196:30120
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/McZF8q4/Baby-TV-BEARTV.png" tvg-id="babytvhd",Baby TV 
