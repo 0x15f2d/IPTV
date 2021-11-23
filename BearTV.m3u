@@ -62,17 +62,17 @@ http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist.m3u8
 http://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://i.ibb.co/xzCm232/FBNC-BEARTV.png",FBNC
+#EXTINF:-1 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png",FBNC
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png",HTV1
+#EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e5/HTV1_screenbug_logo.png/revision/latest/scale-to-width-down/512",HTV1
 http://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png",HTV2
+#EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/HTV2_%282019-present%29.png/revision/latest/scale-to-width-down/512",HTV2
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2b/HTV3_logo_2019-present.png/revision/latest/scale-to-width-down/512",HTV3
 http://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" group-title="HTV",HTV7
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/67/HTV7_%282017-present%29.png/revision/latest/scale-to-width-down/512" group-title="HTV",HTV7
 http://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" group-title="HTV",HTV9
+#EXTINF:-1 tvg-id="htv9hd"tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/HTV9_%282016-present%29.png/revision/latest/scale-to-width-down/512" group-title="HTV",HTV9
 http://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png",HTV Key
 http://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist.m3u8
@@ -102,13 +102,13 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8|Referer=http://
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/77/VTVcab_6.png/revision/latest/scale-to-width-down/512?cb=20210909031326&path-prefix=vi",VTVCab 6
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/fa/VTVcab_8.png/revision/latest/scale-to-width-down/512?cb=20210909032922&path-prefix=vi",VTVCab8
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/fa/VTVcab_8.png/revision/latest/scale-to-width-down/512?cb=20210909032922&path-prefix=vi",VTVCab 8
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab8/index.m3u8?md5=cDM9L0-Fmb5YYGIm5x8dMQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f7/VTVcab_10.png/revision/latest/scale-to-width-down/512?cb=20210909034048&path-prefix=vi",VTVCab10
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f7/VTVcab_10.png/revision/latest/scale-to-width-down/512?cb=20210909034048&path-prefix=vi",VTVCab 10
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d6/VTVcab_16.png/revision/latest/scale-to-width-down/512?cb=20210909040537&path-prefix=vi" group-title="VTVCab",VTVCab16
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d6/VTVcab_16.png/revision/latest/scale-to-width-down/512?cb=20210909040537&path-prefix=vi" group-title="VTVCab",VTVCab 16
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd1/index.m3u8?md5=lpI7W1W0pFJXA6pGT3v5QQ&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/aa/VTVcab_20.png/revision/latest/scale-to-width-down/512?cb=20210909041916&path-prefix=vi",VTVCab20
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/aa/VTVcab_20.png/revision/latest/scale-to-width-down/512?cb=20210909041916&path-prefix=vi",VTVCab 20
 https://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
 
 
@@ -293,13 +293,13 @@ http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist.m3u8
 http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="Nature" tvg-logo="https://i.ibb.co/WVdSPsM/Love-Nature-TV-BEARTV.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ngwhd" group-title="Nature" tvg-logo="https://i.ibb.co/fxH50gT/Nat-Geo-Wild-HD-BEARTV.png",Nat Geo Wild
+#EXTINF:-1 tvg-id="ngwhd" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/National_Geographic_Wild_2018_%28Mini%29.svg/revision/latest/scale-to-width-down/512",Nat Geo Wild
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Science" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png",Discovery
 http://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ngchd" group-title="Science" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png",National Geographic
+#EXTINF:-1 tvg-id="ngchd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512",National Geographic
 http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Science" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png",Outdoor Channel
 http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8
