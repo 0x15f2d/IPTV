@@ -76,31 +76,27 @@ http://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist.m3u8
 http://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvkey" group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png",HTV Key
 http://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvccanhachd"tvg-logo="https://i.ibb.co/Qc2PXFp/HCTVCANHAC-BEARTV.png" group-title="HTV",HTVC Ca nhạc
+#EXTINF:-1 tvg-id="htvccanhachd"tvg-logo="https://i.ibb.co/Qc2PXFp/HCTVCANHAC-BEARTV.png" group-title="HTV",HTVC Ca Nhạc
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_coop" group-title="HTV" tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/200872-HTVCoop.png",HTV Co.op
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcdulichhd"tvg-logo="https://i.ibb.co/DgWJ4VF/HTVCDLCS-BEARTV.png" group-title="HTV",HTVC Du lịch & Cuộc sống
+#EXTINF:-1 tvg-id="htvcdulichhd"tvg-logo="https://i.ibb.co/DgWJ4VF/HTVCDLCS-BEARTV.png" group-title="HTV",HTVC Du Lịch & Cuộc Sống
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://i.ibb.co/V9V4Qxh/HTVCGIADINH-BEARTV.png" group-title="HTV",HTVC Gia đình
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="https://i.ibb.co/V9V4Qxh/HTVCGIADINH-BEARTV.png" group-title="HTV",HTVC Gia Đình
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV Thể thao
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="https://i.ibb.co/PGkqd9K/HTVTHETHAO-BEARTV.png",HTV Thể Thao
 http://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd"tvg-logo="https://i.ibb.co/WyXTCbC/HTVCPHIM-BEARTV.png" group-title="HTV",HTVC Phim
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcphunuhd"tvg-logo="https://i.ibb.co/vJq2yHS/HTVCPHUNU-BEARTV.png" group-title="HTV",HTVC Phụ nữ
+#EXTINF:-1 tvg-id="htvcphunuhd"tvg-logo="https://i.ibb.co/vJq2yHS/HTVCPHUNU-BEARTV.png" group-title="HTV",HTVC Phụ Nữ
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" tvg-logo="https://i.ibb.co/K2tfJM6/HTVCPLUS-BEARTV.png" group-title="HTV",HTVC+
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://i.ibb.co/Rp5f6BC/HTVCTHUANVIET-BEARTV.png" catchup-source="https://htvc271120.cdn.vnns.io/385dda608e5878fb7e62cb10efbc547e1632554064/thuanviet.cat.720p.tms/chunks_dvr_range-${start}-900.m3u8",Thuần Việt
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="HTV" tvg-logo="https://i.ibb.co/Rp5f6BC/HTVCTHUANVIET-BEARTV.png",Thuần Việt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="htvc_vgs_shop" group-title="HTV" tvg-logo="http://tvonline.vn/wp-content/uploads/2018/07/large_vgsshop.png",HTVC VGS Home Shopping
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f0/SCTV2_logo_2021.png/revision/latest/scale-to-width-down/512?cb=20211119041326&path-prefix=vi",SCTV2
 http://livecdn.fptplay.net/sda/sctv2_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f0/SCTV2_logo_2021.png/revision/latest/scale-to-width-down/512?cb=20211119041326&path-prefix=vi",SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/512?cb=20211119041328&path-prefix=vi",SCTV6
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist.m3u8
 
 
@@ -172,10 +168,10 @@ http://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist.m3u8
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Movies" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX Hits
 http://103.214.9.53/boxhits/mpegts
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Movies" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax
-http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png",CinemaWorld
 http://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Movies" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png",Cinemax
+http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 
@@ -213,12 +209,12 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Science" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png",Outdoor Channel
-http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Science" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png",Discovery
 http://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="Science" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png",National Geographic
 http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Science" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png",Outdoor Channel
+http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Science" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png",TLC
 http://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist.m3u8
 
@@ -259,13 +255,13 @@ http://203.162.235.41:16903
 http://gg.gg/gh-iptv-nhk-world-japan-hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="Japan",Nippon TV
 http://203.162.235.41:16905
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="Japan",TBS TV
+http://203.162.235.41:16907
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="Japan",TV Asahi
 http://203.162.235.41:16906
 #EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TV Tokyo
 http://203.162.235.41:16908
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="Japan",TBS TV
-http://203.162.235.41:16907
-#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",Wowow Prime
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",WOWOW Prime
 http://203.162.235.41:16916
 
 
