@@ -339,7 +339,6 @@ http://203.162.235.41:16910
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/NHK2020-.svg/revision/latest/scale-to-width-down/512" group-title="Japan",NHK G
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="nhkworld" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Japan",NHK World Japan
-#EXTINF http://203.162.235.41:16902
 http://gg.gg/gh-iptv-nhk-world-japan-hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="Japan",Nippon TV
 http://203.162.235.41:16905
