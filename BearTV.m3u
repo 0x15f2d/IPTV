@@ -190,8 +190,6 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="News" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png",ABC Australia
 http://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest/scale-to-width-down/512",ABC News
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/64baf190a85c4fdd9f67d5a3c856876d/index.mpd
 #EXTINF:-1 tvg-id="antvhd" group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/35.png",ANTV
 http://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3b/CBSN.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN
