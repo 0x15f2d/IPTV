@@ -342,7 +342,7 @@ http://203.162.235.41:16903
 http://gg.gg/gh-iptv-nhk-world-japan-hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="Japan",Nippon TV
 http://203.162.235.41:16905
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSv2C5K/TBS-BEARTV.png" group-title="Japan",TBS TV
+#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TBS
 http://203.162.235.41:16907
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="Japan",TV Asahi
 http://203.162.235.41:16906
