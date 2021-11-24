@@ -120,7 +120,7 @@ udp://@225.1.2.171:30120
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/743px-KIX_logo.svg.png" tvg-id="kix",KIX 
 udp://@225.1.2.144:30120
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/4WsJKSP/MTV-VN-BEARTV.png" tvg-id="mtvhd",MTV
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/512" tvg-id="mtvhd",MTV
 udp://@225.1.1.245:30120
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-BEARTV.png" tvg-id="blueantent",Rock Entertainment
 udp://@225.1.1.203:30120
@@ -147,7 +147,7 @@ udp://@225.1.2.223:30120
 
 #EXTINF:-1 group-title="Science" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png" tvg-id="discoveryhd",Discovery 
 udp://@225.1.1.238:30120
-#EXTINF:-1 group-title="Science" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png" tvg-id="ngchd",National Geographic 
+#EXTINF:-1 group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512" tvg-id="ngchd",National Geographic 
 udp://@225.1.2.235:30120
 #EXTINF:-1 group-title="Science" tvg-logo="https://mytv.com.vn/upload/channel/108.png" tvg-id="outdoorhd",Outdoor Channel 
 udp://@225.1.2.215:30120
