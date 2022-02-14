@@ -256,7 +256,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?bycoca|Refere
 #EXTINF:-1 tvg-id="hunan" group-title="Movies" tvg-logo="https://i.ibb.co/fNjFPVZ/Hunan-TV-BEARTV.png",Hunan TV
 http://140.207.241.3:8080/live/program/live/hnwshd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4c/In_The_Box_Channel_2017.png/revision/latest/scale-to-width-down/512?cb=20220212085738&path-prefix=vi",In the Box
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
+http://gg.gg/beartv-inthebox
 
 
 #EXTINF:-1 tvg-id="ABC.au" tvg-logo="https://static.epg.best/au/ABC.au.png" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Entertainment",ABC TV
