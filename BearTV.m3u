@@ -262,7 +262,7 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Movies" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/Logo_White400x200_0004_HWC.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="inthebox" group-title="Movies" tvg-logo="https://i.ibb.co/q5x9RbG/inthebox.png",In the Box
+#EXTINF:-1 tvg-id="inthebox" group-title="Movies" tvg-logo="https://i.ibb.co/pKZ43L1/inthebox.png",In the Box
 http://gg.gg/beartv-inthebox
 
 
@@ -291,7 +291,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?bycoca|Referer=ht
 #EXTINF:-1 tvg-id="fashionhd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png",Fashion TV
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Lifestyle" tvg-logo="https://i.ibb.co/JrMJf2G/Man-BEARTV.png",Man
-https://e4.endpoint.cdn.sctvonline.vn/hls/man-tv/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
+http://gg.gg/beartv-man
 #EXTINF:-1 tvg-id="woman" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?cb=20211017094017&path-prefix=vi",Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
 
