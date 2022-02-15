@@ -215,8 +215,8 @@ http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24 English
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/512?cb=20171128043059" group-title="News",FOX News Channel
-http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
+http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now (Florida)
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/fBgbcxM.png" group-title="News",NBC News Now
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
