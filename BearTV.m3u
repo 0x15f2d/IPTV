@@ -63,7 +63,7 @@ http://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png",FBNC
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+https://log5uwsgbvliv.vcdn.cloud/live/thunghiem/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e5/HTV1_screenbug_logo.png/revision/latest/scale-to-width-down/512",HTV1
 http://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/HTV2_%282019-present%29.png/revision/latest/scale-to-width-down/512",HTV2
@@ -177,6 +177,8 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=
 http://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/35.png",ANTV
 http://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="" group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/35.png",BBC World News (United Kingdom)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3b/CBSN.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f5/CBSNBA.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Bay Area
@@ -207,6 +209,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24 English
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg/revision/latest/scale-to-width-down/512?cb=20171128043059" group-title="News",FOX News Channel
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/fBgbcxM.png" group-title="News",NBC News Now
@@ -234,7 +238,7 @@ http://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/512?cb=20211017093409&path-prefix=vi",Music BOX
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/VIVA_Logo_blue-yellow_solid.svg/779px-VIVA_Logo_blue-yellow_solid.svg.png" group-title="Music",VIVA Russia
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="Movies" tvg-logo="https://i.ibb.co/6BW91H3/Animax-BEARTV.png",Animax
@@ -284,7 +288,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?bycoca|Referer=ht
 #EXTINF:-1 tvg-id="fashionhd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png",Fashion TV
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Lifestyle" tvg-logo="https://i.ibb.co/JrMJf2G/Man-BEARTV.png",Man
-http://gg.gg/beartv-man
+https://e4.endpoint.cdn.sctvonline.vn/hls/man-tv/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="woman" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?cb=20211017094017&path-prefix=vi",Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
 
@@ -335,15 +339,17 @@ http://203.162.235.41:16910
 http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="nhkworld" tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Japan",NHK World Japan
 https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="Japan",Nippon TV
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/9gTqMF3/NIPPONTV-BEARTV.png" group-title="Japan",Nippon TV
 http://203.162.235.41:16905
-#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TBS
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/zQ8GRdr/ogp.png" group-title="Japan",Nippon TV News24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TBS
 http://203.162.235.41:16907
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="Japan",TV Asahi
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/T2mrtp4/TV-Asahi-BEARTV.png" group-title="Japan",TV Asahi
 http://203.162.235.41:16906
-#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TV Tokyo
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TV Tokyo
 http://203.162.235.41:16908
-#EXTINF:-1 tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",WOWOW Prime
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",WOWOW Prime
 http://203.162.235.41:16916
 
 
