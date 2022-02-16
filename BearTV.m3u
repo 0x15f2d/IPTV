@@ -181,7 +181,7 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=
 #EXTINF:-1 tvg-id="abcaustralia" group-title="News" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png",ABC Australia
 http://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/ABC_News2021.svg/revision/latest/scale-to-width-down/512",ABC News (United States)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/512",ANTV
 http://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="-2" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6e/BBC_World_News_2022_%28Print%29.svg/revision/latest/scale-to-width-down/512",BBC World News (United Kingdom)
@@ -231,7 +231,7 @@ http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now (Florida)
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/fBgbcxM.png" group-title="News",NBC News Now
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="News" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",Nhân Dân
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/10/800px-QPVN.png/revision/latest/scale-to-width-down/512",QPVN
@@ -282,7 +282,7 @@ http://gg.gg/beartv-inthebox
 
 #EXTINF:-1 tvg-id="ABC.au" tvg-logo="https://static.epg.best/au/ABC.au.png" url-tvg="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Entertainment",ABC TV (Australia)
 http://c.mjh.nz/101002510251
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/26/Entertainment_Tonight_%28Wordmark%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Entertainment Tonight
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/74/Entertainment_Tonight.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Entertainment Tonight
 http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/743px-KIX_logo.svg.png",KIX
 http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
