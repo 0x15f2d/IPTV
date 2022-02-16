@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
+#EXTM3U http://gg.gg/epgbearlivetv >> http://gg.gg/epgviet >> http://onetv.click/schedule/epg.xml
 #EXTM3U Link for this file: http://gg.gg/gh-iptv-fpt-udp
 
 #EXTINF:-1 group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="vtv1hd",VTV1
@@ -62,40 +63,38 @@ udp://@225.1.1.180:30120
 udp://@225.1.1.193:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2b/HTV3_logo_2019-present.png/revision/latest/scale-to-width-down/512" tvg-id="htv3",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png" tvg-id="htvkey",HTV Key
-udp://@225.1.1.177:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/67/HTV7_%282017-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="htv7hd",HTV7
 udp://@225.1.1.192:30120
 #EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/HTV9_%282016-present%29.png/revision/latest/scale-to-width-down/512" tvg-id="htv9hd",HTV9
 udp://@225.1.1.190:30120
-#EXTINF:-1 group-title="HTV" tvg-logo="https://mytv.com.vn/upload/channel/124.png" tvg-id="htvcthuanviet",Thuần Việt
-udp://@225.1.1.174:30120
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/74.png" tvg-id="htvcthuanviethd",Thuần Việt HD
-udp://@225.1.1.186:30120
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://i.ibb.co/vJq2yHS/HTVCPHUNU-BEARTV.png" tvg-id="htvcphunuhd",HTVC Phụ Nữ
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png" tvg-id="htvkey",HTV Key
+udp://@225.1.1.177:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/vJq2yHS/HTVCPHUNU-BEARTV.png" tvg-id="htvcphunuhd",HTVC Phụ Nữ
 udp://@225.1.1.171:30120
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://i.ibb.co/WyXTCbC/HTVCPHIM-BEARTV.png" tvg-id="htvcphimhd",HTVC Phim
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/WyXTCbC/HTVCPHIM-BEARTV.png" tvg-id="htvcphimhd",HTVC Phim
 udp://@225.1.1.184:30120
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/63.png" tvg-id="htvcdulichhd",Du Lịch & Cuộc Sống
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/89/HTVC_Travel_and_Loving.png/revision/latest/scale-to-width-down/512?cb=20201024071154&path-prefix=vi" tvg-id="htvcdulichhd",HTVC Du Lịch & Cuộc Sống
 udp://@225.1.1.166:30120
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://i.ibb.co/V9V4Qxh/HTVCGIADINH-BEARTV.png" tvg-id="htvcgiadinhhd",HTVC Gia Đình
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.ibb.co/V9V4Qxh/HTVCGIADINH-BEARTV.png" tvg-id="htvcgiadinhhd",HTVC Gia Đình
 udp://@225.1.1.170:30120
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://mytv.com.vn/upload/channel/15.png" tvg-id="htvthethaohd",HTV Thể Thao
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/69/HTV_Sport_logo_2013.png/revision/latest/scale-to-width-down/512" tvg-id="htvthethaohd",HTV Thể Thao
 udp://@225.1.1.165:30120
-#EXTINF:-1 group-title="HTVC" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png" tvg-id="htvcfbnc",FBNC
-udp://@225.1.1.182:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/8a/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_logo.png/revision/latest/scale-to-width-down/512?cb=20210625043422&path-prefix=vi" tvg-id="htvcthuanviet",Thuần Việt
+udp://@225.1.1.174:30120
+#EXTINF:-1 group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/1/19/ThuanViet_HD_logo.png/revision/latest/scale-to-width-down/512?cb=20210625043428&path-prefix=vi" tvg-id="htvcthuanviethd",Thuần Việt HD
+udp://@225.1.1.186:30120
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/gF4fGYx/ABC-Australia-BEARTV.png" tvg-id="abcaustralia",ABC Australia
 udp://@225.1.2.21:30120
-#EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/35.png" tvg-id="antvhd",ANTV
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/512" tvg-id="antvhd",ANTV
 udp://@225.1.2.169:30120
-#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/80/BBC_World_News_2022.svg/revision/latest/scale-to-width-down/512" tvg-id="bbcworldnews",BBC Word News (Asia)
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6e/BBC_World_News_2022_%28Print%29.svg/revision/latest/scale-to-width-down/512" tvg-id="bbcworldnews",BBC World News (Asia)
 udp://@225.1.2.74:30120
-#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e1/Bloomberg_Television.svg/revision/latest/scale-to-width-down/512" tvg-id="bloomberg",Bloomberg
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ed/Bloomberg_2004.svg/revision/latest/scale-to-width-down/512" tvg-id="bloomberg",Bloomberg (Asia)
 udp://@225.1.4.18:30120
 #EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/512" tvg-id="cna",CNA
 udp://@225.1.1.202:30120
-#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/512" tvg-id="cnbc",CNBC
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/512" tvg-id="cnbc",CNBC (Asia)
 udp://@225.1.1.227:30120
 #EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" tvg-id="cnn",CNN
 udp://@225.1.4.17:30120
@@ -103,21 +102,23 @@ udp://@225.1.4.17:30120
 udp://@225.1.1.46:30120
 #EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" tvg-id="france24eng",France 24 English
 udp://@225.1.2.211:30120
-#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/22/Nh%C3%A2n_d%C3%A2n_TV.png/revision/latest/scale-to-width-down/512?cb=20201017143844&path-prefix=vi" tvg-id="nhandan",Nhân Dân
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png" tvg-id="nhandan",Nhân Dân
 udp://@225.1.1.91:30120
 #EXTINF:-1 group-title="News"  tvg-shift="-2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" tvg-id="nhkworld",NHK World Japan
 udp://@225.1.1.47:30120
-#EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/71.png" tvg-id="quochoi",Quốc Hội
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/Dt2mVGQ/QUOCHOI-BEARTV.png" tvg-id="quochoi",Quốc Hội
 udp://@225.1.2.148:30120
-#EXTINF:-1 group-title="News" tvg-logo="https://mytv.com.vn/upload/channel/127.png" tvg-id="qpvnhd",QPVN
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/10/800px-QPVN.png/revision/latest/scale-to-width-down/512" tvg-id="qpvnhd",QPVN
 udp://@225.1.2.217:30120
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Odus24L.png" tvg-id="tv5monde",TV5Monde Asie 
+#EXTINF:-1 group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?cb=20220204075301&path-prefix=vi" tvg-id="tv5monde",TV5Monde Asie 
 udp://@225.1.1.200:30120
 #EXTINF:-1 group-title="News"  tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" tvg-id="ttxvnhd",VNews
 udp://@225.1.1.43:30120
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png" tvg-id="vovtvhd",VOV
 udp://@225.1.2.171:30120
 
+#EXTINF:-1 tvg-id="youtv" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/Hanoicab_2.png/revision/latest/scale-to-width-down/512?cb=20201024030438&path-prefix=vi",Hanoicab 2
+udp://@225.1.1.207:30120
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/743px-KIX_logo.svg.png" tvg-id="kix",KIX 
 udp://@225.1.2.144:30120
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/512" tvg-id="mtvhd",MTV
@@ -135,7 +136,7 @@ udp://@225.1.2.86:30120
 udp://@225.1.1.142:30120
 #EXTINF:-1 group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" tvg-id="hbohd",HBO
 udp://@225.1.2.233:30120
-#EXTINF:-1 group-title="Movies" tvg-logo="https://mytv.com.vn/upload/channel/165.png" tvg-id="warnertvhd",Warner Brothers TV 
+#EXTINF:-1 group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" tvg-id="warnertvhd",Warner TV (Asia)
 udp://@225.1.1.139:30120
 
 #EXTINF:-1 group-title="Nature" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png" tvg-id="animalhd",Animal Planet 
@@ -149,7 +150,7 @@ udp://@225.1.2.223:30120
 udp://@225.1.1.238:30120
 #EXTINF:-1 group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512" tvg-id="ngchd",National Geographic 
 udp://@225.1.2.235:30120
-#EXTINF:-1 group-title="Science" tvg-logo="https://mytv.com.vn/upload/channel/108.png" tvg-id="outdoorhd",Outdoor Channel 
+#EXTINF:-1 group-title="Science" tvg-logo="https://i.ibb.co/T2bD0Wf/108.png" tvg-id="outdoorhd",Outdoor Channel 
 udp://@225.1.2.215:30120
 #EXTINF:-1 group-title="Science" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png" tvg-id="tlchd",TLC 
 udp://@225.1.1.236:30120
@@ -158,13 +159,13 @@ udp://@225.1.1.236:30120
 udp://@225.1.1.198:30120
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" tvg-id="bbclifestyle",BBC Lifestyle 
 udp://@225.1.4.23:30120
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png" tvg-id="fashionhd",Fashion TV 
+#EXTINF:-1 group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512" tvg-id="fashionhd",Fashion TV
 udp://@225.1.2.227:30120
 
 #EXTINF Though Korea time and Japan is the same but the offset is shifted correctly. Please do not change it.
 #EXTINF:-1 tvg-id="arirang" tvg-shift="-1" group-title="Korea" tvg-logo="https://i.ibb.co/HtmBMq6/Arirang-BEARTV.png",Arirang
 udp://@225.1.1.201:30120
-#EXTINF:-1 group-title="Korea" tvg-logo="https://mytv.com.vn/upload/channel/138.png" tvg-id="kbsworld",KBS World 
+#EXTINF:-1 group-title="Korea" tvg-logo="https://i.ibb.co/8XwH2hS/KBS-World-BEARTV.png" tvg-id="kbsworld",KBS World 
 udp://@225.1.1.196:30120
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/McZF8q4/Baby-TV-BEARTV.png" tvg-id="babytvhd",Baby TV 
@@ -175,8 +176,5 @@ udp://@225.1.4.16:30120
 udp://@225.1.1.137:30120
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/THhk8Wf/Cartoon-Network-BEARTV.png" tvg-id="cartoonhd",Cartoon Network 
 udp://@225.1.2.231:30120
-#EXTINF:-1 group-title="Kids" tvg-logo="https://mytv.com.vn/upload/channel/148.png" tvg-id="davinci",Da Vinci Kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/qkPjJQh/Da-Vinci-BEARTV.png" tvg-id="davinci",Da Vinci Kids
 udp://@225.1.1.197:30120
-
-#EXTINF:-1 group-title="Hanoicab" tvg-logo="https://i.imgur.com/Opop7gh.png" tvg-id="hanoicab2_youtv",Hanoicab2
-udp://@225.1.1.207:30120
