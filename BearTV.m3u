@@ -290,7 +290,7 @@ http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Entertainment" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png",Rock Extreme
 http://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="https://i.ibb.co/S7BtNs4/WB-BEARTV.png" group-title="Entertainment",Warner Brothers TV
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Entertainment",Warner TV (Asia)
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist.m3u8
 
 
@@ -304,8 +304,8 @@ http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/77/Dr._Fit_logo.png/revision/latest/scale-to-width-down/512?cb=20220212085404&path-prefix=vi",Dr.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="fashionhd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/C74WPtb/Fashion-TV-BEARTV.png",Fashion TV
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="null_epg" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2e/FASHION_TV_HD_2017.png/revision/latest/scale-to-width-down/512",Fashion TV UHD
+http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Lifestyle" tvg-logo="https://i.ibb.co/JrMJf2G/Man-BEARTV.png",Man
 http://gg.gg/beartv-man
 #EXTINF:-1 tvg-id="woman" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?cb=20211017094017&path-prefix=vi",Woman
@@ -330,7 +330,7 @@ http://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512",National Geographic
 http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="outdoorhd" group-title="Science" tvg-logo="https://i.ibb.co/hDhK578/Outdoor-Channel-BEARTV.png",Outdoor Channel
+#EXTINF:-1 tvg-id="outdoorhd" group-title="Science" tvg-logo="https://i.ibb.co/T2bD0Wf/108.png",Outdoor Channel
 http://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="Science" tvg-logo="https://i.ibb.co/c2kb3GM/TLC-BEARTV.png",TLC
 http://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist.m3u8
