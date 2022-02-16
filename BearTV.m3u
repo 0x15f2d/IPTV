@@ -184,28 +184,34 @@ http://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist.m3u8
 http://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="-2" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6e/BBC_World_News_2022_%28Print%29.svg/revision/latest/scale-to-width-down/512",BBC World News (United Kingdom)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3b/CBSN.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/CBS_News_2020.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f5/CBSNBA.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Bay Area
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b0/CBS_News_Bay_Area.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Bay Area
 http://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/80/CBSNB.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Boston
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/71/CBS_News_Baltimore.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Baltimore
+http://dai.google.com/linear/hls/event/TMUt418sQMeu1QtneYJ9ag/master.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/CBS_News_Boston.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Boston
 http://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/63/CBSNC.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Chicago
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/45/CBS_News_Chicago.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Chicago
 http://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/86/CBSNDFW.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Dallas - Forth Worth
-http://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/80/CBSND.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Denver
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/CBS_News_Colorado.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Colorado
 http://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/69/CBSNLA.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Los Angeles
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b5/CBS_News_DFW.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News DFW
+http://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/CBS_News_Los_Angeles.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Los Angeles
 http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a1/CBSNM.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Minnesota
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/aa/CBS_News_Minnesota.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Minnesota
 http://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c9/CBSNNY.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN New York
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News New York
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8b/CBSNPittsburgh.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Pittsburgh
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7c/CBSNPhilly.svg/revision/latest/scale-to-width-down/512" group-title="News",CBSN Philadelphia
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/CBS_News_Miami.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Miami
+http://dai.google.com/linear/hls/event/_yODrBHESGSzPe3dqW4gGg/master.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/CKx1KbY/cbs-news-pittsburgh-2022-logo-black.png" group-title="News",CBS News Pittsburgh
+http://dai.google.com/linear/hls/event/mir-uZYjTu6-8JLMHBTKhQ/master.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bb/CBS_News_Philly.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Philly
 http://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/CBS_News_Sacramento.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Sacramento
+http://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/512",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN
