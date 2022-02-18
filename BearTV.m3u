@@ -282,7 +282,7 @@ http://gg.gg/beartv-inthebox
 
 #EXTINF:-1 tvg-id="ABC.au" tvg-logo="https://static.epg.best/au/ABC.au.png" url-tvg="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Entertainment",ABC TV (Australia)
 http://c.mjh.nz/101002510251
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/74/Entertainment_Tonight.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Entertainment Tonight
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/Mh4td8D/et-live.png" group-title="Entertainment",ET Live
 http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/743px-KIX_logo.svg.png",KIX
 http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
