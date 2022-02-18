@@ -300,7 +300,7 @@ http://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist.m3u8
 http://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png",Discovery Asia (Vietnam)
 http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="dmaxhd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX Asia (Vietnam)
+#EXTINF:-1 tvg-id="dmaxhd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX Asia
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="drfithd" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/77/Dr._Fit_logo.png/revision/latest/scale-to-width-down/512?cb=20220212085404&path-prefix=vi",Dr.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8?bycoca|Referer=http://sctvonline.vn/
@@ -312,7 +312,7 @@ http://gg.gg/beartv-man
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8?bybeartv|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 tvg-id="animalhd" group-title="Nature" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="Nature" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png",Animal Planet Vietnam
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/512",BBC Earth Asia
 http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
