@@ -369,8 +369,7 @@ http://95.217.44.77/sbs/tracks-v1a1/mono.m3u8
 http://ye23.win/iptv/sbs5.1.php?id=S04
 #EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/qy5hVQ2/SBS-MTV-BEARTV.png", SBS MTV
 http://ye23.win/iptv/sbs5.1.php?id=S09
-#EXTINF:-1 tvg-id="null_epg" group-title="Korea"
- tvg-logo="https://i.ibb.co/wcmbRGz/t-VN-BEARTV.png", tVN
+#EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/wcmbRGz/t-VN-BEARTV.png", tVN
 https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
 
 
@@ -399,6 +398,7 @@ http://203.162.235.41:16906
 http://203.162.235.41:16908
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",WOWOW Prime
 http://203.162.235.41:16916
+
 
 #EXTINF:-1 tvg-id="cctv1" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png/revision/latest/scale-to-width-down/512",CCTV1
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
