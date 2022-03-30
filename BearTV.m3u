@@ -30,7 +30,7 @@ http://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist.m3u8
 http://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4c/VTC1_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1
+#EXTINF:-1 tvg-id="vtc1hd" group-title="VTC" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/c1/VTC1.png/revision/latest/scale-to-width-down/512?cb=20201102122623&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1
 http://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="VTC" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/34/VTC2_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2
 http://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist.m3u8
