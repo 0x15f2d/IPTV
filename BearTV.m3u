@@ -112,8 +112,7 @@ http://s28214.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZDRiMWQzOWMtYzM5My0zNzE3LWEwZmQtNGMzZWEzNDRhY2I4
 http://s8212.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/488srb1/Golf-News-BEARTV.png" group-title="VTVCab",Golf News
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/c9/VTVcab_1.png/revision/latest/scale-to-width-down/512?cb=20210909030030&path-prefix=vi" group-title="VTVCab",VTVCab 1
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/e/e6/VTVcab_2.png/revision/latest/scale-to-width-down/512?cb=20210909030135&path-prefix=vi" group-title="VTVCab",VTVCab 2
@@ -324,7 +323,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="null_epg" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2e/FASHION_TV_HD_2017.png/revision/latest/scale-to-width-down/512",Fashion TV UHD
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/488srb1/Golf-News-BEARTV.png" group-title="Lifestyle",Golf News
-https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+http://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Lifestyle" tvg-logo="https://i.ibb.co/JrMJf2G/Man-BEARTV.png",Man
 http://gg.gg/beartv-man
 #EXTINF:-1 tvg-id="woman" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?cb=20211017094017&path-prefix=vi",Woman
@@ -337,7 +336,7 @@ http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist.m3u8
 http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="Nature" tvg-logo="https://i.ibb.co/WVdSPsM/Love-Nature-TV-BEARTV.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" group-title="Nature" tvg-logo="https://i.ibb.co/WVdSPsM/Love-Nature-TV-BEARTV.png",Love Nature 4K
+#EXTINF:-1 tvg-id="null_epg" group-title="Nature" tvg-logo="https://i.ibb.co/JrcM3S0/Love-Nature-4-K-Colored-Logo.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/National_Geographic_Wild_2018_%28Mini%29.svg/revision/latest/scale-to-width-down/512",Nat Geo Wild
 http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
@@ -407,7 +406,7 @@ http://203.162.235.41:16916
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="cctv5" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/61/CCTV-5.png/revision/latest/scale-to-width-down/512",CCTV5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-id="cctv5plus" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e2/Cctv-5%2B.jpeg/revision/latest/scale-to-width-down/512",CCTV5+
+#EXTINF:-1 tvg-id="cctv5plus" group-title="China" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png",CCTV5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 tvg-id="cctv8" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest/scale-to-width-down/512",CCTV8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
