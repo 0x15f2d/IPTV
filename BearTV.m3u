@@ -365,8 +365,6 @@ http://95.217.44.77/mnet/tracks-v1a1/index.m3u8
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/jW3VyCd/SBS-BEARTV.png", SBS
 http://95.217.44.77/sbs/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/H4qy1Mx/sbssports-BEARTV.png", SBS Sports
-http://ye23.win/iptv/sbs5.1.php?id=S02
 #EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/k6gp40F/sbsfune-BEARTV.png", SBS funE
 http://ye23.win/iptv/sbs5.1.php?id=S04
 #EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/qy5hVQ2/SBS-MTV-BEARTV.png", SBS MTV
