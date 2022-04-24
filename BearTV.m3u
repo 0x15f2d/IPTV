@@ -31,10 +31,13 @@ http://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="vtvcab1hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/c9/VTVcab_1.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTVCab",VTVCab 1
-http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8#EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/e/e6/VTVcab_2.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTVCab",VTVCab 2
-http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/77/VTVcab_3.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTVCab",VTVCab 3
+http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab1/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab2hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/e/e6/VTVcab_2.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTVCab",VTVCab 2
+http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab2/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/77/VTVcab_3.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTVCab",VTVCab 3
 http://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740#EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4f/VTVcab_4-0.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 4
-http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/7b/VTVcab_5_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 5
+http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab4/sd2/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/7b/VTVcab_5_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 5
 http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab5/index.m3u8?md5=FI0vSweK0ZjVtshOO-v3LA&expires=2556118740#EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/77/VTVcab_6.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 6
 http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab6/index.m3u8?md5=UWqnKPkk8xH9hqll1u3iFg&expires=2556118740#EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0b/VTVcab_7.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 7
 http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab7/index.m3u8?md5=JGYvOsHHyqqsxl6Osg-j7g&expires=2556118740#EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/fa/VTVcab_8.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 8
@@ -44,7 +47,8 @@ http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2
 http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d6/VTVcab_16.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTVCab",VTVCab 16
 http://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740#EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0f/VTVcab_17.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTVCab",VTVCab 17
 http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740#EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/87/VTVcab_19.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="VTVCab",VTVCab 19
-http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/aa/VTVcab_20.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 20
+http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/aa/VTVcab_20.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 20
 http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVCab" tvg-logo="http://static.wikia.nocookie.net/logos/images/9/91/VTVcab_23.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 23
 http://gg.gg/beartv-ongolf
 
@@ -115,28 +119,48 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist
 
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0e/BTV5_2015.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BTV5
-http://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi,SCTV1
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f0/SCTV2_logo_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV2
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/00/SCTV3_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV3
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/26/SCTV4_2017.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV4
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
+http://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi,SCTV1
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f0/SCTV2_logo_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV2
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/00/SCTV3_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV3
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv3/index.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/26/SCTV4_2017.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV4
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv4/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/c7/SCTV7_logo_2019.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV7
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/9/9d/SCTV8_2017.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV8
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv8/index.m3u8#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/7f/SCTV9_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV9
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/c1/SCTV11_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV11
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/70/SCTV12_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV12
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/45/SCTV13_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV13
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/23/SCTV14_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV14
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv14/index.m3u8#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/9/92/SCTV15.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV15
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/8f/SCTV16-2.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV16
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0a/SCTV17.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV17 
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/dd/SCTV18_logo_2020.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV18
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d1/SCTV19_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV19
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/7f/SCTV20_logo_2019.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV20
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/fb/SCTV21_logo_2019.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV21
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/47/SCTV22.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV22
-http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d1/SCTV_Phim_T%E1%BB%95ng_H%E1%BB%A3p_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV Movies
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv7/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/9/9d/SCTV8_2017.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV8
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv8/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/7f/SCTV9_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV9
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv9/index.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/c1/SCTV11_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV11
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv11/index.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/70/SCTV12_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV12
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv12/index.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/45/SCTV13_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV13
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/23/SCTV14_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV14
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv14/index.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/9/92/SCTV15.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV15
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv15/index.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/8f/SCTV16-2.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV16
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv16/index.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0a/SCTV17.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV17 
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv17/index.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/dd/SCTV18_logo_2020.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV18
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv18/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d1/SCTV19_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV19
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv19/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/7f/SCTV20_logo_2019.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV20
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv20/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/fb/SCTV21_logo_2019.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV21
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/47/SCTV22.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV22
+http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d1/SCTV_Phim_T%E1%BB%95ng_H%E1%BB%A3p_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV Movies
 http://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8
 
 
@@ -227,7 +251,8 @@ http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Movies" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX Hits
 http://gg.gg/beartv-boxhit
 #EXTINF:-1 tvg-id="null_epg" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Movie 1
-http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
+http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
 http://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Movies" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax
 http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
@@ -272,14 +297,16 @@ http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="dmaxhd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/kxqGzQM/dmax-BEARTV.png",DMAX
 http://gg.gg/beartv-dmax
 #EXTINF:-1 tvg-id="drfithd" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/77/Dr._Fit_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Dr.Fit
-http://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8#EXTINF:-1 tvg-id="fashionhd" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512",Fashion TV
+http://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512",Fashion TV
 http://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2e/FASHION_TV_HD_2017.png/revision/latest/scale-to-width-down/512",Fashion TV UHD
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/JCqgthf/golfnews-logo-2022.png" group-title="Lifestyle",Golf News
 http://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 tvg-id="man" group-title="Lifestyle" tvg-logo="https://i.ibb.co/JrMJf2G/Man-BEARTV.png",Man
-http://e4.endpoint.cdn.sctvonline.vn/hls/man/sd2/index.m3u8#EXTINF:-1 tvg-id="woman" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
+http://e4.endpoint.cdn.sctvonline.vn/hls/man/sd2/index.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
 http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8
 
 
