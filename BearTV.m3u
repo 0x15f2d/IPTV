@@ -374,12 +374,12 @@ http://ye23.win/iptv/sbs5.1.php?id=S01
 http://ye23.win/iptv/sbs5.1.php?id=S06
 #EXTINF:-1 tvg-id="sbsetvhd" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/SBS_FunE_logo_2022.svg/revision/latest/scale-to-width-down/512",SBS funE
 http://ye23.win/iptv/sbs5.1.php?id=S04
+#EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/Gk076bM/SBS-Golf-logo-2018-svg.png",SBS Golf
+http://ye23.win/iptv/sbs5.1.php?id=S05
 #EXTINF:-1 tvg-id="sbsmtvhd" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1e/SBS_MTV_2011.svg/revision/latest/scale-to-width-down/512",SBS MTV
 http://ye23.win/iptv/sbs5.1.php?id=S09
 #EXTINF:-1 tvg-id="sbsplushd" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/03/SBS_plus_2020.svg/revision/latest/scale-to-width-down/512",SBS Plus
 http://ye23.win/iptv/sbs5.1.php?id=S03
-#EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/Gk076bM/SBS-Golf-logo-2018-svg.png",SBS Golf
-http://ye23.win/iptv/sbs5.1.php?id=S05
 #EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/wcmbRGz/t-VN-BEARTV.png",tVN
 https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
 
