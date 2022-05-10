@@ -247,7 +247,7 @@ http://113.164.225.140:1935/live/quochoitvlive.stream_360p/chunklist_w880738422.
 http://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="https://i.ibb.co/qgscQgR/usa-today.png",USA Today
 http://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
-#EXTINF:-1 tvg-id="vovtvhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a7/VOVTV_logo_2020.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VOV
+#EXTINF:-1 tvg-id="vovtvhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a7/VOVTV_logo_2020.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VOV TV
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VNews
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist.m3u8
@@ -259,7 +259,7 @@ http://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist.m3u8
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Movie 1
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld (VN)
 http://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="Movies" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax (VN)
 http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
@@ -277,9 +277,9 @@ http://uksono1-samsunguk.amagi.tv/playlist.m3u8
 http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/743px-KIX_logo.svg.png" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX (VN)
 http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="blueantent" group-title="Entertainment" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-BEARTV.png",Rock Entertainment (VN)
+#EXTINF:-1 tvg-id="blueantent" group-title="Entertainment" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-BEARTV.png",Rock/Blue Ant Entertainment (VN)
 http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="blueantext" group-title="Entertainment" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png",Rock Extreme (VN)
+#EXTINF:-1 tvg-id="blueantext" group-title="Entertainment" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png",Rock/Blue Ant Entertainment Extreme (VN)
 http://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Entertainment" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV (VN)
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist.m3u8
@@ -337,10 +337,12 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http
 
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/bKrnk0k/bs-asahi.png" group-title="Japan",BS Asahi
 http://203.162.235.41:16914
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/international-entertainment-project/images/9/9b/Bsfuji_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",BS Fuji
-http://203.162.235.41:16911
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/512px-BS4_logo.svg.png" group-title="Japan",BS4 Nippon
+http://203.162.235.41:16912
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/89/BS-TBS_2020.svg/revision/latest/scale-to-width-down/512" group-title="Japan",BS-TBS
 http://203.162.235.41:16913
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/53/BS_Teleto_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",BS TV Tokyo
+http://203.162.235.41:16911
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Fuji TV
 http://203.162.235.41:16904
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/57/Gf_nhk_logo_gray.svg/revision/latest/scale-to-width-down/512" group-title="Japan",NHK
@@ -363,8 +365,6 @@ http://203.162.235.41:16907
 http://203.162.235.41:16906
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TV Tokyo
 http://203.162.235.41:16908
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/ba/Top_expla_cinema_rogo.gif/revision/latest/scale-to-width-down/512" group-title="Japan",WOWOW Cinema
-http://203.162.235.41:16912
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/qRvQqX9/wowow-live-322px.png" group-title="Japan",WOWOW Live
 http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",WOWOW Prime
