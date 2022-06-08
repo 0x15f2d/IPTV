@@ -129,7 +129,7 @@ http://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u
 
 #EXTINF:-1 tvg-id="btv5hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0e/BTV5_2015.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BTV5
 http://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi,SCTV1
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0b/SCTV1_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV1
 http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f0/SCTV2_logo_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV2
 http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv2/index.m3u8|Referer=http://sctvonline.vn/
