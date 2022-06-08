@@ -327,9 +327,11 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http
 http://203.162.235.41:16914
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/512px-BS4_logo.svg.png" group-title="Japan",BS4 Nippon
 http://203.162.235.41:16912
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/NZmLkhc/bs-fuji-transparent.png" group-title="Japan",BS Fuji
+http://203.162.235.41:16911
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/89/BS-TBS_2020.svg/revision/latest/scale-to-width-down/512" group-title="Japan",BS-TBS
 http://203.162.235.41:16913
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/NZmLkhc/bs-fuji-transparent.png" group-title="Japan",BS Fuji
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/53/BS_Teleto_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",BS TV Tokyo
 http://203.162.235.41:16911
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Fuji TV
 http://203.162.235.41:16904
@@ -353,9 +355,6 @@ http://203.162.235.41:16907
 http://203.162.235.41:16906
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TV Tokyo
 http://203.162.235.41:16908
-#EXTM3U This channel changes every now and then.
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/qRvQqX9/wowow-live-322px.png" group-title="Japan",WOWOW Live
-http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",WOWOW Prime
 http://203.162.235.41:16916
 
