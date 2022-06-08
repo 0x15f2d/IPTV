@@ -2,7 +2,7 @@
 #EXTM3U http://gg.gg/bearlivetv >> https://onedrive.live.com/download?cid=D86A8B7F8FA14252&resid=D86A8B7F8FA14252%214123
 #EXTM3U http://gg.gg/epgbearlivetv >> http://gg.gg/epgviet >> http://onetv.click/schedule/epg.xml
 #EXTM3U Link for this file: http://gg.gg/gh-iptv-beartv
-#EXTM3U BearTV Enhanced - Sometimes debloats playlists "reliably" (Snapshot 2022-04-25 02:11)
+#EXTM3U BearTV Enhanced - Sometimes debloats playlists "reliably" (Snapshot 2022-06-08 17:38)
 #EXTM3U This playlist will debloat, beautify, organize playlist and adds some additional channels along the run. (BearTV's bloated channels and local Vietnamese channels will be removed)
 
 
@@ -17,9 +17,9 @@ http://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5
 http://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/Vtv5taynguyen_logo.svg/revision/latest/scale-to-width-down/512",VTV5 Tây Nguyên
-http://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+http://gg.gg/beartv-vtv5tn
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/Vtv5tnb_logo.svg/revision/latest/scale-to-width-down/512",VTV5 Tây Nam Bộ
-https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+http://gg.gg/beartv-vtv5tnb
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6
 http://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c7/VTV7_%282015-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
@@ -87,7 +87,7 @@ http://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc12" group-title="VTC" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/db/VTC12_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC12
 http://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="VTC" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8d/VTC13_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC13
-http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtc14hd" group-title="VTC" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/36/VTC14_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC14
 http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="VTC" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/93/VTC16_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC16
@@ -173,17 +173,13 @@ http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=http://s
 http://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTINF:-1 tvg-id="null_epg" group-title="Hanoicab" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a9/Hanoicab_1.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Hanoicab 1
-http://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="Hanoicab" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/Hanoicab_2.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Hanoicab 2
 http://livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512",ABC Australia (VN)
 http://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/25/ABC_TV_2021.svg/revision/latest/scale-to-width-down/512" url-tvg="http://i.mjh.nz/nzau/epg.xml.gz",ABC TV (AU)
-http://c.mjh.nz/101002510251
-#EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/ABC_News2021.svg/revision/latest/scale-to-width-down/512",ABC News (US)
+#EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/ABC_News2021.svg/revision/latest/scale-to-width-down/512",ABC News
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANTV
 http://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist.m3u8
@@ -225,14 +221,8 @@ http://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN (US)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cspan2.png" group-title="News",C-SPAN 2
-http://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a4/CSPAN3_Navy-and-Amber.svg/revision/latest/scale-to-width-down/512" group-title="News",C-SPAN 3
-http://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",Deutsche Welle (en-DE)
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="france24eng" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24 (en-FR)
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/fBgbcxM.png" group-title="News",NBC News Now
@@ -285,8 +275,6 @@ http://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="null_epg" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/4fun.tv_%282017%29.svg/revision/latest/scale-to-width-down/512",4Fun.tv
-https://srv1.adriatelekom.com/4FunTV/index.m3u8
 #EXTINF:-1 tvg-id="mtvhd" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/512",MTV (VN)
 http://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Music BOX
@@ -339,7 +327,9 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http
 http://203.162.235.41:16914
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/512px-BS4_logo.svg.png" group-title="Japan",BS4 Nippon
 http://203.162.235.41:16912
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/53/BS_Teleto_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",BS TV Tokyo
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/89/BS-TBS_2020.svg/revision/latest/scale-to-width-down/512" group-title="Japan",BS-TBS
+http://203.162.235.41:16913
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/NZmLkhc/bs-fuji-transparent.png" group-title="Japan",BS Fuji
 http://203.162.235.41:16911
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Fuji TV
 http://203.162.235.41:16904
@@ -363,11 +353,9 @@ http://203.162.235.41:16907
 http://203.162.235.41:16906
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TV Tokyo
 http://203.162.235.41:16908
-#EXTM3U These channels changes every now and then. They will not be sticking with any branding for now.
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="" group-title="Japan",Unstable Channel #1
+#EXTM3U This channel changes every now and then.
+#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/qRvQqX9/wowow-live-322px.png" group-title="Japan",WOWOW Live
 http://203.162.235.41:16915
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="" group-title="Japan",Unstable Channel #2
-http://203.162.235.41:16913
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/Ch_prime_logo.png/revision/latest/scale-to-width-down/512" group-title="Japan",WOWOW Prime
 http://203.162.235.41:16916
 
@@ -379,18 +367,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4e/KBS_WORLD_logo_%282009-present%29.svg/revision/latest/scale-to-width-down/512",KBS World (VN)
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="sbshd" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c0/Seoul_broadcasting_System_logo.svg/revision/latest/scale-to-width-down/512",SBS
-http://ye23.win/iptv/sbs5.1.php?id=S01
-#EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/ca/Sbsbiz.png/revision/latest/scale-to-width-down/512",SBS Biz
-http://ye23.win/iptv/sbs5.1.php?id=S06
-#EXTINF:-1 tvg-id="sbsetvhd" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/SBS_FunE_logo_2022.svg/revision/latest/scale-to-width-down/512",SBS funE
-http://ye23.win/iptv/sbs5.1.php?id=S04
-#EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/Gk076bM/SBS-Golf-logo-2018-svg.png",SBS Golf
-http://ye23.win/iptv/sbs5.1.php?id=S05
-#EXTINF:-1 tvg-id="sbsmtvhd" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1e/SBS_MTV_2011.svg/revision/latest/scale-to-width-down/512",SBS MTV
-http://ye23.win/iptv/sbs5.1.php?id=S09
-#EXTINF:-1 tvg-id="sbsplushd" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/03/SBS_plus_2020.svg/revision/latest/scale-to-width-down/512",SBS Plus
-http://ye23.win/iptv/sbs5.1.php?id=S03
 #EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="https://i.ibb.co/wcmbRGz/t-VN-BEARTV.png",tVN
 https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
 
