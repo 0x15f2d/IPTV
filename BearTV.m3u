@@ -269,7 +269,7 @@ http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="blueantent" group-title="Entertainment" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-BEARTV.png",Rock/Blue Ant Entertainment (VN)
 http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="blueantext" group-title="Entertainment" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png",Rock/Blue Ant Entertainment Extreme (VN)
+#EXTINF:-1 tvg-id="blueantext" group-title="Entertainment" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png",Rock/Blue Ant Extreme (VN)
 http://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Entertainment" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV (VN)
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist.m3u8
