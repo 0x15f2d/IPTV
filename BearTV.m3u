@@ -274,7 +274,7 @@ http://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="mtvhd" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/512",MTV
+#EXTINF:-1 tvg-id="mtvhd" aspect-ratio="4:3" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/512",MTV
 http://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Music BOX
 http://livecdn.fptplay.net/hda3/music_vhls.smil/chunklist.m3u8
