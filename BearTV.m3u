@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
-#EXTM3U http://gg.gg/bearlivetv >> https://public.sn.files.1drv.com/y4mu0DLJzDMuUheftZ9om_SiA9iiU5kQVyPqwpv-vIhqBoYn8ONWrUyeUdy2BuXXE7_vXiTqFa7B9KNZBdmLWaerssnhA0SQvc_r43I_Kh7wDVmR6J2HLpJiz_4MpTgV1yrUW7aQAOVrQUpKL-ownkzbn2GXJ5yxG57Lbit-Pmgh-9ZtFnOvzKrJSqd7TK1C2BfdagOoCysTHGGGCNoBSj0Fw/BEARTV.mkv?download=&psid=1
-#EXTM3U http://gg.gg/epgbearlivetv >> http://gg.gg/epgviet >> http://onetv.click/schedule/epg.xml
 #EXTM3U Link for this file: http://gg.gg/gh-iptv-beartv
+#EXTM3U Original source: http://gg.gg/bearlivetv
+#EXTM3U http://gg.gg/epgbearlivetv >> http://gg.gg/epgviet >> http://onetv.click/schedule/epg.xml
 #EXTM3U BearTV Enhanced - Sometimes debloats playlists "reliably" (Snapshot 2022-06-08 17:38)
 #EXTM3U This playlist will debloat, beautify, organize playlist and adds some additional channels along the run. (BearTV's bloated channels and local Vietnamese channels will be removed)
 
@@ -183,7 +183,7 @@ http://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist.m3u8
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANTV
 http://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="-2" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6e/BBC_World_News_2022_%28Print%29.svg/revision/latest/scale-to-width-down/512",BBC World News (India)
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="-2" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6e/BBC_World_News_2022_%28Print%29.svg/revision/latest/scale-to-width-down/512",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="bloomberg" group-title="News" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/21/Bloomberg_2015.svg/revision/latest/scale-to-width-down/512",Bloomberg (America)
 http://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
@@ -223,7 +223,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4f/KenhQuocHoi_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Congress
 http://113.164.225.140:1935/live/quochoitvlive.stream_360p/chunklist_w880738422.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN (US)
+#EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",Deutsche Welle
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
