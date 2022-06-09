@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://gg.gg/epgbearlivetv" tvg-shift=0 m3uautoload=1
-#EXTM3U http://gg.gg/bearlivetv >> https://onedrive.live.com/download?cid=D86A8B7F8FA14252&resid=D86A8B7F8FA14252%214123
+#EXTM3U http://gg.gg/bearlivetv >> https://public.sn.files.1drv.com/y4mu0DLJzDMuUheftZ9om_SiA9iiU5kQVyPqwpv-vIhqBoYn8ONWrUyeUdy2BuXXE7_vXiTqFa7B9KNZBdmLWaerssnhA0SQvc_r43I_Kh7wDVmR6J2HLpJiz_4MpTgV1yrUW7aQAOVrQUpKL-ownkzbn2GXJ5yxG57Lbit-Pmgh-9ZtFnOvzKrJSqd7TK1C2BfdagOoCysTHGGGCNoBSj0Fw/BEARTV.mkv?download=&psid=1
 #EXTM3U http://gg.gg/epgbearlivetv >> http://gg.gg/epgviet >> http://onetv.click/schedule/epg.xml
 #EXTM3U Link for this file: http://gg.gg/gh-iptv-beartv
 #EXTM3U BearTV Enhanced - Sometimes debloats playlists "reliably" (Snapshot 2022-06-08 17:38)
@@ -117,7 +117,7 @@ http://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 http://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="HTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/69/HTV_Sport_logo_2013.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTV Sports
 http://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="htvcdulichhd"tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d1/HTVC_Travel_and_Living_2013.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="HTV",HTVC Travelling & Lifestyle
+#EXTINF:-1 tvg-id="htvcdulichhd"tvg-logo="http://static.wikia.nocookie.net/logos/images/5/51/HTVC_DLCS_HD.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="HTV",HTVC Travelling & Lifestyle
 http://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd"tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/79/HTVC_Women_logo_2016.png/revision/latest/scale-to-width-down/512" group-title="HTV",HTVC Women
 http://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
