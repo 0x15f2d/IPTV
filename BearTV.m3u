@@ -74,7 +74,7 @@ http://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/512",CNBC
 http://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f9/KenhQuocHoi_logo_2022.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Congress
-http://113.164.225.140:1935/live/quochoitvlive.stream_360p/chunklist_w880738422.m3u8
+http://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN
 http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",Deutsche Welle
