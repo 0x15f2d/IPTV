@@ -270,8 +270,7 @@ http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/5/5c/VTVcab_12_2013.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 12
 http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a0/VTVcab_15-0.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks",VTVCab 15
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8|Referer=http://sctvonline.vn
-http://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
+http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8|Referer=http://sctvonline.vn
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d6/VTVcab_16.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks",VTVCab 16
 http://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0f/VTVcab_17.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks",VTVCab 17
