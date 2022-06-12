@@ -400,16 +400,6 @@ http://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer
 http://livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Cine
-http://vthanhvnpt.duckdns.org/KCINE_vthanh/mpegts
-#EXTINF:-1 tvg-id="klifehd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Life
-http://vthanhvnpt.duckdns.org/KLIFE_vthanh/mpegts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 1
-http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 2
-http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
-
-
 #EXTINF:-1 tvg-id="boomerang" group-title="Kids" tvg-logo="https://i.ibb.co/vD7cGzQ/Boomerang-BEARTV.png" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Boomerang
 http://livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="babyfirst" group-title="Kids" tvg-logo="https://i.ibb.co/X5gLjLF/babyfirst-BEARTV.png",BabyFirst
@@ -426,3 +416,13 @@ http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Happy Kids
 http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="Archived" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Cine
+http://vthanhvnpt.duckdns.org/KCINE_vthanh/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="Archived" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Life
+http://vthanhvnpt.duckdns.org/KLIFE_vthanh/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Archived" tvg-logo="http://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 1
+http://vthanhvnpt.duckdns.org/KSPORT1_vthanh/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Archived" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 2
+http://vthanhvnpt.duckdns.org/KSPORT2_vthanh/mpegts
