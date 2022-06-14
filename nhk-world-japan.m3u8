@@ -32,9 +32,8 @@ http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_200
 #EXT-X-STREAM-INF:BANDWIDTH=294786,AVERAGE-BANDWIDTH=325600,CODECS="avc1.66.30,mp4a.40.5",RESOLUTION=320x180,FRAME-RATE=29.970,AUDIO="audio_stream"
 http://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_200k.m3u8
 
-
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en_JA",NAME="English (Japan), Alternative",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="audio_stream_alt",AUTOSELECT=YES,DEFAULT=NO
-#EXT-X-STREAM-INF:BANDWIDTH=70400,CODECS="mp4a.40.5",AUDIO="audio_stream_alt"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en_JA",NAME="English (Japan), Alternative",GROUP-ID="audio_stream",AUTOSELECT=YES,DEFAULT=NO
+#EXT-X-STREAM-INF:BANDWIDTH=70400,CODECS="mp4a.40.5",AUDIO="audio_stream"
 http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=70400,CODECS="mp4a.40.5",AUDIO="audio_stream_alt"
+#EXT-X-STREAM-INF:BANDWIDTH=70400,CODECS="mp4a.40.5",AUDIO="audio_stream"
 http://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8
