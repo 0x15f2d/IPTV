@@ -3,16 +3,16 @@
 #EXT-X-INDEPENDENT-SEGMENTS
 
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="en-JP",NAME="English (Japan)",INSTREAM-ID="CC1",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://nhkwlive-burnin.webcdn.stream.ne.jp/vtt/id_G/webvtt.m3u8",GROUP-ID="CC",NAME="Bahasa Indonesia",LANGUAGE="id-ID",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/fr_G/webvtt.m3u8",GROUP-ID="CC",NAME="Français (France)",LANGUAGE="fr-FR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/es_A/webvtt.m3u8",GROUP-ID="CC",NAME="Español (España)",LANGUAGE="es-ES",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://b-nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/pt/webvtt.m3u8",GROUP-ID="CC",NAME="Português (Portugal)",LANGUAGE="pt-PT",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/vi_G/webvtt.m3u8",GROUP-ID="CC",NAME="Tiếng Việt",LANGUAGE="vi-VN",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://b-nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/uk/webvtt.m3u8",GROUP-ID="CC",NAME="Українська",LANGUAGE="uk-UA",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/th_G/webvtt.m3u8",GROUP-ID="CC",NAME="ภาษาไทย",LANGUAGE="th-TH",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://b-nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/ko/webvtt.m3u8",GROUP-ID="CC",NAME="코리언",LANGUAGE="ko-KR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/zh_A/webvtt.m3u8",GROUP-ID="CC",NAME="中文（简体）",LANGUAGE="zh-CN",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
-#EXT-X-MEDIA:TYPE=SUBTITLES,URI="http://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/zh-TW_A/webvtt.m3u8",GROUP-ID="CC",NAME="中文（繁體）",LANGUAGE="zh-TW",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://nhkwlive-burnin.webcdn.stream.ne.jp/vtt/id_G/webvtt.m3u8",GROUP-ID="CC",NAME="Bahasa Indonesia",LANGUAGE="id-ID",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/fr_G/webvtt.m3u8",GROUP-ID="CC",NAME="Français (France)",LANGUAGE="fr-FR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/es_A/webvtt.m3u8",GROUP-ID="CC",NAME="Español (España)",LANGUAGE="es-ES",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/pt/webvtt.m3u8",GROUP-ID="CC",NAME="Português (Portugal)",LANGUAGE="pt-PT",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/vi_G/webvtt.m3u8",GROUP-ID="CC",NAME="Tiếng Việt",LANGUAGE="vi-VN",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/uk/webvtt.m3u8",GROUP-ID="CC",NAME="Українська",LANGUAGE="uk-UA",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/th_G/webvtt.m3u8",GROUP-ID="CC",NAME="ภาษาไทย",LANGUAGE="th-TH",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/ko/webvtt.m3u8",GROUP-ID="CC",NAME="코리언",LANGUAGE="ko-KR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/zh_A/webvtt.m3u8",GROUP-ID="CC",NAME="中文（简体）",LANGUAGE="zh-CN",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://b-nhkwlive-burnin.webcdn.stream.ne.jp/vtt/zh-TW_A/webvtt.m3u8",GROUP-ID="CC",NAME="中文（繁體）",LANGUAGE="zh-TW",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO
 
 #EXT-X-STREAM-INF:BANDWIDTH=2978602,AVERAGE-BANDWIDTH=3440800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="AUD",SUBTITLES="CC"
 http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_2M.m3u8
