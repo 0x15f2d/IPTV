@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://onetv.click/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://onetv.click/schedule/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U x-tvg-url="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml" url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U Link for this file: http://gg.gg/gh-iptv-beartv
 #EXTM3U This playlist is a fork of BearTV IPTV (http://gg.gg/bearlivetv; Snapshot 2022-06-08 17:38)
 #EXTM3U Also sourcing from VThanh (https://playlist.vthanhtivii.xyz/http://hqth.me/vthanhtivi; Snapshot 2022-06-28 14:12)
@@ -138,7 +138,7 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 http://livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="musicbox" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Music BOX
 http://livecdn.fptplay.net/hda3/music_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/VIVA_Logo_blue-yellow_solid.svg/779px-VIVA_Logo_blue-yellow_solid.svg.png" group-title="Music",VIVA Russia
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/VIVA_Logo_blue-yellow_solid.svg/779px-VIVA_Logo_blue-yellow_solid.svg.png" group-title="Music",VIVA Russia
 http://autopilot.catcast.tv/content/39575/index.m3u8
 
 
