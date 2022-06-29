@@ -238,8 +238,8 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 http://203.162.235.41:16916
 
 
-#EXTINF This supposed to be -3 hr and 30 minutes offset.
-#EXTINF:-1 tvg-id="arirang" tvg-shift="-3" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest/scale-to-width-down/512",Arirang
+#EXTM3U This should be exactly -4 hr and 10 minutes apart.
+#EXTINF:-1 tvg-id="arirang" tvg-shift="-4" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest/scale-to-width-down/512",Arirang
 http://livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6e/Munhwa_broadcasting_company.svg/revision/latest/scale-to-width-down/512",MBC
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
@@ -356,6 +356,7 @@ http://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/93/VTC16_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC16
 http://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="htv1" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e5/HTV1_screenbug_logo.png/revision/latest/scale-to-width-down/512",HTV1
