@@ -199,22 +199,22 @@ http://203.162.235.41:16913
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.ibb.co/gt8BbM7/bs-tv-tokyo-transparent.png" group-title="Japan",BS TV Tokyo
 http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Fuji TV
-#EXTM3U http://203.162.235.41:16904
-http://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTM3U http://fujitv2.mov3.co/hls/fujitv.m3u8
+http://203.162.235.41:16904
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Japan",NHK BS1
 http://203.162.235.41:16909
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Japan",NHK BS Premium
 http://203.162.235.41:16910
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/NHK2020-.svg/revision/latest/scale-to-width-down/512" group-title="Japan",NHK General
-#EXTM3U http://203.162.235.41:16903
-http://nhk2.mov3.co/hls/nhk.m3u8
+#EXTM3U http://nhk2.mov3.co/hls/nhk.m3u8
+http://203.162.235.41:16903
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/NHK_World_Premium_2020.jpg/revision/latest/scale-to-width-down/512" group-title="Japan",NHK World Premium
 http://203.162.235.41:16901
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Japan",NHK World Japan
 https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Nippon TV
-#EXTM3U http://203.162.235.41:16905
-http://ntv2.mov3.co/hls/ntv.m3u8
+#EXTM3U http://ntv2.mov3.co/hls/ntv.m3u8
+http://203.162.235.41:16905
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.ibb.co/94S9SgS/nippon-tv-news-24-japan-logo.png" group-title="Japan",Nippon TV News24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="QVCJapan.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/04/QVC_2019.svg/revision/latest/scale-to-width-down/512" group-title="Japan",QVC Japan
@@ -222,8 +222,8 @@ http://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-logo="https://i.ibb.co/tYtmW8D/shop-channel-japan-logo-2021-400px.png" group-title="Japan",Shop Channel
 http://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TBS
-#EXTM3U http://203.162.235.41:16907
-http://tbs1.mov3.co/hls/tbs.m3u8
+#EXTM3U http://tbs1.mov3.co/hls/tbs.m3u8
+http://203.162.235.41:16907
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Tokyo MX 1
 http://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Tokyo MX 2
