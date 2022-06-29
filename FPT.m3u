@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" x-tvg-url="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U Link for this file: http://gg.gg/gh-iptv-udp-fpt
+#EXTM3U Link for this file: http://gg.gg/gh-iptv-fpt-udp
 #EXTM3U Credits:
 #EXTM3U https://yamcode.com/fpt-iptv-5
 #EXTM3U https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3
@@ -57,7 +57,7 @@ udp://@225.1.2.171:30120
 udp://@225.1.1.43:30120
 
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png" tvg-id="axnhd",AXN 
+#EXTINF:-1 tvg-id="axnhd" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN
 udp://@225.1.2.225:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
 udp://@225.1.1.142:30120
@@ -81,6 +81,8 @@ udp://@225.1.1.139:30120
 udp://@225.1.1.198:30120
 #EXTINF:-1 tvg-id="bbclifestyle" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Lifestyle
 udp://@225.1.4.23:30120
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Asia
+udp://@225.1.2.223:30120
 #EXTINF:-1 tvg-id="fashionhd" group-title="Lifestyle" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512",Fashion TV
 udp://@225.1.2.227:30120
 
@@ -99,12 +101,10 @@ udp://@225.1.2.215:30120
 udp://@225.1.1.236:30120
 
 
-#EXTINF:-1 group-title="Nature" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png" tvg-id="animalhd",Animal Planet 
+#EXTINF:-1 tvg-id="animalhd" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/512" tvg-id="bbcearth",BBC Earth 
+#EXTINF:-1 tvg-id="bbcearth" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth
 udp://@225.1.2.24:30120
-#EXTINF:-1 group-title="Nature" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" tvg-id="discoveryasiahd",Discovery Asia 
-udp://@225.1.2.223:30120
 
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="Japan",NHK World Japan
@@ -178,8 +178,6 @@ udp://@225.1.1.174:30120
 udp://@225.1.1.186:30120
 
 
-#EXTINF:-1 tvg-id="sctv2hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f0/SCTV2_logo_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",SCTV2
-udp://@225.1.1.234:30120
 #EXTINF:-1 tvg-id="sctv6hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
 udp://@225.1.1.188:30120
 
@@ -197,4 +195,4 @@ udp://@225.1.2.146:30120
 #EXTINF:-1 tvg-id="cartoonhd" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cartoon Network
 udp://@225.1.2.231:30120
 #EXTINF:-1 tvg-id="davinci" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/512" group-title="Kids",Da Vinci
-udp://@225.1.1.197:3012
+udp://@225.1.1.197:30120
