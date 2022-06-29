@@ -393,7 +393,7 @@ http://livecdn.fptplay.net/sdb/vtc16_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htv1" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e5/HTV1_screenbug_logo.png/revision/latest/scale-to-width-down/512",HTV1
 http://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/HTV2_%282019-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="https://htvc271120.cdn.vnns.io/06b93ec20336126a28dd0872a68932901632397465/htv2.cat.720p.tms/chunks_dvr_range-${start}-${offset}.m3u8",HTV2
+#EXTINF:-1 tvg-id="htv2hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/HTV2_%282019-present%29.png/revision/latest/scale-to-width-down/512",HTV2
 #EXTM3U http://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2b/HTV3_logo_2019-present.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTV3
