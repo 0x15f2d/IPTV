@@ -295,12 +295,12 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="cctv14" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/74/CCTV-14.png/revision/latest/scale-to-width-down/512",CCTV-14
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
-#EXTM3U This is CCTV-17??????
 #EXTINF:-1 tvg-id="cctv15" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fa/CCTV-15.png/revision/latest/scale-to-width-down/512",CCTV-15
-http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+
 #EXTINF:-1 tvg-id="cctv16" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/39/CCTV-16.png/revision/latest/scale-to-width-down/512",CCTV-16
 http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
 #EXTINF:-1 tvg-id="cctv17" group-title="China" tvg-logo="https://i.ibb.co/x5bnrvc/cctv-17.png",CCTV-17
+#EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="China" tvg-logo="https://i.ibb.co/vHFKZc5/CHC-Action-Movies-logo.png",CHC Action Movies
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
