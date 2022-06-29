@@ -7,7 +7,7 @@ Vietnamese (Majority), American, European, Chinese and Japanese Channels.
 # Quick setup links
 HLS based (Actively maintaining): http://gg.gg/gh-iptv-beartv
 
-FPT users only (Not maintained): http://gg.gg/gh-iptv-fpt-udp
+FPT users only (Not maintained): http://gg.gg/gh-iptv-udp-fpt
 
 # Filing a bug
 You're welcome to file a bug. But i'll find out the bug before you can even notice it.
