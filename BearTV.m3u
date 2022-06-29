@@ -241,9 +241,9 @@ http://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TBS
 #EXTM3U http://tbs1.mov3.co/hls/tbs.m3u8
 http://203.162.235.41:16907
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Tokyo MX 1
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.ibb.co/9cq1ySL/Tokyo-MX-1-1000px.png" group-title="Japan",Tokyo MX 1
 http://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Tokyo MX 2
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://i.ibb.co/Nr6sbbD/Tokyo-MX-2-1000px.png" group-title="Japan",Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/00/TVAsahi_2003.svg/revision/latest/scale-to-width-down/512" group-title="Japan",TV Asahi
 http://203.162.235.41:16906
