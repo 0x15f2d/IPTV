@@ -238,7 +238,7 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 http://203.162.235.41:16916
 
 
-#EXTM3U This should be exactly -4 hr and 10 minutes apart.
+#EXTM3U This should be exactly -4 hrs and 10 minutes apart, 10 mintutes because of the nature of FPT Play feed.
 #EXTINF:-1 tvg-id="arirang" tvg-shift="-4" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest/scale-to-width-down/512",Arirang
 http://livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6e/Munhwa_broadcasting_company.svg/revision/latest/scale-to-width-down/512",MBC
