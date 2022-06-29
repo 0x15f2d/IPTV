@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" x-tvg-url="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U Link for this file: http://gg.gg/gh-iptv-fpt-udp
+#EXTM3U Link for this file: http://gg.gg/gh-iptv-udp-fpt
 #EXTM3U Credits:
 #EXTM3U https://yamcode.com/fpt-iptv-5
 #EXTM3U https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3
