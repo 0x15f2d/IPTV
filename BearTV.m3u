@@ -116,6 +116,7 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 http://api.vthanhtivii.xyz/v1/getlink/tv360/107/2
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Movies" tvg-logo="https://i.ibb.co/c6pD6Kg/Hollywood-Classics-Logo-White400x200-0004-HWC.png",Hollywood Classics
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="inthebox" group-title="Movies" tvg-logo="https://i.ibb.co/bKrJMFt/In-The-Box.png",In the Box
 
 
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/BBC_America_logo_2022.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",BBC America
@@ -166,6 +167,13 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sct
 
 #EXTINF:-1 tvg-id="discoveryhd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery
 http://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/512",History
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha,cleartext
+#KODIPROP:inputstream.adaptive.license_key=https://url/key
+
 #EXTINF:-1 tvg-id="ngchd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512",National Geographic
 http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/512",Outdoor Channel
@@ -246,7 +254,7 @@ https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4e/KBS_WORLD_logo_%282009-present%29.svg/revision/latest/scale-to-width-down/512",KBS World
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3d/TvN_Logo_2012.svg/revision/latest/scale-to-width-down/512",tvN
-http://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
+
 
 
 #EXTINF:-1 tvg-id="cctv1" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png/revision/latest/scale-to-width-down/512",CCTV-1
@@ -320,10 +328,26 @@ http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab15/index.m3u8|Referer=http://sctv
 http://e1.endpoint.cdn.sctvonline.vn/secure/vtvcab16/sd2/index.m3u8?md5=8-zqDYkUrZ4d1uhuJTIZNA&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/0f/VTVcab_17.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks",VTVCab 17
 http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab17/index.m3u8?md5=8sqdkkWw2j1jqPiPOHIhew&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab18hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/5/5a/VTVcab_18.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks",VTVCab 18
+
 #EXTINF:-1 tvg-id="vtvcab19hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/87/VTVcab_19.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks",VTVCab 19
 http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/aa/VTVcab_20.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 20
 http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b9/VTVcab_22.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 22
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha,cleartext
+#KODIPROP:inputstream.adaptive.license_key=https://url/key
+
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/9/91/VTVcab_23.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 23
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha,cleartext
+#KODIPROP:inputstream.adaptive.license_key=https://url/key
+
 
 
 #EXTINF:-1 tvg-id="vtc1hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/c1/VTC1.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1
@@ -437,6 +461,16 @@ http://e1.endpoint.cdn.sctvonline.vn/playlist/sctv22/index.m3u8|Referer=http://s
 http://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer=http://sctvonline.vn/
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Cine
+
+#EXTINF:-1 tvg-id="klifehd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Life
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 1
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 2
+
+
+
 #EXTINF:-1 tvg-id="youtv" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/Hanoicab_2.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Hanoicab 2
 http://livecdn.fptplay.net/sdb/youtv_hls.smil/playlist.m3u8
 
@@ -457,38 +491,3 @@ http://livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Happy Kids
 http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-
-#EXTM3U These channels should be hidden from your IPTV parser.
-#EXTINF:-1 tvg-id="historyhd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest/scale-to-width-down/512",History
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha,cleartext
-#KODIPROP:inputstream.adaptive.license_key=https://url/key
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Cine
-
-#EXTINF:-1 tvg-id="klifehd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Life
-
-#EXTINF:-1 tvg-id="ksport1hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 1
-
-#EXTINF:-1 tvg-id="ksport2hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 2
-
-#EXTINF:-1 tvg-id="inthebox" group-title="Movies" tvg-logo="https://i.ibb.co/bKrJMFt/In-The-Box.png",In the Box
-
-#EXTINF:-1 tvg-id="vtvcab18hd" tvg-logo="http://static.wikia.nocookie.net/logos/images/5/5a/VTVcab_18.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Unavailable",VTVCab 18
-
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b9/VTVcab_22.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 22
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha,cleartext
-#KODIPROP:inputstream.adaptive.license_key=https://url/key
-
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/9/91/VTVcab_23.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VTVCab 23
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha,cleartext
-#KODIPROP:inputstream.adaptive.license_key=https://url/key
