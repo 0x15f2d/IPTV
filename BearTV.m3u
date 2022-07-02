@@ -206,7 +206,7 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/AT-X_logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",AT-X
 http://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://i.ibb.co/bKrnk0k/bs-asahi.png" group-title="Japan",BS Asahi
-
+http://203.162.235.41:16914
 #EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/512px-BS4_logo.svg.png" group-title="Japan",BS4 Nippon
 http://203.162.235.41:16912
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://i.ibb.co/NZmLkhc/bs-fuji-transparent.png" group-title="Japan",BS Fuji
@@ -216,7 +216,7 @@ http://203.162.235.41:16913
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.ibb.co/gt8BbM7/bs-tv-tokyo-transparent.png" group-title="Japan",BS TV Tokyo
 http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="FoxJapan.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/512" group-title="Japan",FOX Japan
-http://203.162.235.41:16914
+
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/512" group-title="Japan",Fuji TV
 #EXTM3U http://fujitv2.mov3.co/hls/fujitv.m3u8
 http://203.162.235.41:16904
@@ -278,7 +278,8 @@ http://itskoi.dothome.co.kr/sbs.php?id=S09
 #EXTINF:-1 tvg-id="SBSPlus.kr" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/03/SBS_plus_2020.svg/revision/latest/scale-to-width-down/512",SBS Plus
 http://itskoi.dothome.co.kr/sbs.php?id=S03
 #EXTINF:-1 tvg-id="tvN.kr" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3d/TvN_Logo_2012.svg/revision/latest/scale-to-width-down/512",tvN
-http://mytv.dothome.co.kr/ch/catv/221.php
+#EXTM3U http://mytv.dothome.co.kr/ch/catv/221.php
+
 
 
 #EXTINF:-1 tvg-id="cctv1" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png/revision/latest/scale-to-width-down/512",CCTV-1
