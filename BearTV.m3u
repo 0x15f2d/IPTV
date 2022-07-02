@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml" x-tvg-url="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml" x-tvg-url="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U Link for this file: http://gg.gg/gh-iptv-beartv
 #EXTM3U Credits:
 #EXTM3U BearTV (http://gg.gg/bearlivetv; Snapshot 2022-06-08 17:38)
@@ -267,8 +267,18 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4e/KBS_WORLD_logo_%282009-present%29.svg/revision/latest/scale-to-width-down/512",KBS World
 http://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3d/TvN_Logo_2012.svg/revision/latest/scale-to-width-down/512",tvN
-
+#EXTINF:-1 tvg-id="SBSTV.kr" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c0/Seoul_broadcasting_System_logo.svg/revision/latest/scale-to-width-down/512",SBS
+http://itskoi.dothome.co.kr/sbs.php?id=S01
+#EXTINF:-1 tvg-id="SBSfunE.kr" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/SBS_FunE_logo_2022.svg/revision/latest/scale-to-width-down/512",SBS funE
+http://itskoi.dothome.co.kr/sbs.php?id=S04
+#EXTINF:-1 tvg-id="SBSGolf.kr" group-title="Korea" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/512px-SBS_Golf_logo_2018.svg.png",SBS Golf
+http://itskoi.dothome.co.kr/sbs.php?id=S05
+#EXTINF:-1 tvg-id="SBSMTV.kr" group-title="Korea" tvg-logo="https://i.ibb.co/w6wJkff/SBS-M-2022-Radical-Gradient.png",SBS M
+http://itskoi.dothome.co.kr/sbs.php?id=S09
+#EXTINF:-1 tvg-id="SBSPlus.kr" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/03/SBS_plus_2020.svg/revision/latest/scale-to-width-down/512",SBS Plus
+http://itskoi.dothome.co.kr/sbs.php?id=S03
+#EXTINF:-1 tvg-id="tvN.kr" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3d/TvN_Logo_2012.svg/revision/latest/scale-to-width-down/512",tvN
+http://mytv.dothome.co.kr/ch/catv/221.php
 
 
 #EXTINF:-1 tvg-id="cctv1" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png/revision/latest/scale-to-width-down/512",CCTV-1
