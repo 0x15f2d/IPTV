@@ -146,6 +146,8 @@ http://livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
 #EXTM3U http://livecdn.fptplay.net/hda3/music_vhls.smil/playlist.m3u8 (Empty stream)
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml"  x-tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/VIVA_Logo_blue-yellow_solid.svg/779px-VIVA_Logo_blue-yellow_solid.svg.png" group-title="Music",VIVA Russia
+#EXTM3U http://autopilot.catcast.tv/content/39575/index.m3u8
+#EXTM3U https://stream.funcontent.ru/hls/vivarussia/index.m3u8
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 
