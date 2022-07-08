@@ -108,7 +108,7 @@ http://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/71/Box_Hits_screenbug_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Hits
-http://live.vthanh.net/boxhits/mpegts
+http://live.television4you.xyz/boxhits/mpegts
 #EXTINF:-1 tvg-id="boxmovie1" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Movie 1
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
