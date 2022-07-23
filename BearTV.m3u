@@ -500,7 +500,7 @@ http://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer
 
 
 #EXTINF:-1 tvg-id="kcinehd" groups="MOVIES" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Cine
-http://http://103.140.250.237:8080/kcine
+http://103.140.250.237:8080/kcine
 #EXTINF:-1 tvg-id="klifehd" groups="MOVIES|DRAMA" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Life
 http://http://103.140.250.237:8080/klife
 #EXTINF:-1 tvg-id="ksport1hd" groups="SPORTS" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 1
