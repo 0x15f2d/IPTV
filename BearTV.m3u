@@ -3,7 +3,7 @@
 #EXTM3U Link for this file: http://gg.gg/gh-iptv-beartv
 #EXTM3U Credits:
 #EXTM3U BearTV (http://gg.gg/bearlivetv; Snapshot 2022-06-08 17:38)
-#EXTM3U VThanh (http://gg.gg/vthanhtivii,https://hqth.me/vthanhtivi,https://j2c.cc/vthanhtivi,https://playlist.television4you.xyz,https://playlist.television4you.xyz/core/VThanhTivikei.m3u; Snapshot 2022-07-23 21:58)
+#EXTM3U VThanh (http://gg.gg/vthanhtivii,https://hqth.me/vthanhtivi,https://j2c.cc/vthanhtivi,https://playlist.television4you.xyz,https://playlist.television4you.xyz/core/VThanhTivikei.m3u; Snapshot 2022-07-23 18:30)
 
 
 #EXTINF:-1 tvg-id="vtv1hd" groups="NEWS" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
@@ -135,7 +135,8 @@ http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="kix" groups="ENTERTAINMENT|DRAMA|MOVIES|SPORTS" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX
 http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="paramounthd" groups="DRAMA|MOVIES|ENTERTAINMENT" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/09/Paramount_Network_%28Gradient%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Paramount Channel
-http://api.television4you.xyz/v1/getlink/tv360/150/2
+#EXTM3U http://api.television4you.xyz/v1/getlink/tv360/150/2 (s2 means Server #2)
+http://api.television4you.xyz/v1/getlink/tv360_s2/150/2
 #EXTINF:-1 tvg-id="blueantent" groups="ENTERTAINMENT|DRAMA|MOVIES|SPORTS" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/512",Rock Entertainment
 http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="blueantext" groups="ENTERTAINMENT|GAMING" group-title="Entertainment" tvg-logo="https://i.ibb.co/2jg4cYT/Rock-Extreme-Logo.png",Rock Extreme
