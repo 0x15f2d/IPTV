@@ -261,9 +261,9 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.ibb.co/rwmpML0/WOWOW-Cinema-Logo-English.png" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Japan",WOWOW Cinema
 
 #EXTINF:-1 tvg-id="WOWOWLive.jp" tvg-logo="https://i.ibb.co/G3Y8j4d/WOWOW-Live-Logo-English.png" groups="SPORTS" group-title="Japan",WOWOW Live
-http://203.162.235.41:16916
+
 #EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.ibb.co/ScbJr8d/WOWOW-Prime-Logo-English.png" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Japan",WOWOW Prime
-#EXTM3U http://203.162.235.41:16916 (Main broadcast)
+http://203.162.235.41:16916
 
 
 #EXTINF:-1 tvg-id="arirang" tvg-shift="-4" groups="ENTERTAINMENT|NEWS" group-title="Korea" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/94/Arirang_TV_Logo.svg/revision/latest/scale-to-width-down/512",Arirang
