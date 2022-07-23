@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml" x-tvg-url="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml" x-tvg-url="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,http://viva-russia.ru/scheduler/epg/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml" tvg-shift=0 m3uautoload=1
 #EXTM3U Link for this file: http://gg.gg/gh-iptv-beartv
 #EXTM3U Credits:
 #EXTM3U BearTV (http://gg.gg/bearlivetv; Snapshot 2022-06-08 17:38)
@@ -31,7 +31,7 @@ http://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512",ABC Australia
 http://livecdn.fptplay.net/sdb/australiaplus_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/ABC_News2021.svg/revision/latest/scale-to-width-down/512",ABC News
+#EXTINF:-1 tvg-id="ABCNews.us" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/ABC_News2021.svg/revision/latest/scale-to-width-down/512",ABC News
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="antvhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANTV
 http://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/playlist.m3u8
@@ -41,54 +41,54 @@ http://livecdn.fptplay.net/sdb/bbcnew_hls.smil/playlist.m3u8
 #EXTM3U http://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
 #EXTM3U http://livecdn.fptplay.net/sdb/bloomberg_hls.smil/playlist.m3u8
 http://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/CBS_News_2020.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News
+#EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/CBS_News_2020.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/71/CBS_News_Baltimore.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Baltimore
+#EXTINF:-1 tvg-id="CBSNewsBaltimore.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/71/CBS_News_Baltimore.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Baltimore
 http://dai.google.com/linear/hls/event/TMUt418sQMeu1QtneYJ9ag/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b0/CBS_News_Bay_Area.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Bay Area
+#EXTINF:-1 tvg-id="CBSNewsBayArea.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b0/CBS_News_Bay_Area.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Bay Area
 http://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/CBS_News_Boston.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Boston
+#EXTINF:-1 tvg-id="CBSNewsBoston.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/CBS_News_Boston.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Boston
 http://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/45/CBS_News_Chicago.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Chicago
+#EXTINF:-1 tvg-id="CBSNewsChicago.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/45/CBS_News_Chicago.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Chicago
 http://dai.google.com/linear/hls/event/DWt8iR1YQ-OJQsxczu8KfQ/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/CBS_News_Colorado.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Colorado
+#EXTINF:-1 tvg-id="CBSNewsColorado.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/CBS_News_Colorado.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Colorado
 http://dai.google.com/linear/hls/event/EUo67MWSRh6toPi0heJKnQ/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b5/CBS_News_DFW.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News DFW
+#EXTINF:-1 tvg-id="CBSNewsDFW.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b5/CBS_News_DFW.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News DFW
 http://dai.google.com/linear/hls/event/o5J3g4U9T16CvYnS7Qd86Q/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/CBS_News_Los_Angeles.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Los Angeles
+#EXTINF:-1 tvg-id="CBSNewsLosAngeles.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/CBS_News_Los_Angeles.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Los Angeles
 http://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/CBS_News_Miami.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Miami
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/CBS_News_Miami.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Miami
 http://dai.google.com/linear/hls/event/_yODrBHESGSzPe3dqW4gGg/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/aa/CBS_News_Minnesota.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Minnesota
+#EXTINF:-1 tvg-id="CBSNewsMinnesota.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/aa/CBS_News_Minnesota.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Minnesota
 http://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News New York
+#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3c/CBS_News_New_York.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News New York
 http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/CKx1KbY/cbs-news-pittsburgh-2022-logo-black.png" group-title="News",CBS News Pittsburgh
-http://dai.google.com/linear/hls/event/mir-uZYjTu6-8JLMHBTKhQ/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bb/CBS_News_Philly.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Philly
+#EXTINF:-1 tvg-id="CBSNewsPhilly.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bb/CBS_News_Philly.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Philly
 http://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/CBS_News_Sacramento.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Sacramento
+#EXTINF:-1 tvg-id="CBSNewsPittsburgh.us" tvg-logo="https://i.ibb.co/CKx1KbY/cbs-news-pittsburgh-2022-logo-black.png" group-title="News",CBS News Pittsburgh
+http://dai.google.com/linear/hls/event/mir-uZYjTu6-8JLMHBTKhQ/master.m3u8
+#EXTINF:-1 tvg-id="CBSNewsSacramento.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/CBS_News_Sacramento.svg/revision/latest/scale-to-width-down/512" group-title="News",CBS News Sacramento
 http://dai.google.com/linear/hls/event/e7mp4YVGS7O_e7rqRNjKow/master.m3u8
 #EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/512",Channel News Asia
 #EXTM3U http://livecdn.fptplay.net/sdb/newsasia_hls.smil/playlist.m3u8
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/79/Logo_Nh%C3%A2n_D%C3%A2n_TV_%28Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_1%29.png/revision/latest/scale-to-width-down/512?&path-prefix=vi",Citizen
 http://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/512",CNBC
+#EXTINF:-1 tvg-id="CNBCWorld.us" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/512",CNBC
 http://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/f/f9/KenhQuocHoi_logo_2022.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Congress
 http://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="cnn" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN
+#EXTINF:-1 tvg-id="CNNInternationalNorthAmerica.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" group-title="News",CNN International
 #EXTM3U http://livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8
 http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="dw" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",Deutsche Welle
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" group-title="News",Deutsche Welle
 #EXTM3U http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 http://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/hc5a1YP.png" group-title="News",FOX News Now
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" group-title="News",France 24 English
 http://livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.imgur.com/fBgbcxM.png" group-title="News",NBC News Now
+#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://i.imgur.com/fBgbcxM.png" group-title="News",NBC News Now
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",TV5World Asia
 http://livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
@@ -125,17 +125,17 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:/
 http://api.television4you.xyz/v1/getlink/tv360_s2/235/2
 
 
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/BBC_America_logo_2022.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",BBC America
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/BBC_America_logo_2022.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",BBC America
 http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/Fm954Dw/comedy-hub-samsung-1000x1000.png" group-title="Entertainment",Comedy Hub
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-logo="https://i.ibb.co/Fm954Dw/comedy-hub-samsung-1000x1000.png" group-title="Entertainment",Comedy Hub
 http://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="https://i.ibb.co/Mh4td8D/et-live.png" group-title="Entertainment",ET Live
+#EXTINF:-1 tvg-id="ETLive.us" tvg-logo="https://i.ibb.co/Mh4td8D/et-live.png" group-title="Entertainment",ET Live
 http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX
 http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="blueantent" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/512",Rock Entertainment
 http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="blueantext" group-title="Entertainment" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png",Rock Extreme
+#EXTINF:-1 tvg-id="blueantext" group-title="Entertainment" tvg-logo="https://i.ibb.co/2jg4cYT/Rock-Extreme-Logo.png",Rock Extreme
 http://livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Entertainment" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
@@ -196,7 +196,7 @@ http://livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
 http://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth
 http://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="null_epg" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/512",Love Nature
+#EXTINF:-1 tvg-id="LoveNature.ca" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/512",Love Nature
 https://github.com/0x15f2d/IPTV/raw/main/love-nature.m3u8
 #EXTINF:-1 tvg-id="ngwhd" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/National_Geographic_Wild_2018_%28Mini%29.svg/revision/latest/scale-to-width-down/512",Nat Geo Wild
 http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
