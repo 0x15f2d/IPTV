@@ -348,7 +348,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-id="cctv13" groups="NEWS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2f/CCTV-13.png/revision/latest/scale-to-width-down/512",CCTV-13
 #EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 tvg-id="cctv14" groups="FAMILY_KIDS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/74/CCTV-14.png/revision/latest/scale-to-width-down/512",CCTV-14
+#EXTINF:-1 tvg-id="cctvchild" groups="FAMILY_KIDS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/74/CCTV-14.png/revision/latest/scale-to-width-down/512",CCTV-14
 #EXTM3U http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="cctv15" groups="MUSIC" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fa/CCTV-15.png/revision/latest/scale-to-width-down/512",CCTV-15
