@@ -4,6 +4,7 @@
 #EXTM3U Credits:
 #EXTM3U BearTV (http://gg.gg/bearlivetv; Snapshot 2022-06-08 17:38)
 #EXTM3U VThanh (http://gg.gg/vthanhtivii,https://hqth.me/vthanhtivi,https://j2c.cc/vthanhtivi,https://playlist.television4you.xyz,https://playlist.television4you.xyz/core/VThanhTivikei.m3u; Snapshot 2022-07-23 18:30)
+#EXTM3U China IPTV (http://gg.gg/china-iptv; Snapshot 2022-07-24 13:06)
 
 
 #EXTINF:-1 tvg-id="vtv1hd" groups="NEWS" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
@@ -295,42 +296,74 @@ http://mytv.dothome.co.kr/ch/catv/221.php
 
 
 #EXTINF:-1 tvg-id="cctv1" groups="ENTERTAINMENT|NEWS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png/revision/latest/scale-to-width-down/512",CCTV-1
-http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTM3U http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="cctv2" groups="SPORTS|NEWS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/revision/latest/scale-to-width-down/512",CCTV-2
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225643/index.m3u8
 #EXTINF:-1 tvg-id="cctv3" groups="ARTS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1b/CCTV3_201101_logo.png/revision/latest/scale-to-width-down/512",CCTV-3
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+#EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 tvg-id="cctv4" groups="ENTERTAINMENT|FAMILY_KIDS|SPORTS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ec/CCTV-4.png/revision/latest/scale-to-width-down/512",CCTV-4
-
+http://39.135.138.59:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="cctv5" groups="SPORTS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/61/CCTV-5.png/revision/latest/scale-to-width-down/512",CCTV-5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTM3U http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTM3U http://39.134.32.103:6610/270000001111/1110000306/index.m3u8?IASHttpSessionId=OTT
+#EXTM3U http://183.207.249.14/PLTV/3/224/3221225604/index.m3u8
+#EXTM3U http://39.134.116.30:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTM3U http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000316/index.m3u8
+#EXTM3U http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/15903942991.m3u8
+#EXTM3U http://39.134.116.30:8080/PLTV/88888910/224/3221225706/index.m3u8
+#EXTM3U http://117.148.179.136/TVOD/88888888/224/3221231459/index.m3u8
+#EXTM3U http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="cctv5plus" groups="SPORTS" group-title="China" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png",CCTV-5+
-http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTM3U http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTM3U http://[2409:8087:5011:1020::1f]/180000001001/00000001000000001001000000000061/main.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225706/index.m3u8
 #EXTINF:-1 tvg-id="cctv6" groups="ENTERTAINMENT|MOVIES" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/f7/CCTV-6.png/revision/latest/scale-to-width-down/512",CCTV-6
-http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="cctv7" groups="NEWS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/CCTV-7.png/revision/latest/scale-to-width-down/512",CCTV-7
-http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225644/index.m3u8
 #EXTINF:-1 tvg-id="cctv8" groups="ENTERTAINMENT|DRAMA" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest/scale-to-width-down/512",CCTV-8
-http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
-#EXTINF:-1 tvg-id="cctv9" groups="EDUCATION" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/ba/CCTV-9.png/revision/latest/scale-to-width-down/512",CCTV-9
-http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTM3U http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1 tvg-id="cctvjilu" groups="EDUCATION" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/ba/CCTV-9.png/revision/latest/scale-to-width-down/512",CCTV-9
+#EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
+#EXTM3U http://[2409:8087:5c00:10:5::8a]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225633/index.m3u8
+#EXTM3U http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225646/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1 tvg-id="cctv10" groups="TECH_SCIENCE" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/55/CCTV-10.png/revision/latest/scale-to-width-down/512",CCTV-10
-http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
+#EXTM3U http://183.207.249.34:80/PLTV/4/224/3221227317/index.m3u8
+#EXTM3U http://[2409:8087:5c00:10:5::119]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225704/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225636/index.m3u8
 #EXTINF:-1 tvg-id="cctv11" groups="ENTERTAINMENT|DRAMA|ARTS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/88/CCTV-11.png/revision/latest/scale-to-width-down/512",CCTV-11
 http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
 #EXTINF:-1 tvg-id="cctv12" groups="ENTERTAINMENT" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/83/CCTV-12.png/revision/latest/scale-to-width-down/512",CCTV-12
-http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225637/index.m3u8
 #EXTINF:-1 tvg-id="cctv13" groups="NEWS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2f/CCTV-13.png/revision/latest/scale-to-width-down/512",CCTV-13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 tvg-id="cctv14" groups="FAMILY_KIDS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/74/CCTV-14.png/revision/latest/scale-to-width-down/512",CCTV-14
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
+#EXTM3U http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-id="cctv15" groups="MUSIC" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fa/CCTV-15.png/revision/latest/scale-to-width-down/512",CCTV-15
-
+http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="cctv16" groups="SPORTS" group-title="China" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/39/CCTV-16.png/revision/latest/scale-to-width-down/512",CCTV-16
-http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
+#EXTM3U http://ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
+#EXTM3U http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+#EXTM3U http://117.148.179.157/PLTV/88888888/224/3221233403/index.m3u8
+#EXTM3U http://39.134.66.4/PLTV/88888888/224/3221225893/index.m3u8
+#EXTM3U http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8
 #EXTINF:-1 tvg-id="cctv17" groups="TRAVEL" group-title="China" tvg-logo="https://i.ibb.co/x5bnrvc/cctv-17.png",CCTV-17
 #EXTM3U http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTM3U http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" groups="ENTERTAINMENT|MOVIES" group-title="China" tvg-logo="https://i.ibb.co/vHFKZc5/CHC-Action-Movies-logo.png",CHC Action Movies
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-id="null_epg" groups="ENTERTAINMENT|MOVIES|DRAMA" group-title="China" tvg-logo="https://i.ibb.co/y8rChYv/CHC-Home-Theater.png",CHC Home Theater
