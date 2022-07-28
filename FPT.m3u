@@ -5,29 +5,29 @@
 #EXTM3U https://gist.github.com/vietlubu/692041ad78298d5492e8e8da888135d3
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
 udp://@225.1.2.249:30120
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2
 udp://@225.1.2.13:30120
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3
 udp://@225.1.2.247:30120
-#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/VTV4_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/VTV4_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4
 udp://@225.1.2.20:30120
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6
 udp://@225.1.2.245:30120
-#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c7/VTV7_%282015-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c7/VTV7_%282015-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
 udp://@225.1.2.96:30120
-#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8c/VTV8_%282016-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8c/VTV8_%282016-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b9/VTV9_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b9/VTV9_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV9
 udp://@225.1.1.128:30120
 
 
 #EXTINF:-1 tvg-id="abcaustralia" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512",ABC Australia
 udp://@225.1.2.21:30120
-#EXTINF:-1 tvg-id="antvhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANTV
+#EXTINF:-1 tvg-id="antvhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d6/ANTV_Vietnam.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ANTV
 udp://@225.1.2.169:30120
 #EXTINF:-1 tvg-id="bbcworldnews" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/512",BBC World News
 udp://@225.1.2.74:30120
@@ -49,7 +49,7 @@ udp://@225.1.1.46:30120
 udp://@225.1.2.211:30120
 #EXTINF:-1 tvg-id="tv5monde" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",TV5World Asia
 udp://@225.1.1.200:30120
-#EXTINF:-1 tvg-id="qpvnhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/10/800px-QPVN.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",QPVN
+#EXTINF:-1 tvg-id="qpvnhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/10/800px-QPVN.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",QPVN
 udp://@225.1.2.217:30120
 #EXTINF:-1 tvg-id="vovtvhd" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a7/VOVTV_logo_2020.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VOV TV
 udp://@225.1.2.171:30120
@@ -57,31 +57,31 @@ udp://@225.1.2.171:30120
 udp://@225.1.1.43:30120
 
 
-#EXTINF:-1 tvg-id="axnhd" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN
+#EXTINF:-1 tvg-id="axnhd" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN
 udp://@225.1.2.225:30120
-#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
 udp://@225.1.1.142:30120
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax
 udp://@225.1.2.86:30120
-#EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
+#EXTINF:-1 tvg-id="hbohd" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
 udp://@225.1.2.233:30120
 
 
-#EXTINF:-1 tvg-id="kix" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX
+#EXTINF:-1 tvg-id="kix" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX
 udp://@225.1.2.144:30120
 #EXTINF:-1 tvg-id="blueantent" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/512",Rock Entertainment
 udp://@225.1.1.203:30120
 #EXTINF:-1 tvg-id="blueantext" group-title="Entertainment" tvg-logo="https://i.ibb.co/gwsD8QY/Rock-Extreme-BEARTV.png",Rock Extreme
 udp://@225.1.1.204:30120
-#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Entertainment" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV
+#EXTINF:-1 tvg-id="warnertvhd" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Entertainment" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV
 udp://@225.1.1.139:30120
 
 
 #EXTINF:-1 tvg-id="afnhd" tvg-logo="https://i.ibb.co/gZZHg4t/afn-BEARTV.png" group-title="Lifestyle",Asian Food Network
 udp://@225.1.1.198:30120
-#EXTINF:-1 tvg-id="bbclifestyle" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Lifestyle
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Lifestyle
 udp://@225.1.4.23:30120
-#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Asia
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="Lifestyle" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Asia
 udp://@225.1.2.223:30120
 #EXTINF:-1 tvg-id="fashionhd" group-title="Lifestyle" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512",Fashion TV
 udp://@225.1.2.227:30120
@@ -91,19 +91,19 @@ udp://@225.1.2.227:30120
 udp://@225.1.1.245:30120
 
 
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery
 udp://@225.1.1.238:30120
 #EXTINF:-1 tvg-id="ngchd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512",National Geographic
 udp://@225.1.2.235:30120
 #EXTINF:-1 tvg-id="outdoorhd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/512",Outdoor Channel
 udp://@225.1.2.215:30120
-#EXTINF:-1 tvg-id="tlchd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC
+#EXTINF:-1 tvg-id="tlchd" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC
 udp://@225.1.1.236:30120
 
 
-#EXTINF:-1 tvg-id="animalhd" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animal Planet
 udp://@225.1.1.231:30120
-#EXTINF:-1 tvg-id="bbcearth" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth
 udp://@225.1.2.24:30120
 
 
@@ -118,35 +118,35 @@ udp://@225.1.1.201:30120
 udp://@225.1.1.196:30120
 
 
-#EXTINF:-1 tvg-id="vtc1hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/c1/VTC1.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1
+#EXTINF:-1 tvg-id="vtc1hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/c1/VTC1.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC1
 udp://@225.1.2.254:30120
-#EXTINF:-1 tvg-id="vtc2" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/34/VTC2_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2
+#EXTINF:-1 tvg-id="vtc2" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/34/VTC2_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC2
 udp://@225.1.2.202:30120
-#EXTINF:-1 tvg-id="vtc3hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fd/VTC3_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC3
+#EXTINF:-1 tvg-id="vtc3hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/fd/VTC3_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC3
 udp://@225.1.2.251:30120
-#EXTINF:-1 tvg-id="vtc4hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ec/VTC4_logo_2018-2020.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC4
+#EXTINF:-1 tvg-id="vtc4hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ec/VTC4_logo_2018-2020.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC4
 udp://@225.1.2.200:30120
-#EXTINF:-1 tvg-id="vtc5hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7d/VTC5_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC5
+#EXTINF:-1 tvg-id="vtc5hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7d/VTC5_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC5
 udp://@225.1.2.199:30120
-#EXTINF:-1 tvg-id="vtc6hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/VTC6_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC6
+#EXTINF:-1 tvg-id="vtc6hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/VTC6_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC6
 udp://@225.1.2.198:30120
-#EXTINF:-1 tvg-id="vtc7hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/68/VTC7_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC7
+#EXTINF:-1 tvg-id="vtc7hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/68/VTC7_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc7_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC7
 udp://@225.1.2.197:30120
-#EXTINF:-1 tvg-id="vtc8" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/11/VTC8_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC8
+#EXTINF:-1 tvg-id="vtc8" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/11/VTC8_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc8_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC8
 udp://@225.1.2.196:30120
-#EXTINF:-1 tvg-id="vtc9hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a3/VTC9_logo_2018.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC9
+#EXTINF:-1 tvg-id="vtc9hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a3/VTC9_logo_2018.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc9_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC9
 udp://@225.1.2.195:30120
-#EXTINF:-1 tvg-id="vtc10hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/44/VTC10_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC10
+#EXTINF:-1 tvg-id="vtc10hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/44/VTC10_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC10
 udp://@225.1.2.194:30120
-#EXTINF:-1 tvg-id="vtc11" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7e/VTC11_logo_2018.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC11
+#EXTINF:-1 tvg-id="vtc11" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7e/VTC11_logo_2018.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC11
 udp://@225.1.2.193:30120
-#EXTINF:-1 tvg-id="vtc12" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/db/VTC12_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC12
+#EXTINF:-1 tvg-id="vtc12" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/db/VTC12_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc12_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC12
 udp://@225.1.2.51:30120
-#EXTINF:-1 tvg-id="vtc13hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8d/VTC13_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC13
+#EXTINF:-1 tvg-id="vtc13hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8d/VTC13_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc13_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC13
 udp://@225.1.2.250:30120
-#EXTINF:-1 tvg-id="vtc14hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/36/VTC14_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC14
+#EXTINF:-1 tvg-id="vtc14hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/36/VTC14_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc14_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC14
 udp://@225.1.2.88:30120
-#EXTINF:-1 tvg-id="vtc16" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/93/VTC16_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC16
+#EXTINF:-1 tvg-id="vtc16" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/93/VTC16_logo_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtc16_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTC16
 udp://@225.1.2.190:30120
 
 
@@ -154,31 +154,31 @@ udp://@225.1.2.190:30120
 udp://@225.1.1.180:30120
 #EXTINF:-1 tvg-id="htv2hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6f/HTV2_%282019-present%29.png/revision/latest/scale-to-width-down/512",HTV2
 udp://@225.1.1.193:30120
-#EXTINF:-1 tvg-id="htv3" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2b/HTV3_logo_2019-present.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTV3
+#EXTINF:-1 tvg-id="htv3" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2b/HTV3_logo_2019-present.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/htv3_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTV3
 udp://@225.1.1.178:30120
-#EXTINF:-1 tvg-id="htv7hd"tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/67/HTV7_%282017-present%29.png/revision/latest/scale-to-width-down/512" group-title="Networks" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV7
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/67/HTV7_%282017-present%29.png/revision/latest/scale-to-width-down/512" group-title="Networks" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV7
 udp://@225.1.1.192:30120
-#EXTINF:-1 tvg-id="htv9hd"tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/HTV9_%282016-present%29.png/revision/latest/scale-to-width-down/512" group-title="Networks" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV9
+#EXTINF:-1 tvg-id="htv9hd"tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/HTV9_%282016-present%29.png/revision/latest/scale-to-width-down/512" group-title="Networks" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTV9
 udp://@225.1.1.190:30120
-#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/8b/HTVC_Gia_%C4%90%C3%ACnh_logo_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Family
+#EXTINF:-1 tvg-id="htvcgiadinhhd" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/8b/HTVC_Gia_%C4%90%C3%ACnh_logo_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Family
 udp://@225.1.1.170:30120
 #EXTINF:-1 tvg-id="htvkey" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/ae/HTV_Key_logo.png/revision/latest/scale-to-width-down/512",HTV Key
 udp://@225.1.1.177:30120
-#EXTINF:-1 tvg-id="htvcphimhd"tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d6/HTVC_Phim_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Movies
+#EXTINF:-1 tvg-id="htvcphimhd"tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d6/HTVC_Phim_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",HTVC Movies
 udp://@225.1.1.184:30120
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/69/HTV_Sport_logo_2013.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTV Sports
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/69/HTV_Sport_logo_2013.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/htvcthethao_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",HTV Sports
 udp://@225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvcdulichhd"tvg-logo="http://static.wikia.nocookie.net/logos/images/5/51/HTVC_DLCS_HD.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks",HTVC Travelling & Lifestyle
 udp://@225.1.1.166:30120
 #EXTINF:-1 tvg-id="htvcphunuhd"tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/79/HTVC_Women_logo_2016.png/revision/latest/scale-to-width-down/512" group-title="Networks",HTVC Women
 udp://@225.1.1.171:30120
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/8a/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Purely Viet
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/8a/HTVC_Thu%E1%BA%A7n_Vi%E1%BB%87t_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Purely Viet
 udp://@225.1.1.174:30120
-#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="http://static.wikia.nocookie.net/logos/images/1/19/ThuanViet_HD_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Purely Viet HD
+#EXTINF:-1 tvg-id="htvcthuanviethd" tvg-logo="http://static.wikia.nocookie.net/logos/images/1/19/ThuanViet_HD_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Networks" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/htvcthuanviethd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Purely Viet HD
 udp://@225.1.1.186:30120
 
 
-#EXTINF:-1 tvg-id="sctv6hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
+#EXTINF:-1 tvg-id="sctv6hd" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/c/cf/SCTV6_logo_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SCTV6
 udp://@225.1.1.188:30120
 
 
@@ -186,13 +186,13 @@ udp://@225.1.1.188:30120
 udp://@225.1.1.207:30120
 
 
-#EXTINF:-1 tvg-id="boomerang" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Boomerang
+#EXTINF:-1 tvg-id="boomerang" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Boomerang
 udp://@225.1.4.16:30120
 #EXTINF:-1 tvg-id="babyfirst" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/16/Bftvlogo2019.png/revision/latest/scale-to-width-down/512",BabyFirst
 udp://@225.1.1.137:30120
 #EXTINF:-1 tvg-id="babytvhd" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/21/LogoBabyTV-2021-MAIN_logo.png/revision/latest/scale-to-width-down/512",BabyTV
 udp://@225.1.2.146:30120
-#EXTINF:-1 tvg-id="cartoonhd" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="7" catchup-source="http://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cartoon Network
+#EXTINF:-1 tvg-id="cartoonhd" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cartoonnetworkhd_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cartoon Network
 udp://@225.1.2.231:30120
 #EXTINF:-1 tvg-id="davinci" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/512" group-title="Kids",Da Vinci
 udp://@225.1.1.197:30120
