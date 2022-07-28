@@ -186,7 +186,7 @@ http://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=cleartext
-#KODIPROP:inputstream.adaptive.license_key=https://vthanh.net/key.php?kid=6765ea7b7cc54c1c86551d6b3440b39b&key=1613f6b40465bbe91740f78571ac79fa
+#KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=6765ea7b7cc54c1c86551d6b3440b39b&key=1613f6b40465bbe91740f78571ac79fa
 https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
 #EXTINF:-1 tvg-id="ngchd" groups="TECH_SCIENCE|ANIMAL_WILDLIFE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512",National Geographic
 http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
@@ -538,6 +538,7 @@ http://e1.endpoint.cdn.sctvonline.vn/playlist/sctvphimtonghop/index.m3u8|Referer
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=2761754f661634d49560631198dd3122&key=3617e340b77a76fa1232f4f6360157fd
+#EXTM3U https://smarttv-drm.fptplay.net/encrypted_dash/drmlive/14022022k1cine_4000.stream/manifest.mpd
 https://kplus-livecdn.fptplay.net/encrypted_dash/drmlive/14022022k1cine_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="kkidshd" groups="FAMILY_KIDS" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Kids
 #KODIPROP:inputstream=inputstream.adaptive
@@ -552,20 +553,23 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_kplus_kidshd/default/i.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=3c02226f8bec3f948d3e05836c410e7e&key=4a93d65f5e7009bcaf573b187e68fd21
-https://kplus-livecdn.fptplay.net/encrypted_dash/drmlive/14022022k1life_4000.stream/manifest.mpd
+#EXTM3U https://smarttv-drm.fptplay.net/encrypted_dash/drmlive/14022022k1life_4000.stream/manifest.mpd
+#EXTM3U https://kplus-livecdn.fptplay.net/encrypted_dash/drmlive/14022022k1life_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport1hd" groups="SPORTS" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=1fe5426280a93352b2d7f36ff3422772&key=eb024058f8c54948a124d6239afd783e
-https://smarttv-drm.fptplay.net/encrypted_dash/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
+#EXTM3U https://smarttv-drm.fptplay.net/encrypted_dash/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
+https://kplus-livecdn.fptplay.net/encrypted_dash/drmlive/14022022k1sport1box_4000.stream/manifest.mpd
 #EXTINF:-1 tvg-id="ksport2hd" groups="SPORTS" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/512?path-prefix=vi",K+ Sport 2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
+#EXTM3U https://smarttv-drm.fptplay.net/encrypted_dash/drmlive/14022022k1sport2_4000.stream/manifest.mpd
 https://kplus-livecdn.fptplay.net/encrypted_dash/drmlive/14022022k1sport2_4000.stream/manifest.mpd
 
 
