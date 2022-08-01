@@ -174,7 +174,7 @@ http://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 tvg-id="hgtv" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest/scale-to-width-down/512",HGTV
 http://api.television4you.xyz/v1/getlink/tv360/99/2
 #EXTINF:-1 tvg-id="man" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
-#EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/237/3
+http://api.television4you.xyz/v1/getlink/tv360_s2/237/2
 #EXTINF:-1 tvg-id="woman" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
 http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -187,7 +187,7 @@ http://livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=cleartext
 #KODIPROP:inputstream.adaptive.license_key=https://television4you.xyz/key.php?kid=6765ea7b7cc54c1c86551d6b3440b39b&key=1613f6b40465bbe91740f78571ac79fa
-https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
+#EXTM3U https://vstv.broadpeak-aas.com/bpk-tv/prod_history/default/i.mpd
 #EXTINF:-1 tvg-id="ngchd" groups="TECH_SCIENCE|ANIMAL_WILDLIFE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512",National Geographic
 http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" groups="TECH_SCIENCE|ANIMAL_WILDLIFE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/512",Outdoor Channel
