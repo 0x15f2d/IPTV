@@ -1,10 +1,4 @@
 #EXTM3U url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://onetv.click/schedule/epg.xml" x-tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U To prevent overlapping channels. The desired EPG must comes last.
-#EXTM3U Link for this file: http://gg.gg/gh-iptv-beartv
-#EXTM3U Credits:
-#EXTM3U BearTV (http://gg.gg/bearlivetv; Snapshot 2022-06-08 17:38)
-#EXTM3U VThanh (http://gg.gg/vthanhtivii,https://hqth.me/vthanhtivi,https://j2c.cc/vthanhtivi,https://playlist.television4you.xyz,https://playlist.television4you.xyz/core/VThanhTivikei.m3u; Snapshot 2022-08-02 21:00)
-#EXTM3U China IPTV (http://gg.gg/china-iptv; Snapshot 2022-07-24 13:06)
 
 
 #EXTINF:-1 tvg-id="vtv1hd" groups="NEWS" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
@@ -120,11 +114,13 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" groups="ENTERTAINMENT|MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hits" groups="ENTERTAINMENT|MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest/scale-to-width-down/512",Hits
+#EXTM3U http://api.television4you.xyz/v1/getlink/tv360/107/4
 http://api.television4you.xyz/v1/getlink/tv360/107/2
 #EXTINF:-1 tvg-id="hollywoodclassics" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/c6pD6Kg/Hollywood-Classics-Logo-White400x200-0004-HWC.png",Hollywood Classics
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="inthebox" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/bKrJMFt/In-The-Box.png",In the Box
-http://api.television4you.xyz/v1/getlink/tv360_s2/235/2
+http://television4you.xyz/live/nethubitb/9336/playlist.m3u8
+#EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/235/2
 
 
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" groups="DRAMA|MOVIES|ENTERTAINMENT" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/BBC_America_logo_2022.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",BBC America East
@@ -136,8 +132,8 @@ http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
 #EXTINF:-1 tvg-id="kix" groups="ENTERTAINMENT|DRAMA|MOVIES|SPORTS" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX
 http://livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="paramouthd" groups="DRAMA|MOVIES|ENTERTAINMENT" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/09/Paramount_Network_%28Gradient%29.svg/revision/latest/scale-to-width-down/512" group-title="Entertainment",Paramount Network
-http://api.television4you.xyz/v1/getlink/tv360_s2/150/2
-#EXTM3U http://api.television4you.xyz/v1/getlink/tv360/150/2 (s2 means Server #2)
+http://api.television4you.xyz/v1/getlink/tv360_s2/150/4
+#EXTM3U http://api.television4you.xyz/v1/getlink/tv360/150/2 (2 means force Full HD, 4 for adaptive)
 #EXTINF:-1 tvg-id="blueantent" groups="ENTERTAINMENT|DRAMA|MOVIES|SPORTS" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/512",Rock Entertainment
 http://livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="blueantext" groups="ENTERTAINMENT|GAMING" group-title="Entertainment" tvg-logo="https://i.ibb.co/2jg4cYT/Rock-Extreme-Logo.png",Rock Extreme
@@ -172,9 +168,10 @@ http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_def
 #EXTINF:-1 tvg-id="null_epg" groups="LIFE_STYLE|SPORTS" tvg-logo="https://i.ibb.co/JCqgthf/golfnews-logo-2022.png" group-title="Lifestyle",Golf News
 http://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 tvg-id="hgtv" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest/scale-to-width-down/512",HGTV
+#EXTM3U http://api.television4you.xyz/v1/getlink/tv360/99/4
 http://api.television4you.xyz/v1/getlink/tv360/99/2
 #EXTINF:-1 tvg-id="man" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
-http://api.television4you.xyz/v1/getlink/tv360_s2/237/2
+#EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/237/4
 #EXTINF:-1 tvg-id="woman" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
 http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
