@@ -164,8 +164,7 @@ http://livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="musicbox" groups="ENTERTAINMENT|MUSIC" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Music BOX
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTM3U http://livecdn.fptplay.net/hda3/music_vhls.smil/playlist.m3u8 (Empty stream)
-#EXTM3U This channel blongs to GMT +2
-#EXTINF:-1 tvg-id="null_epg" groups="ENTERTAINMENT|MUSIC" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/ac/VH1_2013_%28Print%29.svg/revision/latest/scale-to-width-down/512",VH1 (Europe)
+#EXTINF:-1 tvg-id="null_epg" groups="ENTERTAINMENT|MUSIC" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/ac/VH1_2013_%28Print%29.svg/revision/latest/scale-to-width-down/512",VH1 (Italy)
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-id="VIVARussia.ru" tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml"  x-tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/VIVA_Logo_blue-yellow_solid.svg/779px-VIVA_Logo_blue-yellow_solid.svg.png" groups="ENTERTAINMENT|MUSIC" group-title="Music",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
