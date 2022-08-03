@@ -130,7 +130,7 @@ http://api.television4you.xyz/v1/getlink/tv360/107/2
 #EXTINF:-1 tvg-id="hollywoodclassics" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/c6pD6Kg/Hollywood-Classics-Logo-White400x200-0004-HWC.png",Hollywood Classics
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="inthebox" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/bKrJMFt/In-The-Box.png",In the Box
-http://television4you.xyz/live/nethubitb/9336/playlist.m3u8
+#EXTM3U http://television4you.xyz/live/nethubitb/9336/playlist.m3u8
 #EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/235/2
 
 
@@ -636,5 +636,5 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://
 
 
 #EXTM3U Credits:
-#EXTM3U https://playlist.television4you.xyz/ (1659550248)
+#EXTM3U https://playlist.television4you.xyz/ (1659550694)
 #EXTM3U https://github.com/iptv-org/iptv (1659520539)
