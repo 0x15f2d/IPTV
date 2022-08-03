@@ -99,14 +99,14 @@ http://livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" groups="NEWS|LIFE_STYLE" group-title="News" tvg-logo="https://i.ibb.co/qgscQgR/usa-today.png",USA Today
 http://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
-#EXTINF:-1 tvg-id="RTAmerica.us" groups="NEWS" group-title="News" tvg-logo="https://i.ibb.co/qgscQgR/usa-today.png",RT Global
+#EXTINF:-1 tvg-id="RTAmerica.us" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg/revision/latest/scale-to-width-down/512",Russia Today
 http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" groups="NEWS|LIFE_STYLE|DRAMA" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a7/VOVTV_logo_2020.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VOV TV
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 #EXTM3U http://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ttxvnhd" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest/scale-to-width-down/512?path-prefix=vi",VNews
 http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WeatherSpy.us" groups="NEWS" group-title="Weather" tvg-logo="hhttps://i.ibb.co/m8bvw3R/weather-spy-512px.png",WeatherSpy
+#EXTINF:-1 tvg-id="WeatherSpy.us" groups="NEWS" group-title="Weather" tvg-logo="https://i.ibb.co/m8bvw3R/weather-spy-512px.png",WeatherSpy
 http://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
 
 
@@ -134,7 +134,7 @@ http://television4you.xyz/live/nethubitb/9336/playlist.m3u8
 #EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/235/2
 
 
-#EXTINF:-1 tvg-id="null_epg" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/Amc%2B_2020.svg/revision/latest/scale-to-width-down/512" groups="DRAMA|MOVIES|ENTERTAINMENT" group-title="Entertainment",AMC+
+#EXTINF:-1 tvg-id="AMCPlus.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/Amc%2B_2020.svg/revision/latest/scale-to-width-down/512" groups="DRAMA|MOVIES|ENTERTAINMENT" group-title="Entertainment",AMC+
 http://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest/scale-to-width-down/512" groups="DRAMA|MOVIES|ENTERTAINMENT" group-title="Entertainment",AMC East
 http://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
@@ -635,5 +635,6 @@ http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
 http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTM3U Credits: https://playlist.television4you.xyz/ (1659455315)
-#EXTM3U IPTV.org: https://github.com/iptv-org/iptv (1659519613)
+#EXTM3U Credits:
+#EXTM3U https://playlist.television4you.xyz/ (1659455315)
+#EXTM3U https://github.com/iptv-org/iptv (1659520539)
