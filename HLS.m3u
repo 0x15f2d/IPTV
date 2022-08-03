@@ -168,8 +168,8 @@ http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_def
 #EXTINF:-1 tvg-id="null_epg" groups="LIFE_STYLE|SPORTS" tvg-logo="https://i.ibb.co/JCqgthf/golfnews-logo-2022.png" group-title="Lifestyle",Golf News
 http://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
 #EXTINF:-1 tvg-id="hgtv" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest/scale-to-width-down/512",HGTV
-#EXTM3U http://api.television4you.xyz/v1/getlink/tv360/99/4
 http://api.television4you.xyz/v1/getlink/tv360/99/2
+#EXTM3U http://api.television4you.xyz/v1/getlink/tv360/99/4
 #EXTINF:-1 tvg-id="man" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
 #EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/237/4
 #EXTINF:-1 tvg-id="woman" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
@@ -612,4 +612,4 @@ http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
 http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
-#EXTM3U Credits: https://playlist.television4you.xyz/ (1659503697)
+#EXTM3U Credits: https://playlist.television4you.xyz/ (1659455315)
