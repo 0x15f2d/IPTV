@@ -115,7 +115,7 @@ http://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" groups="ENTERTAINMENT|MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/71/Box_Hits_screenbug_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Hits
-#EXTM3U http://live.television4you.xyz/boxhits/mpegts
+http://live.television4you.xyz:8081/boxhits/mpegts
 #EXTINF:-1 tvg-id="boxmovie1" groups="ENTERTAINMENT|MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Movie 1
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="cinemaworldhd" groups="ENTERTAINMENT|MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
@@ -125,8 +125,8 @@ http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" groups="ENTERTAINMENT|MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hits" groups="ENTERTAINMENT|MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest/scale-to-width-down/512",Hits
-#EXTM3U http://api.television4you.xyz/v1/getlink/tv360/107/4
 http://api.television4you.xyz/v1/getlink/tv360/107/2
+#EXTM3U http://api.television4you.xyz/v1/getlink/tv360/107/4
 #EXTINF:-1 tvg-id="hollywoodclassics" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/c6pD6Kg/Hollywood-Classics-Logo-White400x200-0004-HWC.png",Hollywood Classics
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="inthebox" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/bKrJMFt/In-The-Box.png",In the Box
@@ -636,5 +636,5 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://
 
 
 #EXTM3U Credits:
-#EXTM3U https://playlist.television4you.xyz/ (1659455315)
+#EXTM3U https://playlist.television4you.xyz/ (1659550248)
 #EXTM3U https://github.com/iptv-org/iptv (1659520539)
