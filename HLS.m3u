@@ -241,8 +241,8 @@ http://203.162.235.41:16915
 #EXTINF:-1 tvg-id="FoxJapan.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|MOVIES" group-title="Japan",FOX Japan
 
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL" group-title="Japan",Fuji TV
-http://fujitv2.mov3.co/hls/fujitv.m3u8
 http://203.162.235.41:16904
+#EXTM3U http://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|SPORTS" group-title="Japan",NHK BS1
 http://203.162.235.41:16909
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL" group-title="Japan",NHK BS Premium
