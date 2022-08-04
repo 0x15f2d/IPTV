@@ -2,9 +2,9 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="Built-in Stream",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDDEF"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="OJP Stream",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDOJP",URI="https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_audio.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (NHK)",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDXJP",URI="https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (Akamai)",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDXJP",URI="https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="OJP Stream",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="AUDOJP",URI="https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (NHK)",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="AUDXJP",URI="https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (Akamai)",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="AUDXJP",URI="https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="en-JP",NAME="English (Japan)",INSTREAM-ID="CC1",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Bahasa Indonesia",LANGUAGE="id-ID",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/id/webvtt.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Français (France)",LANGUAGE="fr-FR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/fr/webvtt.m3u8"
