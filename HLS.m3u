@@ -61,10 +61,10 @@ http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLin
 #EXTM3U https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8 (This link must be https or get 400'd)
 #EXTINF:-1 tvg-id="NYXT.us" tvg-logo="https://i.ibb.co/P1L9BMy/NYXT-nyc.png" groups="NEWS" group-title="News",NYXT
 http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
-#EXTINF:-1 tvg-id="tv5monde" groups="NEWS|ENTERTAINMENT|DRAMA" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",TV5World Asia
-http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTAmerica.us" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg/revision/latest/scale-to-width-down/512",Russia Today
 http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="tv5monde" groups="NEWS|ENTERTAINMENT|DRAMA" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",TV5World Asia
+http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" groups="NEWS|LIFE_STYLE" group-title="News" tvg-logo="https://i.ibb.co/qgscQgR/usa-today.png",USA Today
 http://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 
