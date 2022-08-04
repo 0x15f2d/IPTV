@@ -163,6 +163,7 @@ http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_def
 http://api.television4you.xyz/v1/getlink/tv360/99/2
 #EXTM3U http://api.television4you.xyz/v1/getlink/tv360/99/4
 #EXTINF:-1 tvg-id="man" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
+http://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 #EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/237/4
 #EXTINF:-1 tvg-id="woman" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
 http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -262,7 +263,7 @@ http://203.162.235.41:16916
 
 
 #EXTM3U Credits:
-#EXTM3U https://playlist.television4you.xyz/ (1659550694)
+#EXTM3U https://playlist.television4you.xyz/ (1659628946)
 #EXTM3U https://github.com/iptv-org/iptv (1659520539)
 
 #EXTM3U Useful backend:
