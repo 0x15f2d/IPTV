@@ -186,17 +186,17 @@ http://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTM3U Science: Nature
-#EXTINF:-1 tvg-id="animalhd" groups="ANIMAL_WILDLIFE" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animal Planet
+#EXTINF:-1 tvg-id="animalhd" groups="ANIMAL_WILDLIFE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animal Planet
 http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="bbcearth" groups="ANIMAL_WILDLIFE|LIFE_STYLE|TRAVEL" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth
+#EXTINF:-1 tvg-id="bbcearth" groups="ANIMAL_WILDLIFE|LIFE_STYLE|TRAVEL" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" groups="ANIMAL_WILDLIFE" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/512",Love Nature
+#EXTINF:-1 tvg-id="LoveNature.ca" groups="ANIMAL_WILDLIFE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/512",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" groups="ANIMAL_WILDLIFE" group-title="Entertainment" tvg-logo="https://i.ibb.co/g6FLdyS/Love-Nature-4-K-logo.png",Love Nature 4K
+#EXTINF:-1 tvg-id="LoveNature.ca" groups="ANIMAL_WILDLIFE" group-title="Science" tvg-logo="https://i.ibb.co/g6FLdyS/Love-Nature-4-K-logo.png",Love Nature 4K
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="ngwhd" groups="ANIMAL_WILDLIFE" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/National_Geographic_Wild_2018_%28Mini%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Nat Geo Wild
+#EXTINF:-1 tvg-id="ngwhd" groups="ANIMAL_WILDLIFE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/National_Geographic_Wild_2018_%28Mini%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Nat Geo Wild
 http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" groups="TECH_SCIENCE|EDUCATION|TRAVEL|ANIMAL_WILDLIFE" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logos/images/5/5d/Planet_Earth_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Planet Earth
+#EXTINF:-1 tvg-id="planetearthhd" groups="TECH_SCIENCE|EDUCATION|TRAVEL|ANIMAL_WILDLIFE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logos/images/5/5d/Planet_Earth_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Planet Earth
 http://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
