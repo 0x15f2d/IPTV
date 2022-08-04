@@ -439,8 +439,8 @@ http://api.television4you.xyz/v1/getlink/vieon/vtvcab18-on-sports-news
 http://api.television4you.xyz/v1/getlink/mytv_web/201/hd
 #EXTM3U http://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab20hd" groups="LIFE_STYLE|FAMILY_KIDS" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/aa/VTVcab_20.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://api.television4you.xyz/v1/dvr/vieon/vtvcab20-vfamily/${start}/${offset}",VTVCab 20
-http://api.television4you.xyz/v1/getlink/tv360_s2/187/0
-#EXTM3U http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
+http://e3.endpoint.cdn.sctvonline.vn/secure/vtvcab20/index.m3u8?md5=-sx6Mn0Nya1J6PIsvSKbWQ&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/187/0
 #EXTINF:-1 tvg-id="vtvcab21hd" groups="FAMILY_KIDS" group-title="Networks" tvg-logo="http://static.wikia.nocookie.net/logos/images/8/89/VTVcab_21.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://api.television4you.xyz/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}",VTVCab 21
 http://api.television4you.xyz/v1/getlink/vieon/vtvcab21-cartoon-kid
 #EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/179/4
