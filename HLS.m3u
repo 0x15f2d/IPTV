@@ -181,6 +181,8 @@ http://endpnt.com/hls/nasa4k60/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tlchd" groups="TECH_SCIENCE|LIFE_STYLE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC
 http://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="null_epg" groups="TECH_SCIENCE" group-title="Science" tvg-logo="https://i.ibb.co/kcK4jw5/Vox-channel-512px.png",Vox Channel
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Vox/live
 
 
 #EXTM3U Science: Nature
@@ -262,3 +264,6 @@ http://203.162.235.41:16916
 #EXTM3U Credits:
 #EXTM3U https://playlist.television4you.xyz/ (1659550694)
 #EXTM3U https://github.com/iptv-org/iptv (1659520539)
+
+#EXTM3U Useful backend:
+#EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/{channel_id}/live
