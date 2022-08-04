@@ -2,43 +2,43 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="Built-in Stream",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDDEF"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="OJP Stream",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDOJP",URI="http://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_audio.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (NHK)",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDXJP",URI="http://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (Akamai)",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDXJP",URI="http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="OJP Stream",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDOJP",URI="https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (NHK)",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDXJP",URI="https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (Akamai)",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDXJP",URI="https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="en-JP",NAME="English (Japan)",INSTREAM-ID="CC1",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Bahasa Indonesia",LANGUAGE="id-ID",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/id/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Français (France)",LANGUAGE="fr-FR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/fr/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Español (España)",LANGUAGE="es-ES",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/es/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Português (Portugal)",LANGUAGE="pt-PT",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/pt/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Tiếng Việt",LANGUAGE="vi-VN",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/vi/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Українська",LANGUAGE="uk-UA",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/uk/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="ภาษาไทย",LANGUAGE="th-TH",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/th/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="코리언",LANGUAGE="ko-KR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/ko/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="中文（简体）",LANGUAGE="zh-CN",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/zh-CN/webvtt.m3u8"
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="中文（繁體）",LANGUAGE="zh-TW",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="http://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/zh-TW/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Bahasa Indonesia",LANGUAGE="id-ID",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/id/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Français (France)",LANGUAGE="fr-FR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/fr/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Español (España)",LANGUAGE="es-ES",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/es/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Português (Portugal)",LANGUAGE="pt-PT",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/pt/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Tiếng Việt",LANGUAGE="vi-VN",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/vi/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Українська",LANGUAGE="uk-UA",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/uk/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="ภาษาไทย",LANGUAGE="th-TH",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/th/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="코리언",LANGUAGE="ko-KR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/ko/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="中文（简体）",LANGUAGE="zh-CN",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/zh-CN/webvtt.m3u8"
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="中文（繁體）",LANGUAGE="zh-TW",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/zh-TW/webvtt.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=5816404,AVERAGE-BANDWIDTH=6740800,CODECS="avc1.4d4029,mp4a.40.5",RESOLUTION=1920x1080,FRAME-RATE=29.970,AUDIO="AUDOJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_4M.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2978602,AVERAGE-BANDWIDTH=3440800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="AUDOJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_2M.m3u8
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_2M.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1559699,AVERAGE-BANDWIDTH=1790800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="AUDOJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=992139,AVERAGE-BANDWIDTH=1130800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=640x360,FRAME-RATE=29.970,AUDIO="AUDOJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_600k.m3u8
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_600k.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=294786,AVERAGE-BANDWIDTH=325600,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=320x180,FRAME-RATE=29.970,AUDIO="AUDOJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_200k.m3u8
+https://nhkwlive-ojp.webcdn.stream.ne.jp/hls/live/2003459/nhkwlive-ojp/index_200k.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2978602,AVERAGE-BANDWIDTH=3440800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_2M.m3u8
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_2M.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2978602,AVERAGE-BANDWIDTH=3440800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_2M.m3u8
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_2M.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1559699,AVERAGE-BANDWIDTH=1790800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1559699,AVERAGE-BANDWIDTH=1790800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=992139,AVERAGE-BANDWIDTH=1130800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=640x360,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_600k.m3u8
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_600k.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=992139,AVERAGE-BANDWIDTH=1130800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=640x360,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_600k.m3u8
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_600k.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=294786,AVERAGE-BANDWIDTH=325600,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=320x180,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_200k.m3u8
+https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_200k.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=294786,AVERAGE-BANDWIDTH=325600,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=320x180,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
-http://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_200k.m3u8
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_200k.m3u8
