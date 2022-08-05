@@ -57,9 +57,9 @@ http://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/87/Weathernews.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",WeatherNews
 http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTM3U http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" groups="NEWS" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
+#EXTINF:-1 tvg-id="vtv1hd" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
 http://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" groups="NEWS" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/VTV4_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4
+#EXTINF:-1 tvg-id="vtv4hd" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/VTV4_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV4
 http://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
 
 
@@ -106,11 +106,11 @@ http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-logo="https://i.ibb.co/f0JCRp2/stories-by-amc-512px-plex.png" groups="DRAMA|MOVIES|ENTERTAINMENT" group-title="Entertainment",Stories by AMC
 http://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" groups="ENTERTAINMENT|DRAMA" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3
+#EXTINF:-1 tvg-id="vtv3hd" groups="ENTERTAINMENT|DRAMA" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3
 http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" groups="ENTERTAINMENT|DRAMA" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5
+#EXTINF:-1 tvg-id="vtv5hd" groups="ENTERTAINMENT|DRAMA" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5
 http://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" groups="ENTERTAINMENT|DRAMA|SPORTS" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6
+#EXTINF:-1 tvg-id="vtv6hd" groups="ENTERTAINMENT|DRAMA|SPORTS" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6
 http://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" groups="ENTERTAINMENT|DRAMA|MOVIES" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Entertainment" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
@@ -250,7 +250,7 @@ http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="planetearthhd" groups="TECH_SCIENCE|EDUCATION|TRAVEL|ANIMAL_WILDLIFE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logos/images/5/5d/Planet_Earth_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Planet Earth
 http://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv2hd" groups="TECH_SCIENCE|EDUCATION" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2
+#EXTINF:-1 tvg-id="vtv2hd" groups="TECH_SCIENCE|EDUCATION" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2
 http://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.us" groups="TECH_SCIENCE|ANIMAL_WILDLIFE" group-title="Science" tvg-logo="https://i.ibb.co/m8bvw3R/weather-spy-512px.png",WeatherSpy
 http://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
