@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://onetv.click/schedule/epg.xml" x-tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://onetv.click/schedule/epg.xml" x-tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,http://onetv.click/schedule/epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTM3U VTV
 #EXTINF:-1 tvg-id="vtv1hd" groups="NEWS" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
@@ -59,6 +59,13 @@ http://vips-livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://i.imgur.com/fBgbcxM.png" groups="NEWS" group-title="News",NBC News Now
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTM3U https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8 (This link must be https or get 400'd)
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|NEWS|ARTS|EDUCATION|TECH_SCIENCE" group-title="News",NHK World Japan
+https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
+#EXTM3U http://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/playlist.m3u8; 10 Minutes Slower than RTC.
+#EXTM3U http://203.162.235.41:16902
+#EXTM3U http://v-pi.theus6tv.tk/hls/23.2/playlist.m3u8 (WNJS-DT2)
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.ibb.co/6ZyXNd7/Nippon-TV-News24-logo.png" groups="NEWS" group-title="News",Nippon TV News24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="NYXT.us" tvg-logo="https://i.ibb.co/P1L9BMy/NYXT-nyc.png" groups="NEWS" group-title="News",NYXT
 http://api.new.livestream.com/accounts/19770665/events/5522162/live.m3u8
 #EXTINF:-1 tvg-id="RTAmerica.us" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg/revision/latest/scale-to-width-down/512",Russia Today
@@ -67,11 +74,16 @@ http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" groups="NEWS|LIFE_STYLE" group-title="News" tvg-logo="https://i.ibb.co/qgscQgR/usa-today.png",USA Today
 http://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
+#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/87/Weathernews.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTM3U http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 
 
 #EXTM3U Entertainment: Movies
 #EXTINF:-1 tvg-id="animaxhd" groups="ENTERTAINMENT|MOVIES|FAMILY_KIDS" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animax
 http://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/AT-X_logo.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|ARTS|DRAMA|MOVIES" group-title="Entertainment",AT-X
+http://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="axnhd" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" groups="ENTERTAINMENT|MOVIES" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/71/Box_Hits_screenbug_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Hits
@@ -112,6 +124,55 @@ http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
 http://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" groups="ENTERTAINMENT|DRAMA|MOVIES" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Entertainment" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
+
+
+#EXTM3U Entertainment: Drama/Reality TV - Local Japanese TVs
+#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://i.ibb.co/3rDzWpV/BS-Asahi-Logo-English.png" groups="SHOPPING|DRAMA|LIFE_STYLE|EDUCATION|ENTERTAINMENT" group-title="Entertainment",BS Asahi
+#EXTM3U http://203.162.235.41:16914
+#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/512px-BS4_logo.svg.png" groups="SHOPPING|DRAMA|LIFE_STYLE|EDUCATION|ENTERTAINMENT|NEWS" group-title="Entertainment",BS Nippon
+#EXTM3U http://203.162.235.41:16912
+#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://i.ibb.co/NZmLkhc/bs-fuji-transparent.png" groups="DRAMA|LIFE_STYLE|EDUCATION|ENTERTAINMENT" group-title="Entertainment",BS Fuji
+#EXTM3U http://203.162.235.41:16911
+#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/89/BS-TBS_2020.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|SPORTS" group-title="Entertainment",BS-TBS
+#EXTM3U http://203.162.235.41:16913
+#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.ibb.co/gt8BbM7/bs-tv-tokyo-transparent.png" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL" group-title="Entertainment",BS TV Tokyo
+#EXTM3U http://203.162.235.41:16915
+#EXTINF:-1 tvg-id="FoxJapan.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|MOVIES" group-title="Entertainment",FOX Japan
+
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL" group-title="Entertainment",Fuji TV
+http://fujitv2.mov3.co/hls/fujitv.m3u8
+#EXTM3U http://203.162.235.41:16904
+#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|SPORTS" group-title="Entertainment",NHK BS1
+#EXTM3U http://203.162.235.41:16909
+#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL" group-title="Entertainment",NHK BS Premium
+http://203.162.235.41:16910
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|FAMILY_KIDS" group-title="Entertainment",NHK Educational
+
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/NHK2020-.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|NEWS" group-title="Entertainment",NHK General
+http://nhk2.mov3.co/hls/nhk.m3u8
+#EXTM3U http://203.162.235.41:16903
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/NHK_World_Premium_2020.jpg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|NEWS" group-title="Entertainment",NHK World Premium
+#EXTM3U http://203.162.235.41:16901
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|NEWS" group-title="Entertainment",Nippon TV
+http://ntv2.mov3.co/hls/ntv.m3u8
+#EXTM3U http://203.162.235.41:16905
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|NEWS" group-title="Entertainment",TBS
+http://tbs1.mov3.co/hls/tbs.m3u8
+#EXTM3U http://203.162.235.41:16907
+#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.ibb.co/9cq1ySL/Tokyo-MX-1-1000px.png" groups="ENTERTAINMENT|NEWS|ARTS" group-title="Entertainment",Tokyo MX 1
+http://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://i.ibb.co/Nr6sbbD/Tokyo-MX-2-1000px.png" groups="NEWS" group-title="Entertainment",Tokyo MX 2
+http://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/00/TVAsahi_2003.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|NEWS" group-title="Entertainment",TV Asahi
+#EXTM3U http://203.162.235.41:16906
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|TRAVEL|LIFE_STYLE|NEWS" group-title="Entertainment",TV Tokyo
+#EXTM3U http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.ibb.co/rwmpML0/WOWOW-Cinema-Logo-English.png" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Entertainment",WOWOW Cinema
+
+#EXTINF:-1 tvg-id="WOWOWLive.jp" tvg-logo="https://i.ibb.co/G3Y8j4d/WOWOW-Live-Logo-English.png" groups="SPORTS" group-title="Entertainment",WOWOW Live
+
+#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.ibb.co/ScbJr8d/WOWOW-Prime-Logo-English.png" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Entertainment",WOWOW Prime
+#EXTM3U http://203.162.235.41:16916
 
 
 #EXTM3U Entertainment: Music
@@ -199,67 +260,6 @@ http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
 http://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="WeatherSpy.us" groups="TECH_SCIENCE|ANIMAL_WILDLIFE" group-title="Science" tvg-logo="https://i.ibb.co/m8bvw3R/weather-spy-512px.png",WeatherSpy
 http://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
-
-
-#EXTM3U Japan
-#EXTINF:-1 tvg-id="ATX.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/AT-X_logo.svg/revision/latest/scale-to-width-down/512" groups="ARTS|DRAMA|MOVIES" group-title="Japan",AT-X
-http://sub2.neetball.net/live/neet.m3u8
-#EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://i.ibb.co/3rDzWpV/BS-Asahi-Logo-English.png" groups="SHOPPING|DRAMA|LIFE_STYLE|EDUCATION|ENTERTAINMENT" group-title="Japan",BS Asahi
-http://203.162.235.41:16914
-#EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/512px-BS4_logo.svg.png" groups="SHOPPING|DRAMA|LIFE_STYLE|EDUCATION|ENTERTAINMENT|NEWS" group-title="Japan",BS Nippon
-http://203.162.235.41:16912
-#EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://i.ibb.co/NZmLkhc/bs-fuji-transparent.png" groups="DRAMA|LIFE_STYLE|EDUCATION|ENTERTAINMENT" group-title="Japan",BS Fuji
-http://203.162.235.41:16911
-#EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/89/BS-TBS_2020.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|SPORTS" group-title="Japan",BS-TBS
-http://203.162.235.41:16913
-#EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.ibb.co/gt8BbM7/bs-tv-tokyo-transparent.png" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL" group-title="Japan",BS TV Tokyo
-http://203.162.235.41:16915
-#EXTINF:-1 tvg-id="FoxJapan.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|MOVIES" group-title="Japan",FOX Japan
-
-#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL" group-title="Japan",Fuji TV
-http://fujitv2.mov3.co/hls/fujitv.m3u8
-#EXTM3U http://203.162.235.41:16904
-#EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|SPORTS" group-title="Japan",NHK BS1
-http://203.162.235.41:16909
-#EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL" group-title="Japan",NHK BS Premium
-http://203.162.235.41:16910
-#EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|SPORTS|NEWS" group-title="Japan",NHK Educational
-
-#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/NHK2020-.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|NEWS" group-title="Japan",NHK General
-http://nhk2.mov3.co/hls/nhk.m3u8
-#EXTM3U http://203.162.235.41:16903
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/NHK_World_Premium_2020.jpg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|NEWS" group-title="Japan",NHK World Premium
-http://203.162.235.41:16901
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|NEWS|ARTS|EDUCATION|DRAMA|TECH_SCIENCE" group-title="Japan",NHK World Japan
-https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
-#EXTM3U http://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/playlist.m3u8; 10 Minutes Slower than RTC.
-#EXTM3U http://203.162.235.41:16902
-#EXTM3U http://v-pi.theus6tv.tk/hls/23.2/playlist.m3u8 (WNJS-DT2)
-#EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|TRAVEL|NEWS" group-title="Japan",Nippon TV
-http://ntv2.mov3.co/hls/ntv.m3u8
-#EXTM3U http://203.162.235.41:16905
-#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.ibb.co/6ZyXNd7/Nippon-TV-News24-logo.png" groups="NEWS" group-title="Japan",Nippon TV News24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|LIFE_STYLE|NEWS" group-title="Japan",TBS
-http://tbs1.mov3.co/hls/tbs.m3u8
-#EXTM3U http://203.162.235.41:16907
-#EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.ibb.co/9cq1ySL/Tokyo-MX-1-1000px.png" groups="ENTERTAINMENT|NEWS|ARTS" group-title="Japan",Tokyo MX 1
-http://movie.mcas.jp/mcas/mx1_2/master.m3u8
-#EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://i.ibb.co/Nr6sbbD/Tokyo-MX-2-1000px.png" groups="NEWS" group-title="Japan",Tokyo MX 2
-http://movie.mcas.jp/mcas/mx2_2/master.m3u8
-#EXTINF:-1 tvg-id="TVAsahi.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/00/TVAsahi_2003.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|NEWS" group-title="Japan",TV Asahi
-http://203.162.235.41:16906
-#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" groups="ENTERTAINMENT|TRAVEL|LIFE_STYLE|NEWS" group-title="Japan",TV Tokyo
-http://203.162.235.41:16908
-#EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/87/Weathernews.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="Japan",WeatherNews
-http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
-#EXTM3U http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-#EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.ibb.co/rwmpML0/WOWOW-Cinema-Logo-English.png" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Japan",WOWOW Cinema
-
-#EXTINF:-1 tvg-id="WOWOWLive.jp" tvg-logo="https://i.ibb.co/G3Y8j4d/WOWOW-Live-Logo-English.png" groups="SPORTS" group-title="Japan",WOWOW Live
-
-#EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.ibb.co/ScbJr8d/WOWOW-Prime-Logo-English.png" groups="ENTERTAINMENT|DRAMA|MOVIES" group-title="Japan",WOWOW Prime
-http://203.162.235.41:16916
 
 
 #EXTM3U Credits:
