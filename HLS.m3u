@@ -86,7 +86,6 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="inthebox" groups="ENTERTAINMENT" group-title="Entertainment" tvg-logo="https://i.ibb.co/bKrJMFt/In-The-Box.png",In the Box
 http://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
-#EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/235/2
 
 
 #EXTM3U Entertainment: Drama/Reality TV
@@ -215,7 +214,7 @@ http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="null_epg" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/2e/FASHION_TV_HD_2017.png/revision/latest/scale-to-width-down/512",Fashion TV UHD
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hgtv" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest/scale-to-width-down/512",HGTV
-http://api.television4you.xyz/v1/getlink/tv360/99/2
+https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 #EXTM3U http://api.television4you.xyz/v1/getlink/tv360/99/4
 #EXTINF:-1 tvg-id="man" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
 http://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
@@ -259,7 +258,7 @@ http://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
 
 
 #EXTM3U Credits:
-#EXTM3U http://playlist.vthanhtivi.pw/ (1659640082)
+#EXTM3U http://playlist.vthanhtivi.pw/ (1659690118)
 #EXTM3U https://github.com/iptv-org/iptv (1659520539)
 
 #EXTM3U Useful backend:
