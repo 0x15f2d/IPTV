@@ -195,7 +195,7 @@ http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="happykids" groups="FAMILY_KIDS" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Happy Kids
 http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv7hd" groups="FAMILY_KIDS|EDUCATION" group-title="VTV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c7/VTV7_%282015-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
+#EXTINF:-1 tvg-id="vtv7hd" groups="FAMILY_KIDS|EDUCATION" group-title="Entertainment" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c7/VTV7_%282015-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
 http://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
 
 
