@@ -1,9 +1,6 @@
+#EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
-
-
-
-
 
 #EXTM3U Independent Audio Streams
 #EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="Embedded Stream",AUTOSELECT=YES,DEFAULT=YES,GROUP-ID="AUDDEF"
@@ -11,10 +8,6 @@
 #EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (NHK Backup)",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="AUDXJP",URI="https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (Akamai Main)",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="AUDXJP",URI="https://nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (Akamai Backup)",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="AUDXJP",URI="https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
-
-
-
-
 
 #EXTM3U Subtitles and Closed Captions
 #EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="en-JP",NAME="English (Japan)",INSTREAM-ID="CC1",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound"
@@ -30,10 +23,9 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="中文（繁體）",LANGUAGE="zh-TW",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/zh-TW/webvtt.m3u8"
 
 
-
-
-
+#EXTM3U Video Streams
 #EXTM3U OJP Streams (Main)
+
 #EXTM3U 1080p
 #EXT-X-STREAM-INF:BANDWIDTH=5816404,AVERAGE-BANDWIDTH=6740800,CODECS="avc1.4d4029,mp4a.40.5",RESOLUTION=1920x1080,FRAME-RATE=29.970,AUDIO="AUDOJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_4M.m3u8
@@ -63,9 +55,6 @@ https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_600k.m3u8
 https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_200k.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=294786,AVERAGE-BANDWIDTH=325600,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=320x180,FRAME-RATE=29.970,AUDIO="AUDOJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
 https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_200k.m3u8
-
-
-
 
 
 #EXTM3U XJP Streams (Backup)
