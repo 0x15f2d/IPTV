@@ -43,15 +43,15 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwnew
 #EXTM3U http://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8 (-10 Minutes RTC)
 #EXTM3U http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8 (High quality but extremely slow)
 #EXTINF:-1 tvg-id="france24eng" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",France 24 (English)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
-#EXTM3U http://vips-livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
+#EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us" tvg-logo="https://i.imgur.com/1JnyzHv.png" groups="NEWS" group-title="News",LiveNOW from FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/livenowfox/live
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://i.imgur.com/fBgbcxM.png" groups="NEWS" group-title="News",NBC News Now
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NBCNews/live
-#EXTM3U http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8 (Not stable)
+http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8 (Not stable)
 #EXTM3U https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8 (This link must be https or get 400'd)
+#EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NBCNews/live
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" groups="NEWS" group-title="News",NHK World Japan
 https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
 #EXTM3U http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8 (XJP)
@@ -68,8 +68,8 @@ http://rt-usa.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="tv5monde" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",TV5World Asia
 http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherNews.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/87/Weathernews.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",WeatherNews
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/weathernews/live
-#EXTM3U http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/weathernews/live
 #EXTM3U http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8a/VTV1_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV1
 http://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/playlist.m3u8
