@@ -10,7 +10,7 @@
 #EXT-X-MEDIA:TYPE=AUDIO,LANGUAGE="en-JP",NAME="XJP Stream (Akamai Backup)",AUTOSELECT=YES,DEFAULT=NO,GROUP-ID="XJPAUD",URI="https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp-en/index_audio.m3u8"
 
 #EXTM3U Closed Captions EIA 608
-#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="EIA608",LANGUAGE="en-JP,NAME="English (Japan)",INSTREAM-ID="CC1",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound"
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="EIA608",LANGUAGE="en-JP",NAME="English (Japan)",INSTREAM-ID="CC1",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound"
 
 #EXTM3U Streams
 #EXTM3U OJP Streams (Main)
