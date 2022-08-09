@@ -58,7 +58,7 @@ https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_200k.m3u8
 
 
 #EXTM3U XJP Streams (Backup)
-#EXTM3U These streams won't compatible with WebVTT. Only Akamai has "b-"ackup domain.
+#EXTM3U These streams won't compatible with WebVTT. Only Akamai has non-"b-"ackup domain.
 
 #EXTM3U 720p (High Bitrate)
 #EXT-X-STREAM-INF:BANDWIDTH=2978602,AVERAGE-BANDWIDTH=3440800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
