@@ -54,6 +54,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NBCNe
 #EXTM3U https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8 (This link must be https or get 400'd)
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" groups="NEWS" group-title="News",NHK World Japan
 https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
+#EXTM3U http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTM3U http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/{language-goes-here}/playlist.m3u8
+#EXTM3U https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/live_{bitrate-goes-here}.m3u8 (OJP)
 #EXTM3U http://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/playlist.m3u8; 10 Minutes Slower than RTC.
 #EXTM3U http://203.162.235.41:16902
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NHKWORLDJAPAN/live (Please don't use this)
