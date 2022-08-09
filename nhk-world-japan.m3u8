@@ -11,7 +11,7 @@
 
 
 #EXTM3U Subtitles and Closed Captions
-#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="en-JP",NAME="English (Japan)",INSTREAM-ID="CC1",DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound"
+#EXT-X-MEDIA:TYPE=CLOSED-CAPTIONS,GROUP-ID="CC",LANGUAGE="en-JP",NAME="English (Japan)",INSTREAM-ID=CC1,DEFAULT=YES,AUTOSELECT=YES,FORCED=YES,CHARACTERISTICS="public.accessibility.describes-spoken-dialog,public.accessibility.describes-music-and-sound"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Bahasa Indonesia",LANGUAGE="id-ID",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/id/webvtt.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Bahasa Indonesia",LANGUAGE="id-ID",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/id/webvtt.m3u8"
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="SUBMAIN",NAME="Français (France)",LANGUAGE="fr-FR",DEFAULT=NO,AUTOSELECT=YES,FORCED=NO,CHARACTERISTICS="public.accessibility.describes-spoken-dialog",URI="https://nhkwlive-burnin2.webcdn.stream.ne.jp/vtt/fr/webvtt.m3u8"
@@ -67,7 +67,7 @@ https://b-nhkwlive-burnin2.webcdn.stream.ne.jp/live/index_200k.m3u8
 
 
 #EXTM3U XJP Streams (Backup)
-#EXTM3U These streams won't compatible with WebVTT. Only Akamai has non-"b-"ackup domain.
+#EXTM3U These streams won't compatible with WebVTT. Only Akamai has "b-"ackup domain.
 
 #EXTM3U 720p (High Bitrate)
 #EXT-X-STREAM-INF:BANDWIDTH=2978602,AVERAGE-BANDWIDTH=3440800,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970,AUDIO="AUDXJP",SUBTITLES="SUBMAIN",CLOSED-CAPTIONS="CC"
