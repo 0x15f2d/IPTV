@@ -260,6 +260,8 @@ https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 #EXTINF:-1 tvg-id="man" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
 http://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 #EXTM3U http://api.television4you.xyz/v1/getlink/tv360_s2/237/4
+#EXTINF:-1 tvg-id="tlchd" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC
+http://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="woman" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
 http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -273,8 +275,6 @@ http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 http://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 tvg-id="outdoorhd" groups="TECH_SCIENCE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a1/OC_Logo2017_Primary_2_%281%29.svg/revision/latest/scale-to-width-down/512",Outdoor Channel
 http://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tlchd" groups="TECH_SCIENCE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC
-http://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
 
 
 #EXTM3U Science: Nature
