@@ -263,8 +263,8 @@ http://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
 #EXTM3U DaVinciAsia.de, davinci
 #EXTINF:-1 tvg-id="davinci" groups="FAMILY_KIDS" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/512",Da Vinci Asia
 http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
-#EXTM3U DreamWorksChannelAsia.us, dreamworks
-#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" groups="FAMILY_KIDS" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DreamWorks Asia
+#EXTM3U DreamWorksChannelAsia.us (tvg-shift="+1"), dreamworks
+#EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-shift="+1" groups="FAMILY_KIDS" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DreamWorks Asia
 http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="happykids" groups="FAMILY_KIDS" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Happy Kids
 http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
