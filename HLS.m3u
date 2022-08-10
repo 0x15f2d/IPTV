@@ -81,8 +81,6 @@ http://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
 
 
 #EXTM3U Entertainment: Movies
-#EXTINF:-1 tvg-id="axnhd" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN
-http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/71/Box_Hits_screenbug_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Hits
 http://live.television4you.xyz:8081/boxhits/mpegts
 #EXTINF:-1 tvg-id="boxmovie1" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Movie 1
@@ -116,6 +114,8 @@ http://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/624581
 http://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/AT-X_logo.svg/revision/latest/scale-to-width-down/512" groups="DRAMA" group-title="Drama/Reality TV",AT-X
 http://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="axnhd" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN
+http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" groups="DRAMA" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/BBC_America_logo_2022.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",BBC America East
 http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="null_id" tvg-logo="https://i.ibb.co/Fm954Dw/comedy-hub-samsung-1000x1000.png" groups="DRAMA" group-title="Drama/Reality TV",Comedy Hub
