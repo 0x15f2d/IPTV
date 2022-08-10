@@ -110,11 +110,11 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http:/
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-shift="+1" groups="MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
 http://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
 #EXTM3U cinemaxhd and cinemaxhd-asia can be used interchangeably but with shifting +1 hour. Movie replacements might occur sometimes.
-#EXTM3U CinemaxVietnam.vn, CinemaxHDVietnam.vn, cinemaxhd, cinemaxhd-asia
+#EXTM3U CinemaxVietnam.vn, CinemaxHDVietnam.vn, cinemaxhd, cinemaxhd-asia, CinemaxSingapore.sg, CinemaxHDSingapore.sg
 #EXTINF:-1 tvg-id="cinemaxhd-asia" tvg-shift="+1" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax Vietnam
 http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTM3U hbohd and hbohd-asia can be used interchangeably but with shifting +1 hour. Movie replacements might occur sometimes.
-#EXTM3U HBOVietnam.vn, HBOHDVietnam.vn, hbohd, hbohd-asia
+#EXTM3U HBOVietnam.vn, HBOHDVietnam.vn, hbohd, hbohd-asia, HBOSingapore.sg
 #EXTINF:-1 tvg-id="hbohd-asia" tvg-shift="+1" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO Vietnam
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTM3U Since the OneTV.Click's EPG is broken. We will use boxmovie1 instead of hollywoodclassics since it will give us more info than the other.
@@ -366,3 +366,7 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/{channel_id}/live
 #EXTM3U https://developer.android.com/reference/android/media/tv/TvContract.Programs.Genres#summary
 #EXTM3U https://iptv-org.github.io/
+
+#EXTM3U Notes for shifting EPG:
+#EXTM3U tvg-shift="+N" = Shifts back -N hour.
+#EXTM3U tvg-shift="-N" = Shifts up +N hour.
