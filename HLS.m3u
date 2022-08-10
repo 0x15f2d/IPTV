@@ -21,8 +21,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTM3U http://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/revision/latest/scale-to-width-down/512",BBC News
 #EXTM3U http://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTM3U BBCWorldNewsAsiaPacific.uk or bbsworldnews.
-#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/512",BBC World News Asia Pacific
+#EXTM3U BBCWorldNewsAsiaPacific.uk (tvg-shift="+1"?), bbsworldnews.
+#EXTINF:-1 tvg-id="bbsworldnews" tvg-shift="0" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/512",BBC World News Asia Pacific
 http://vips-livecdn.fptplay.net/sdb/bbcnew_hls.smil/playlist.m3u8
 #EXTM3U BloombergTelevision.us, BloombergTVAsiaPacific.hk, bloomberg
 #EXTINF:-1 tvg-id="BloombergTelevision.us" groups="NEWS" group-title="News" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ed/Bloomberg_2004.svg/revision/latest/scale-to-width-down/512",Bloomberg
@@ -106,8 +106,8 @@ http://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
 http://live.television4you.xyz:8081/boxhits/mpegts
 #EXTINF:-1 tvg-id="" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Movie 1
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTM3U CinemaWorld.my (tvg-shift="-1"?), cinemaworldhd
-#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-shift="-1" groups="MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
+#EXTM3U CinemaWorld.my (tvg-shift="+1"?), cinemaworldhd
+#EXTINF:-1 tvg-id="CinemaWorld.my" tvg-shift="+1" groups="MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
 http://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
 #EXTM3U cinemaxhd and cinemaxhd-asia can be used interchangeably but with shifting +1 hour. Movie replacements might occur sometimes.
 #EXTM3U CinemaxVietnam.vn, CinemaxHDVietnam.vn, cinemaxhd, cinemaxhd-asia
@@ -246,8 +246,8 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 
 
 #EXTM3U Entertainment: Kids
-#EXTM3U boomerang, BoomerangSoutheastAsia.us (tvg-shift="-1"?)
-#EXTINF:-1 tvg-id="BoomerangSoutheastAsia.us" tvg-shift="-1" groups="FAMILY_KIDS" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Boomerang Southeast Asia
+#EXTM3U boomerang, BoomerangSoutheastAsia.us (tvg-shift="+1"?)
+#EXTINF:-1 tvg-id="BoomerangSoutheastAsia.us" tvg-shift="+1" groups="FAMILY_KIDS" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/boomerang_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Boomerang Southeast Asia
 http://vips-livecdn.fptplay.net/hda3/boomerang_vhls.smil/playlist.m3u8
 #EXTM3U BabyFirst.us (tvg-shift="+1"), babyfirst
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-shift="+1" groups="FAMILY_KIDS" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/16/Bftvlogo2019.png/revision/latest/scale-to-width-down/512",BabyFirst
@@ -335,8 +335,8 @@ http://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 #EXTM3U Science: Nature
 #EXTINF:-1 tvg-id="animalhd" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animal Planet Vietnam
 http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
-#EXTM3U BBCEarthAsia.uk (tvg-shift="-1"?), bbcearth
-#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-shift="-1" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth Asia
+#EXTM3U BBCEarthAsia.uk (tvg-shift="+1"?), bbcearth
+#EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-shift="+1" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth Asia
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
 #EXTM3U LoveNature4K.ca, LoveNature.ca
 #EXTINF:-1 tvg-id="LoveNature.ca" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/512",Love Nature
