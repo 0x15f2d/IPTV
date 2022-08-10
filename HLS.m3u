@@ -22,7 +22,7 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="BBCNews.uk" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/revision/latest/scale-to-width-down/512",BBC News
 #EXTM3U http://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTM3U BBCWorldNewsAsiaPacific.uk (tvg-shift="+1"), bbcworldnews.
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="0" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/512",BBC World News Asia Pacific
+#EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="0" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/512",BBC World News APAC
 http://vips-livecdn.fptplay.net/sdb/bbcnew_hls.smil/playlist.m3u8
 #EXTM3U BloombergTelevision.us, BloombergTVAsiaPacific.hk, bloomberg
 #EXTINF:-1 tvg-id="BloombergTelevision.us" groups="NEWS" group-title="News" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ed/Bloomberg_2004.svg/revision/latest/scale-to-width-down/512",Bloomberg
@@ -170,7 +170,7 @@ http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-logo="https://i.ibb.co/f0JCRp2/stories-by-amc-512px-plex.png" groups="DRAMA" group-title="Drama/Reality TV",Stories by AMC
 http://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAsahiChannel1.jp" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="https://i.ibb.co/QHXzjVh/logo-65406-136-400x400.png",TV Asahi Ch.1
+#EXTINF:-1 tvg-id="TVAsahiChannel1.jp" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="https://i.ibb.co/QHXzjVh/logo-65406-136-400x400.png",TV Asahi Ch. 1
 http://code.television4you.xyz/getlink/yoitv?id=-KcK0oRN-MHmABr2tu77zg==
 #EXTM3U VTV3.vn, vtv3hd, VTV3HD.vn
 #EXTINF:-1 tvg-id="vtv3hd" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3
