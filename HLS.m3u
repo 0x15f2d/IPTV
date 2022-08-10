@@ -193,13 +193,13 @@ http://code.television4you.xyz/getlink/yoitv?id=g8s69Z5bxLZgAoqqFT8iDg==
 
 
 #EXTM3U Entertainment: Music
-#EXTINF:-1 tvg-id="mtvhd" groups="Music" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/512",MTV Vietnam
+#EXTINF:-1 tvg-id="mtvhd" groups="MUSIC" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/47/MTV_%282010%29.svg/revision/latest/scale-to-width-down/512",MTV Vietnam
 http://vips-livecdn.fptplay.net/sdb/mtv_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="musicbox" groups="Music" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Music BOX
+#EXTINF:-1 tvg-id="musicbox" groups="MUSIC" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/74/Music_Box.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Music BOX
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="VH1Italia.it" groups="Music" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/ac/VH1_2013_%28Print%29.svg/revision/latest/scale-to-width-down/512",VH1 Italia
+#EXTINF:-1 tvg-id="VH1Italia.it" groups="MUSIC" group-title="Music" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/ac/VH1_2013_%28Print%29.svg/revision/latest/scale-to-width-down/512",VH1 Italy
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml"  x-tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/VIVA_Logo_blue-yellow_solid.svg/779px-VIVA_Logo_blue-yellow_solid.svg.png" groups="Music" group-title="Drama/Reality TV",VIVA Russia
+#EXTINF:-1 tvg-id="VIVARussia.ru" tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml"  x-tvg-url="http://viva-russia.ru/scheduler/epg/epg.xml" url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/VIVA_Logo_blue-yellow_solid.svg/779px-VIVA_Logo_blue-yellow_solid.svg.png" groups="MUSIC" group-title="Music",VIVA Russia
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTM3U http://autopilot.catcast.tv/content/39575/index.m3u8
 #EXTM3U https://stream.funcontent.ru/hls/vivarussia/index.m3u8
