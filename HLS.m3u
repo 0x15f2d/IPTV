@@ -25,9 +25,10 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="0" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/512",BBC World News APAC
 http://vips-livecdn.fptplay.net/sdb/bbcnew_hls.smil/playlist.m3u8
 #EXTM3U BloombergTelevision.us, BloombergTVAsiaPacific.hk, bloomberg
-#EXTINF:-1 tvg-id="BloombergTelevision.us" groups="NEWS" group-title="News" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ed/Bloomberg_2004.svg/revision/latest/scale-to-width-down/512",Bloomberg
+#EXTINF:-1 tvg-id="BloombergTelevision.us" groups="NEWS" group-title="News" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg/revision/latest/scale-to-width-down/512",Bloomberg Television
 http://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
 #EXTM3U http://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTM3U http://static.wikia.nocookie.net/logopedia/images/e/ed/Bloomberg_2004.svg/revision/latest/scale-to-width-down/512 (Logo for 4K stream)
 #EXTM3U http://vips-livecdn.fptplay.net/sdb/bloomberg_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetworkHD.ca" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/06/CBC_News_Network_Logo_2022.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",CBC News Network
 http://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8	
