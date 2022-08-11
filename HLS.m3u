@@ -343,7 +343,7 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sct
 #EXTINF:-1 tvg-id="DiscoveryAsiaHongKong.hk" tvg-shift="+1" groups="TECH_SCIENCE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a8/Discovery_Channel_2019.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/discovery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery SEA
 http://vips-livecdn.fptplay.net/hda2/discovery_vhls.smil/playlist.m3u8
 #EXTM3U NationalGeographicHDSingapore.sg, NationalGeographicHongKong.hk, ngchd. Both DVR and Livestream were -10 Minutes late.
-#EXTINF:-1 tvg-id="NationalGeographicHDSingapore.sg" groups="TECH_SCIENCE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographicHongKong.hk" groups="TECH_SCIENCE" group-title="Science" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",National Geographic
 http://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATVUHD.us" groups="TECH_SCIENCE" group-title="Science" tvg-logo="https://i.ibb.co/ngCVzj8/nasa-tv-uhd-logo.png",NASA UHD
 http://endpnt.com/hls/nasa4k60/playlist.m3u8
@@ -366,7 +366,7 @@ https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="LoveNature.ca" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="https://i.ibb.co/g6FLdyS/Love-Nature-4-K-logo.png",Love Nature 4K
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTM3U ngwhd, NationalGeographicWildHongKong.hk, NationalGeographicWildHDSingapore.sg
-#EXTINF:-1 tvg-id="NationalGeographicWildHDSingapore.sg" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/National_Geographic_Wild_2018_%28Mini%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Nat Geo Wild SEA
+#EXTINF:-1 tvg-id="NationalGeographicWildHongKong.hk" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/National_Geographic_Wild_2018_%28Mini%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Nat Geo Wild SEA
 http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
 #EXTM3U PlanetEarth.bg, planetearthhd
 #EXTINF:-1 tvg-id="planetearthhd" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logos/images/5/5d/Planet_Earth_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Planet Earth
