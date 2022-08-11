@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
 
 
 #EXTM3U News
@@ -52,16 +52,16 @@ http://vips-livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTM3U http://vips-livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",DW English
-http://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
-#EXTM3U FPT stream goes here (-10 Minutes vs. RTC)
-#EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwnews/live (Not quite stable)
-#EXTM3U http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8 (High quality but extremely slow)
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwnews/live
+#EXTM3U http://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8 (-10 Minutes vs. RTC)
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Euronews_2016.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",Euronews English
 http://euronews.alteox.app/hls/en_stream.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/EuronewsUSA/live
 #EXTM3U France24English.fr, france24eng, KPJKDT2.us, WLVTDT3.us
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",France 24 English
-http://vips-livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+#EXTM3U http://vips-livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
 #EXTM3U ID doesn't exist. But adding anyway.
 #EXTINF:-1 tvg-id="GlobalNews.ca" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d1/Global_News.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",Global News
 http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/playlist.m3u8
@@ -90,13 +90,14 @@ https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.ibb.co/6ZyXNd7/Nippon-TV-News24-logo.png" groups="NEWS" group-title="News",NTV News24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
 #EXTM3U https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-id="RTAmerica.us" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/RT_AMERICA_2018.png/revision/latest/scale-to-width-down/512",RT America
+http://rt-usa.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest/scale-to-width-down/512",RT Documentary
 http://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTM3U RTNews.ru, RTAmerica.us
 #EXTINF:-1 tvg-id="RTNews.ru" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/512",RT News
 http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTM3U http://rt-uk.rttv.com/live/rtuk/playlist.m3u8
-#EXTM3U http://rt-usa.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="RTUK.uk" groups="NEWS" group-title="News" tvg-logo="https://i.ibb.co/bBWnzy0/RT-UK-Transparent.png",RT UK
+http://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTM3U TV5MondeAsia.fr, tv5monde
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",TV5World Asia
 http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
