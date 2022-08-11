@@ -150,8 +150,8 @@ http://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/624581
 http://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/AT-X_logo.svg/revision/latest/scale-to-width-down/512" groups="DRAMA" group-title="Drama/Reality TV",AT-X
 http://sub2.neetball.net/live/neet.m3u8
-#EXTM3U AXNHDVietnam.vn, AXNVietnam.vn, axnhd, AXNHDSingapore.sg (tvg-shift="-1")
-#EXTINF:-1 tvg-id="AXNHDSingapore.sg" tvg-shift="-1" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN Vietnam
+#EXTM3U AXNHDVietnam.vn, AXNVietnam.vn, axnhd, AXNHDSingapore.sg (tvg-shift="+1")
+#EXTINF:-1 tvg-id="AXNHDSingapore.sg" tvg-shift="+1" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN Vietnam
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/BBC_America_logo_2022.svg/revision/latest/scale-to-width-down/512" ,BBC America East
 http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
@@ -310,8 +310,8 @@ http://vips-livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVJohannesburg.fr" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512",FashionTV Johannesburg
 http://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTM3U http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8"
-#EXTM3U This EPG doesn't have correct EPG timeshift.
-#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512",FashionTV Midnite Secrets
+#EXTM3U This EPG doesn't have correct EPG timeshift. Under observation.
+#EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" tvg-shift="-1" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512",FashionTV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVNewYork.fr" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/0e/FASHION_TV_2017.png/revision/latest/scale-to-width-down/512",FashionTV New York
 
@@ -359,10 +359,10 @@ http://vips-livecdn.fptplay.net/hda2/animalplanet_vhls.smil/playlist.m3u8
 #EXTM3U BBCEarthAsia.uk (tvg-shift="+1"), bbcearth
 #EXTINF:-1 tvg-id="BBCEarthAsia.uk" tvg-shift="+1" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Earth Asia
 http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
-#EXTM3U LoveNature4K.ca, LoveNature.ca
+#EXTM3U LoveNature4K.ca, LoveNature.ca. EPG might not correct.
 #EXTINF:-1 tvg-id="LoveNature.ca" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/1d/Love_Nature_TV.png/revision/latest/scale-to-width-down/512",Love Nature
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
-#EXTM3U LoveNature4K.ca, LoveNature.ca
+#EXTM3U LoveNature4K.ca, LoveNature.ca. EPG might not correct.
 #EXTINF:-1 tvg-id="LoveNature.ca" groups="ANIMAL_WILDLIFE" group-title="Nature" tvg-logo="https://i.ibb.co/g6FLdyS/Love-Nature-4-K-logo.png",Love Nature 4K
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTM3U ngwhd, NationalGeographicWildHongKong.hk, NationalGeographicWildHDSingapore.sg
