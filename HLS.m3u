@@ -5,10 +5,10 @@
 #EXTM3U ABCAustraliaAsia.au or abcaustralia
 #EXTINF:-1 tvg-id="ABCAustraliaAsia.au" groups="NEWS" group-title="News" tvg-shift="0" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512",ABC Australia
 http://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest/scale-to-width-down/512",ABC News (AU)
+#EXTINF:-1 tvg-id="ABCNews.au" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest/scale-to-width-down/512",ABC News AU
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NewsOnABC/live
-#EXTINF:-1 tvg-id="ABCNews.us" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/ABC_News2021.svg/revision/latest/scale-to-width-down/512",ABC News (US)
+#EXTINF:-1 tvg-id="ABCNews.us" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/7b/ABC_News2021.svg/revision/latest/scale-to-width-down/512",ABC News US
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ABCNews/live
 #EXTM3U ANNNews.jp doesn't exist
@@ -38,14 +38,14 @@ http://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/CBS_News_2020.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",CBS News
 http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CBSNews/live (Not 24/7)
-#EXTINF:-1 tvg-id="CNA.sg" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/512",Channel News Asia
+#EXTINF:-1 tvg-id="CNA.sg" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/512",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/channelnewsasia/live
 #EXTM3U http://vips-livecdn.fptplay.net/sdb/newsasia_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/512",CNBC Asia
 http://vips-livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTM3U CNNInternationalNorthAmerica.us, CNNInternationalAsiaPacific.hk, cnn
-#EXTINF:-1 tvg-id="CNNInternationalNorthAmerica.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",CNN Int'l North America
+#EXTINF:-1 tvg-id="CNNInternationalNorthAmerica.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",CNN International NA
 http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTM3U http://vips-livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",DW English
@@ -53,9 +53,7 @@ http://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
 #EXTM3U FPT stream goes here (-10 Minutes vs. RTC)
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/dwnews/live (Not quite stable)
 #EXTM3U http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8 (High quality but extremely slow)
-#EXTM3U EPG shifted under Indo vidio.com. American EPG should not override this.
-#EXTM3U This EPG doesn't have correct EPG timeshift.
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-shift="-4" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Euronews_2016.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",Euronews English
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Euronews_2016.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",Euronews English
 http://euronews.alteox.app/hls/en_stream.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/EuronewsUSA/live
 #EXTM3U France24English.fr, france24eng, KPJKDT2.us, WLVTDT3.us
@@ -82,11 +80,11 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://i.ibb.co/4gBXNzG/512px-NHK-World-Japan.png" groups="NEWS" group-title="News",NHK World Japan
 https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
 #EXTM3U http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8 (XJP)
-#EXTM3U http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/{language-goes-here}/playlist.m3u8 (OJP)
+#EXTM3U http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/{language-code-goes-here}/playlist.m3u8 (OJP)
 #EXTM3U https://nhkwlive-burnin2.webcdn.stream.ne.jp/live/live_{bitrate-goes-here}.m3u8 (OJP)
 #EXTM3U http://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/playlist.m3u8; 10 Minutes Slower than RTC.
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/NHKWORLDJAPAN/live (Please don't use this)
-#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.ibb.co/6ZyXNd7/Nippon-TV-News24-logo.png" groups="NEWS" group-title="News",Nippon TV News24
+#EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.ibb.co/6ZyXNd7/Nippon-TV-News24-logo.png" groups="NEWS" group-title="News",NTV News24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
 #EXTM3U https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="RTAmerica.us" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/RT_AMERICA_2018.png/revision/latest/scale-to-width-down/512",RT America
@@ -232,6 +230,7 @@ http://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
 #EXTM3U http://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://i.ibb.co/Nr6sbbD/Tokyo-MX-2-1000px.png" groups="DRAMA" group-title="Drama/Reality TV",Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTM3U http://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/00/TVAsahi_2003.svg/revision/latest/scale-to-width-down/512",TV Asahi
 http://code.television4you.xyz/getlink/yoitv?id=iU_IC-e38CjfLhlvUxqWRg==
 #EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" groups="DRAMA" group-title="Drama/Reality TV",TV Tokyo (JOTX-DTV)
