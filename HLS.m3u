@@ -90,9 +90,13 @@ https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-logo="https://i.ibb.co/6ZyXNd7/Nippon-TV-News24-logo.png" groups="NEWS" group-title="News",NTV News24
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
 #EXTM3U https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 tvg-id="RTAmerica.us" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/RT_AMERICA_2018.png/revision/latest/scale-to-width-down/512",RT America
-http://rt-usa.rttv.com/live/rtnews/playlist.m3u8
-#EXTM3U http://rt-glb.rttv.com/live/rtnews/playlist.m3u8 (Global?)
+#EXTINF:-1 tvg-id="RTDocumentary.ru" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest/scale-to-width-down/512",RT Documentary
+http://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTM3U RTNews.ru, RTAmerica.us
+#EXTINF:-1 tvg-id="RTNews.ru" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/512",RT News
+http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTM3U http://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+#EXTM3U http://rt-usa.rttv.com/live/rtnews/playlist.m3u8
 #EXTM3U TV5MondeAsia.fr, tv5monde
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",TV5World Asia
 http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
