@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://viva-russia.ru/scheduler/epg/epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,http://onetv.click/schedule/epg.xml" tvg-shift="0" m3uautoload="1"
+#EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
 
 
 #EXTM3U News
@@ -21,8 +21,8 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTM3U http://vips-livecdn.fptplay.net/sdb/arirang_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4e/BBC_News_2022_%28Alt%2C_boxed%29.svg/revision/latest/scale-to-width-down/512",BBC News
 #EXTM3U http://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTM3U BBCWorldNewsAsiaPacific.uk (tvg-shift="+1"), bbcworldnews.
-#EXTINF:-1 tvg-id="bbcworldnews" tvg-shift="0" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/512",BBC World News APAC
+#EXTM3U BBCWorldNewsAsiaPacific.uk, bbcworldnews.
+#EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-shift="0" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/512",BBC World News APAC
 http://vips-livecdn.fptplay.net/sdb/bbcnew_hls.smil/playlist.m3u8
 #EXTM3U BloombergTelevision.us, BloombergTVAsiaPacific.hk, bloomberg
 #EXTINF:-1 tvg-id="BloombergTelevision.us" groups="NEWS" group-title="News" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg/revision/latest/scale-to-width-down/512",Bloomberg Television
