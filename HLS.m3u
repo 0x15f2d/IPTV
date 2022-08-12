@@ -1,9 +1,9 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
 
 
 #EXTM3U News
 #EXTM3U ABCAustraliaAsia.au or abcaustralia
-#EXTINF:-1 tvg-id="ABCAustraliaAsia.au" groups="NEWS" group-title="News" tvg-shift="0" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512",ABC Australia
+#EXTINF:-1 tvg-id="ABCAustraliaAsia.au" groups="NEWS" group-title="News" tvg-shift="0" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512",ABC Australia Asia
 http://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest/scale-to-width-down/512",ABC News AU
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
@@ -92,13 +92,13 @@ https://github.com/0x15f2d/IPTV/raw/main/nhk-world-japan.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
 #EXTM3U https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="RTAmerica.us" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/RT_AMERICA_2018.png/revision/latest/scale-to-width-down/512",RT America
-http://rt-usa.rttv.com/live/rtnews/playlist.m3u8
+#EXTM3U http://rt-usa.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocumentary.ru" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest/scale-to-width-down/512",RT Documentary
 http://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="RTNews.ru" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/512",RT News
 http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RTUK.uk" groups="NEWS" group-title="News" tvg-logo="https://i.ibb.co/bBWnzy0/RT-UK-Transparent.png",RT UK
-http://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+#EXTM3U http://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 #EXTM3U TV5MondeAsia.fr, tv5monde
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",TV5World Asia
 http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
@@ -164,11 +164,6 @@ http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/624073
 #EXTM3U This ID doesn't exist.
 #EXTINF:-1 tvg-id="ComedyHub.Samsung" tvg-logo="https://i.ibb.co/Fm954Dw/comedy-hub-samsung-1000x1000.png" groups="DRAMA" group-title="Drama/Reality TV",Comedy Hub
 http://uksono1-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ETLive.us" tvg-logo="https://i.ibb.co/Mh4td8D/et-live.png" groups="DRAMA" group-title="Drama/Reality TV",ET Live
-http://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
-#EXTM3U http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTM3U http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTM3U http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc0c78281eddb0009a02d5e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=190&terminate=false&userId=
 #EXTINF:-1 tvg-id="FoxJapan.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/512" groups="DRAMA" group-title="Drama/Reality TV",FOX Japan
 
 #EXTINF:-1 tvg-id="inthebox" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="https://i.ibb.co/bKrJMFt/In-The-Box.png",In the Box
@@ -181,6 +176,12 @@ http://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/playlist.m3u8
 #EXTM3U Kix.hk, kix
 #EXTINF:-1 tvg-id="Kix.hk" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/26/KIX.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",KIX
 http://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/playlist.m3u8
+#EXTM3U This ID might change in the future.
+#EXTINF:-1 tvg-id="ETLive.us" tvg-logo="https://i.ibb.co/74bCvbM/Mixible.png" groups="DRAMA" group-title="Drama/Reality TV",Mixible
+http://dai.google.com/linear/hls/event/xrVrJYTmTfitfXBQfeZByQ/master.m3u8
+#EXTM3U http://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTM3U http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTM3U http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc0c78281eddb0009a02d5e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=190&terminate=false&userId=
 #EXTM3U RockEntertainment.sg, blueantent
 #EXTINF:-1 tvg-id="RockEntertainment.sg" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/db/ROCK_entertainment_UHD.png/revision/latest/scale-to-width-down/512",Rock Entertainment
 http://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/playlist.m3u8
