@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,http://onetv.click/schedule/epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
 
 
 #EXTM3U News
@@ -136,11 +136,11 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTM3U HollywoodClassics.us, boxmovie1, hollywoodclassics
 #EXTINF:-1 tvg-id="boxmovie1" groups="MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/c6pD6Kg/Hollywood-Classics-Logo-White400x200-0004-HWC.png",Hollywood Classics
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="Star1.jp" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5c/Star_Channel_Japan.png/revision/latest/scale-to-width-down/512", Star 1
+#EXTINF:-1 tvg-id="Star1.jp" groups="MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/nDyKnKN/Star-1.png", Star 1
 http://code.television4you.xyz/getlink/yoitv?id=yUuqXFK2vDyiwU66uQEQ1Q==
-#EXTINF:-1 tvg-id="Star2.jp" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5c/Star_Channel_Japan.png/revision/latest/scale-to-width-down/512", Star 2
+#EXTINF:-1 tvg-id="Star2.jp" groups="MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/pLJ7GjH/Star-2.png", Star 2
 http://code.television4you.xyz/getlink/yoitv?id=NGPH2Brrn3gqcgdTIhVmwg==
-#EXTINF:-1 tvg-id="Star3.jp" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5c/Star_Channel_Japan.png/revision/latest/scale-to-width-down/512", Star 3
+#EXTINF:-1 tvg-id="Star3.jp" groups="MOVIES" group-title="Movies" tvg-logo="https://i.ibb.co/RbgdWDM/Star-3.png", Star 3
 http://code.television4you.xyz/getlink/yoitv?id=90LieNPzSaD1VOpEeT7f1w==
 #EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.ibb.co/rwmpML0/WOWOW-Cinema-Logo-English.png" groups="MOVIES" group-title="Movies",WOWOW Cinema
 http://code.television4you.xyz/getlink/yoitv?id=iF6iKCiap5agDJYZhyVjwg==
