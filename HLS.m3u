@@ -4,7 +4,7 @@
 #EXTM3U News
 #EXTM3U ABCAustraliaAsia.au or abcaustralia
 #EXTINF:-1 tvg-id="ABCAustraliaAsia.au" groups="NEWS" group-title="News" tvg-shift="0" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bc/ABCAustralia.svg/revision/latest/scale-to-width-down/512",ABC Australia Asia
-http://vips-livecdn.fptplay.net/sdb/australiaplus_hls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda3/australiaplus_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ABCNews.au" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/be/ABC_News_2017.svg/revision/latest/scale-to-width-down/512",ABC News AU
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTM3U https://c.mjh.nz/101002210220
@@ -27,13 +27,13 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 #EXTM3U http://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTM3U BBCWorldNewsAsiaPacific.uk, bbcworldnews.
 #EXTINF:-1 tvg-id="BBCWorldNewsAsiaPacific.uk" tvg-shift="0" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/ea/BBC_World_News_2022_%28Boxed%29.svg/revision/latest/scale-to-width-down/512",BBC World News APAC
-http://vips-livecdn.fptplay.net/sdb/bbcnew_hls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/playlist.m3u8
 #EXTM3U BloombergTelevision.us, BloombergTVAsiaPacific.hk, bloomberg
 #EXTINF:-1 tvg-id="BloombergTelevision.us" groups="NEWS" group-title="News" tvg-shift="-1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/93/Bloomberg_tv_2016.svg/revision/latest/scale-to-width-down/512",Bloomberg Television
 http://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
 #EXTM3U http://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTM3U http://static.wikia.nocookie.net/logopedia/images/e/ed/Bloomberg_2004.svg/revision/latest/scale-to-width-down/512 (Logo for 4K stream)
-#EXTM3U http://vips-livecdn.fptplay.net/sdb/bloomberg_hls.smil/playlist.m3u8
+#EXTM3U http://vips-livecdn.fptplay.net/hda3/bloomberg_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsNetworkHD.ca" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/06/CBC_News_Network_Logo_2022.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",CBC News Network
 http://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8	
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/CBS_News_2020.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",CBS News
@@ -48,9 +48,9 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/CNBC.svg/revision/latest/scale-to-width-down/512",CNBC Asia
 http://vips-livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
 #EXTM3U CNNInternationalNorthAmerica.us, CNNInternationalAsiaPacific.hk, cnn
-#EXTINF:-1 tvg-id="CNNInternationalNorthAmerica.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",CNN International NA
-http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTM3U http://vips-livecdn.fptplay.net/sdb/cnn_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalAsiaPacific.hk" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/52/CNN_%282014%29.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",CNN International APAC
+http://vips-livecdn.fptplay.net/hda3/cnn_vhls.smil/playlist.m3u8
+#EXTM3U http://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/75/Deutsche_Welle_symbol_2012.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",DW English
 http://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/playlist.m3u8
 #EXTM3U http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -62,7 +62,6 @@ http://euronews.alteox.app/hls/en_stream.m3u8
 #EXTINF:-1 tvg-id="France24English.fr" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/49/FRANCE_24_ENGLISH_2018.png/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",France 24 English
 http://vips-livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
-#EXTM3U http://vips-livecdn.fptplay.net/sdb/france24_hls.smil/playlist.m3u8
 #EXTM3U ID doesn't exist. But adding anyway.
 #EXTINF:-1 tvg-id="GlobalNews.ca" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/d1/Global_News.svg/revision/latest/scale-to-width-down/512" groups="NEWS" group-title="News",Global News
 http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/playlist.m3u8
@@ -71,8 +70,6 @@ http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTM3U http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/livenowfox/live
-#EXTINF:-1 tvg-id="JOOYDTV.jp" groups="NEWS" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/Mainichi_Broadcasting_System_logo.svg/revision/latest/scale-to-width-down/512",MBS (JOOY-DTV)
-http://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
 #EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-logo="https://i.imgur.com/fBgbcxM.png" groups="NEWS" group-title="News",NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTM3U http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8 (Not stable)
@@ -128,7 +125,7 @@ http://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
 #EXTM3U cinemaxhd and cinemaxhd-asia can be used interchangeably but with shifting +1 hour. Movie replacements might occur sometimes.
 #EXTM3U CinemaxVietnam.vn, CinemaxHDVietnam.vn, cinemaxhd, cinemaxhd-asia, CinemaxSingapore.sg, CinemaxHDSingapore.sg
 #EXTINF:-1 tvg-id="CinemaxSingapore.sg" tvg-shift="+1" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax Vietnam
-http://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTM3U hbohd and hbohd-asia can be used interchangeably but with shifting +1 hour. Movie replacements might occur sometimes.
 #EXTM3U HBOVietnam.vn, HBOHDVietnam.vn, hbohd, hbohd-asia (tvg-shift="+1"), HBOSingapore.sg (tvg-shift="+1")
 #EXTINF:-1 tvg-id="HBOSingapore.sg" tvg-shift="+1" groups="MOVIES" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO Vietnam
@@ -167,7 +164,7 @@ http://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxJapan.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/512" groups="DRAMA" group-title="Drama/Reality TV",FOX Japan
 
 #EXTINF:-1 tvg-id="inthebox" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="https://i.ibb.co/bKrJMFt/In-The-Box.png",In the Box
-http://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
+#EXTM3U http://code.television4you.xyz/getlink/nethubtv?id=9336&itb=1
 #EXTM3U KBSWorld.kr, kbsworld, KBFDDT2.us, KLEGCD2.us, KTSFDT3.us, WKTBCD4.us, WOCKCD2.us
 #EXTINF:-1 tvg-id="KBSWorld.kr" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4e/KBS_WORLD_logo_%282009-present%29.svg/revision/latest/scale-to-width-down/512",KBS World
 http://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/playlist.m3u8
@@ -236,6 +233,8 @@ http://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" groups="DRAMA" group-title="Drama/Reality TV",Nippon TV
 http://code.television4you.xyz/getlink/yoitv?id=gnpNcLEhwujjXOxTl7gaJg==
 #EXTM3U http://ntv2.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="JOOYDTV.jp" groups="DRAMA" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/Mainichi_Broadcasting_System_logo.svg/revision/latest/scale-to-width-down/512",MBS (JOOY-DTV)
+http://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" groups="DRAMA" group-title="Drama/Reality TV",TBS (JORX-DTV)
 http://code.television4you.xyz/getlink/yoitv?id=bRZUMcrX_kQ5R0XP-xJcZg==
 #EXTM3U http://tbs1.mov3.co/hls/tbs.m3u8
@@ -304,7 +303,7 @@ http://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
 http://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 #EXTM3U BBCLifestyleAsia.uk,bbclifestyle
 #EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" group-title="Lifestyle" groups="LIFE_STYLE" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Lifestyle Asia
-http://vips-livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+http://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/playlist.m3u8
 #EXTM3U discoveryasiahd, DiscoveryAsiaHongKong.hk (tvg-shift="+1")
 #EXTINF:-1 tvg-id="DiscoveryAsiaHongKong.hk" tvg-shift="+1" group-title="Lifestyle" groups="LIFE_STYLE" tvg-logo="https://i.ibb.co/J3khtYb/Discovery-Asia-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery SEAsia
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
@@ -336,7 +335,7 @@ http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_def
 #EXTINF:-1 tvg-id="HGTVAsia.us" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest/scale-to-width-down/512",HGTV Asia
 https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
 #EXTINF:-1 tvg-id="man" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
-http://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
+#EXTM3U http://code.television4you.xyz/getlink/nethubtv?id=9332&itb=1
 #EXTM3U TLCSoutheastAsia.us, tlchd
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" groups="LIFE_STYLE" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC SEA
 http://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
