@@ -114,21 +114,21 @@ http://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/71/Box_Hits_screenbug_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Hits
 #EXTM3U http://live.vthanhtivi.pw:8080/bh
 #EXTM3U ID doesn't exist.
-#EXTINF:-1 tvg-id="BOXMovie1.bg" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logos/images/d/d4/Box_Movie_1_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",BOX Movie 1
 http://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTM3U CinemaWorld.my (tvg-shift="+1"), cinemaworldhd
 #EXTINF:-1 tvg-id="CinemaWorld.my" tvg-shift="+1" group-title="Movies" tvg-logo="https://i.ibb.co/9V7M86m/CMW-BEARTV.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemawork_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",CinemaWorld
 http://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/playlist.m3u8
 #EXTM3U cinemaxhd and cinemaxhd-asia can be used interchangeably but with shifting +1 hour. Movie replacements might occur sometimes.
-#EXTM3U CinemaxVietnam.vn, CinemaxHDVietnam.vn, cinemaxhd, cinemaxhd-asia, CinemaxSingapore.sg, CinemaxHDSingapore.sg
-#EXTINF:-1 tvg-id="CinemaxSingapore.sg" tvg-shift="+1" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax Vietnam
+#EXTM3U CinemaxVietnam.vn, CinemaxHDVietnam.vn, cinemaxhd, cinemaxhd-asia, CinemaxSingapore.sg, CinemaxHDSingapore.sg, CinemaxAsia.sg (tvg-shift="+1")
+#EXTINF:-1 tvg-id="CinemaxAsia.sg" tvg-shift="+1" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/60/Cinemax_%28Black_%26_Red%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/cinemax_1500.stream/playlist_dvr_range-${start}-${offset}.m3u8",Cinemax Vietnam
 http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/playlist.m3u8
 #EXTM3U hbohd and hbohd-asia can be used interchangeably but with shifting +1 hour. Movie replacements might occur sometimes.
-#EXTM3U HBOVietnam.vn, HBOHDVietnam.vn, hbohd, hbohd-asia (tvg-shift="+1"), HBOSingapore.sg (tvg-shift="+1")
-#EXTINF:-1 tvg-id="HBOSingapore.sg" tvg-shift="+1" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO Vietnam
+#EXTM3U HBOVietnam.vn, HBOHDVietnam.vn, hbohd, hbohd-asia (tvg-shift="+1"), HBOSingapore.sg (tvg-shift="+1"), HBOAsia.sg (tvg-shift="+1")
+#EXTINF:-1 tvg-id="HBOAsia.sg" tvg-shift="+1" group-title="Movies" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",HBO Vietnam
 http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTM3U HollywoodClassics.us, boxmovie1, hollywoodclassics
-#EXTINF:-1 tvg-id="boxmovie1" group-title="Movies" tvg-logo="https://i.ibb.co/c6pD6Kg/Hollywood-Classics-Logo-White400x200-0004-HWC.png",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="Movies" tvg-logo="https://i.ibb.co/c6pD6Kg/Hollywood-Classics-Logo-White400x200-0004-HWC.png",Hollywood Classics
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="Star1.jp" group-title="Movies" tvg-logo="https://i.ibb.co/nDyKnKN/Star-1.png", Star 1
 http://code.television4you.xyz/getlink/yoitv?id=yUuqXFK2vDyiwU66uQEQ1Q==
@@ -148,7 +148,7 @@ http://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 #EXTM3U http://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTM3U This channel works but 403'd
 #EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",AMC East
-http://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
+#EXTM3U http://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 #EXTM3U This channel works but 403'd
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/AT-X_logo.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",AT-X
 http://sub2.neetball.net/live/neet.m3u8
@@ -156,7 +156,7 @@ http://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="AXNHDSingapore.sg" tvg-shift="+1" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN Vietnam
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/BBC_America_logo_2022.svg/revision/latest/scale-to-width-down/512" ,BBC America East
-http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
+#EXTM3U http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTM3U This channel works but 403'd
 #EXTINF:-1 tvg-id="ComedyHub.Samsung" tvg-logo="https://i.ibb.co/Fm954Dw/comedy-hub-samsung-1000x1000.png" group-title="Drama/Reality TV",Comedy Hub
 http://uksono1-samsunguk.amagi.tv/playlist.m3u8
