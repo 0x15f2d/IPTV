@@ -165,7 +165,7 @@ http://uksono1-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTM3U This ID doesn't exist.
 #EXTINF:-1 tvg-id="inthebox" group-title="Drama/Reality TV" tvg-logo="https://i.ibb.co/bKrJMFt/In-The-Box.png",In the Box
-http://123host.television4you.xyz/cliptv.php?id=838
+http://code.television4you.xyz/cliptv.php?id=838
 #EXTM3U KBSWorld.kr, kbsworld, KBFDDT2.us, KLEGCD2.us, KTSFDT3.us, WKTBCD4.us, WOCKCD2.us
 #EXTINF:-1 tvg-id="KBSWorld.kr" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4e/KBS_WORLD_logo_%282009-present%29.svg/revision/latest/scale-to-width-down/512",KBS World
 http://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/playlist.m3u8
@@ -197,9 +197,6 @@ http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
 #EXTM3U VTV5.vn, vtv5hd, VTV5HD.vn
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5
 http://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8
-#EXTM3U VTV6.vn, vtv6hd, VTV6HD.vn
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/VTV6_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV6
-http://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
 #EXTM3U warnertvhd (tvg-shift="-30 minutes"), WarnerTVSoutheastAsia.us (tvg-shift="+1)
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-shift="+1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV SEA
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
@@ -340,9 +337,9 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTM3U HGTVAsia.us, hgtv
 #EXTINF:-1 tvg-id="HGTVAsia.us" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest/scale-to-width-down/512",HGTV Asia
-https://api.vthanhtivi.pw/v1/getlink/tv360/99/2
+http://api.vthanhtivi.pw/v1/getlink/tv360_2/99/2
 #EXTINF:-1 tvg-id="man" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
-http://123host.television4you.xyz/cliptv.php?id=837
+http://code.television4you.xyz/cliptv.php?id=837
 #EXTM3U TLCSoutheastAsia.us, tlchd
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC SEA
 http://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
@@ -394,7 +391,7 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 
 
 #EXTM3U Credits:
-#EXTM3U http://playlist.vthanhtivi.pw/ (1665310481)
+#EXTM3U http://playlist.vthanhtivi.pw/ (1666617578)
 #EXTM3U https://github.com/iptv-org/iptv (1665310481)
 #EXTM3U https://bit.ly/beartvplay (1665310481)
 
