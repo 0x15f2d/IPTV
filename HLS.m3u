@@ -204,6 +204,7 @@ http://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-shift="+1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV SEA
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.ibb.co/ScbJr8d/WOWOW-Prime-Logo-English.png" group-title="Drama/Reality TV",WOWOW Prime
+http://203.162.235.41:27106
 #EXTM3U http://code.television4you.xyz/getlink/yoitv?id=HloiOsNhiBm-DF9vVfFMTw==
 
 
@@ -228,23 +229,24 @@ http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",NHK BS Premium
 #EXTM3U http://code.television4you.xyz/getlink/yoitv?id=z3QuIfTGLtMqsBfWF1H4Pg==
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/NHK2020-.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",NHK General
-#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
+http://203.162.235.41:14093
 #EXTM3U http://nhk2.mov3.co/hls/nhk.m3u8
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/NHK_World_Premium_2020.jpg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",NHK World Premium
 
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",Nippon TV
+http://203.162.235.41:16095
 #EXTM3U http://code.television4you.xyz/getlink/yoitv?id=gnpNcLEhwujjXOxTl7gaJg==
-#EXTM3U http://203.162.235.41:16095
 #EXTM3U http://ntv2.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="JOOYDTV.jp" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/Mainichi_Broadcasting_System_logo.svg/revision/latest/scale-to-width-down/512",MBS (JOOY-DTV)
 #EXTM3U http://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",TBS (JORX-DTV)
+http://203.162.235.41:18097
 #EXTM3U http://code.television4you.xyz/getlink/yoitv?id=bRZUMcrX_kQ5R0XP-xJcZg==
 #EXTM3U http://tbs1.mov3.co/hls/tbs.m3u8
-#EXTM3U http://203.162.235.41:18097
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.ibb.co/9cq1ySL/Tokyo-MX-1-1000px.png" group-title="Drama/Reality TV",Tokyo MX 1 (JOMX-DTV)
+http://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTM3U http://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
-#EXTM3U http://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://i.ibb.co/Nr6sbbD/Tokyo-MX-2-1000px.png" group-title="Drama/Reality TV",Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTM3U http://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
