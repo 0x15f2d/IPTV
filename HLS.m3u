@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml.gz,https://iptv-org.github.io/epg/guides/us-pluto/i.mjh.nz.epg.xml.gz,http://trada.info/epg.xml, ,https://iptv-org.github.io/epg/guides/ca/tvhebdo.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml.gz,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
 
 
 #EXTM3U News
@@ -95,8 +95,8 @@ http://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RTUK.uk" group-title="News" tvg-logo="https://i.ibb.co/bBWnzy0/RT-UK-Transparent.png",RT UK
 #EXTM3U http://rt-uk.rttv.com/live/rtuk/playlist.m3u8
-#EXTM3U TV5MondeAsia.fr, tv5monde
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logos/images/4/4e/TV5Monde_Asie_2021.png/revision/latest/scale-to-width-down/512?path-prefix=vi",TV5World Asia
+#EXTM3U TV5MondeAsia.fr, tv5monde
 http://vips-livecdn.fptplay.net/sdb/tv5_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Weathernews.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/87/Weathernews.svg/revision/latest/scale-to-width-down/512" group-title="News",WeatherNews
 http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
@@ -131,13 +131,13 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Movies" tvg-logo="https://i.ibb.co/c6pD6Kg/Hollywood-Classics-Logo-White400x200-0004-HWC.png",Hollywood Classics
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="Star1.jp" group-title="Movies" tvg-logo="https://i.ibb.co/nDyKnKN/Star-1.png", Star 1
-http://code.television4you.xyz/getlink/yoitv?id=yUuqXFK2vDyiwU66uQEQ1Q==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=yUuqXFK2vDyiwU66uQEQ1Q==
 #EXTINF:-1 tvg-id="Star2.jp" group-title="Movies" tvg-logo="https://i.ibb.co/pLJ7GjH/Star-2.png", Star 2
-http://code.television4you.xyz/getlink/yoitv?id=NGPH2Brrn3gqcgdTIhVmwg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=NGPH2Brrn3gqcgdTIhVmwg==
 #EXTINF:-1 tvg-id="Star3.jp" group-title="Movies" tvg-logo="https://i.ibb.co/RbgdWDM/Star-3.png", Star 3
-http://code.television4you.xyz/getlink/yoitv?id=90LieNPzSaD1VOpEeT7f1w==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=90LieNPzSaD1VOpEeT7f1w==
 #EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.ibb.co/rwmpML0/WOWOW-Cinema-Logo-English.png" group-title="Movies",WOWOW Cinema
-http://code.television4you.xyz/getlink/yoitv?id=iF6iKCiap5agDJYZhyVjwg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=iF6iKCiap5agDJYZhyVjwg==
 
 
 #EXTM3U Entertainment: Drama/Reality TVs
@@ -190,7 +190,7 @@ http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTM3U http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
 #EXTINF:-1 tvg-id="TVAsahiChannel1.jp" group-title="Drama/Reality TV" tvg-logo="https://i.ibb.co/QHXzjVh/logo-65406-136-400x400.png",TV Asahi Ch. 1
-http://code.television4you.xyz/getlink/yoitv?id=-KcK0oRN-MHmABr2tu77zg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=-KcK0oRN-MHmABr2tu77zg==
 #EXTM3U VTV3.vn, vtv3hd, VTV3HD.vn
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3
 http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
@@ -204,58 +204,58 @@ http://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-shift="+1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV SEA
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOWOWPrime.jp" tvg-logo="https://i.ibb.co/ScbJr8d/WOWOW-Prime-Logo-English.png" group-title="Drama/Reality TV",WOWOW Prime
-http://code.television4you.xyz/getlink/yoitv?id=HloiOsNhiBm-DF9vVfFMTw==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=HloiOsNhiBm-DF9vVfFMTw==
 
 
 #EXTM3U Entertainment: Drama/Reality TVs - Local Japanese Cable TV/Satelite
 #EXTINF:-1 tvg-id="JOAYDTV.jp" group-title="Drama/Reality TV" tvg-logo="https://i.ibb.co/6XD4Zx9/logo-7-FD3-061-400x400.png",ABC (JOAY-DTV)
-http://code.television4you.xyz/getlink/yoitv?id=oI8q04LSmuVJ76lxll2FWg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=oI8q04LSmuVJ76lxll2FWg==
 #EXTINF:-1 tvg-id="BSAsahi.jp" tvg-logo="https://i.ibb.co/3rDzWpV/BS-Asahi-Logo-English.png" group-title="Drama/Reality TV",BS Asahi
-http://code.television4you.xyz/getlink/yoitv?id=CDf67JD0vmiC74DDaND-XA==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=CDf67JD0vmiC74DDaND-XA==
 #EXTINF:-1 tvg-id="BSNipponTV.jp" tvg-logo="https://i.ibb.co/BgcPF7m/BS4-logo-svg.png" group-title="Drama/Reality TV",BS Nippon TV
-http://code.television4you.xyz/getlink/yoitv?id=9GYVLtOWedFVhurDZOtidw==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=9GYVLtOWedFVhurDZOtidw==
 #EXTINF:-1 tvg-id="BSFuji.jp" tvg-logo="https://i.ibb.co/NZmLkhc/bs-fuji-transparent.png" group-title="Drama/Reality TV",BS Fuji
-http://code.television4you.xyz/getlink/yoitv?id=1WFDcS4-Lv_4Qsnx8TQtgg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=1WFDcS4-Lv_4Qsnx8TQtgg==
 #EXTINF:-1 tvg-id="BSTBS.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/89/BS-TBS_2020.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",BS-TBS
-http://code.television4you.xyz/getlink/yoitv?id=JKQRufMevFV7GDKYePYwBQ==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=JKQRufMevFV7GDKYePYwBQ==
 #EXTINF:-1 tvg-id="BSTVTokyo.jp" tvg-logo="https://i.ibb.co/gt8BbM7/bs-tv-tokyo-transparent.png" group-title="Drama/Reality TV",BS TV Tokyo
-http://code.television4you.xyz/getlink/yoitv?id=y288Dc5aSplzqGsFpCvm-g==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=y288Dc5aSplzqGsFpCvm-g==
 #EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/65/Fuji_TV_Logo.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",Fuji TV (JOCX-DTV)
-http://code.television4you.xyz/getlink/yoitv?id=dfVr67j-Iy_J5tM4jYI7gQ==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=dfVr67j-Iy_J5tM4jYI7gQ==
 #EXTM3U http://fujitv2.mov3.co/hls/fujitv.m3u8
 #EXTINF:-1 tvg-id="NHKBS1.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/27/NHK_BS1_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",NHK BS1
-http://code.television4you.xyz/getlink/yoitv?id=f-uLAeVdSWp9bd1XFM3Pzw==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=f-uLAeVdSWp9bd1XFM3Pzw==
 #EXTINF:-1 tvg-id="NHKBSPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/6a/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4_%282020%29.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",NHK BS Premium
-http://code.television4you.xyz/getlink/yoitv?id=z3QuIfTGLtMqsBfWF1H4Pg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=z3QuIfTGLtMqsBfWF1H4Pg==
 #EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/4/4a/NHK2020-.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",NHK General
-http://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=Hqm-m7jqkFlA1CloJoaJZQ==
 #EXTM3U http://nhk2.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="NHKWorldPremium.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/98/NHK_World_Premium_2020.jpg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",NHK World Premium
 
 #EXTINF:-1 tvg-id="NipponTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",Nippon TV
-http://code.television4you.xyz/getlink/yoitv?id=gnpNcLEhwujjXOxTl7gaJg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=gnpNcLEhwujjXOxTl7gaJg==
 #EXTM3U http://203.162.235.41:16095
 #EXTM3U http://ntv2.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="JOOYDTV.jp" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/Mainichi_Broadcasting_System_logo.svg/revision/latest/scale-to-width-down/512",MBS (JOOY-DTV)
-http://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=R3W0ABMki1QGwd3TxPxjhA==
 #EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/1/14/Tokyo_Broadcasting_System_logo_2020.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",TBS (JORX-DTV)
-http://code.television4you.xyz/getlink/yoitv?id=bRZUMcrX_kQ5R0XP-xJcZg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=bRZUMcrX_kQ5R0XP-xJcZg==
 #EXTM3U http://tbs1.mov3.co/hls/tbs.m3u8
 #EXTM3U http://203.162.235.41:18097
 #EXTINF:-1 tvg-id="JOMXDTV.jp" tvg-logo="https://i.ibb.co/9cq1ySL/Tokyo-MX-1-1000px.png" group-title="Drama/Reality TV",Tokyo MX 1 (JOMX-DTV)
-http://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=9FvJseD6_AtVYU1vxvgzFA==
 #EXTM3U http://movie.mcas.jp/mcas/mx1_2/master.m3u8
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://i.ibb.co/Nr6sbbD/Tokyo-MX-2-1000px.png" group-title="Drama/Reality TV",Tokyo MX 2
 http://movie.mcas.jp/mcas/mx2_2/master.m3u8
 #EXTM3U http://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/0/00/TVAsahi_2003.svg/revision/latest/scale-to-width-down/512",TV Asahi
-http://code.television4you.xyz/getlink/yoitv?id=iU_IC-e38CjfLhlvUxqWRg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=iU_IC-e38CjfLhlvUxqWRg==
 #EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/72/TV_Tokyo_logo.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",TV Tokyo (JOTX-DTV)
-http://code.television4you.xyz/getlink/yoitv?id=dRNhWs1DLdcWq_ufN6fElg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=dRNhWs1DLdcWq_ufN6fElg==
 #EXTINF:-1 tvg-id="JOIXDTV.jp" group-title="Drama/Reality TV" tvg-logo="https://i.ibb.co/hVZmZGZ/Yomiuri-Telecasting-Corporation-Logo-svg.png",YTV (JOIX-DTV)
-http://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=LqzQ_qk7P8LNOaghAThx4g==
 #EXTINF:-1 tvg-id="WOWOWLive.jp" tvg-logo="https://i.ibb.co/G3Y8j4d/WOWOW-Live-Logo-English.png" group-title="Drama/Reality TV",WOWOW Live
-http://code.television4you.xyz/getlink/yoitv?id=g8s69Z5bxLZgAoqqFT8iDg==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=g8s69Z5bxLZgAoqqFT8iDg==
 
 
 #EXTM3U Entertainment: Music
@@ -297,7 +297,7 @@ http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a7/Happy_Kids_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Happy Kids
 http://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/b8/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.svg/revision/latest/scale-to-width-down/512" group-title="Kids",NHK Educational
-http://code.television4you.xyz/getlink/yoitv?id=j7SQYfwTF63S9FmRqrjNJw==
+#EXTM3U http://code.television4you.xyz/getlink/yoitv?id=j7SQYfwTF63S9FmRqrjNJw==
 #EXTM3U VTV7.vn, vtv7hd, VTV7HD.vn
 #EXTINF:-1 tvg-id="vtv7hd" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c7/VTV7_%282015-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV7
 http://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/playlist.m3u8
