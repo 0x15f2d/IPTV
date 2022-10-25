@@ -337,7 +337,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTM3U HGTVAsia.us, hgtv
 #EXTINF:-1 tvg-id="HGTVAsia.us" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/8f/HGTV_2015_Blue.svg/revision/latest/scale-to-width-down/512",HGTV Asia
-http://api.vthanhtivi.pw/v1/getlink/tv360_2/99/2
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
 #EXTINF:-1 tvg-id="man" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
 http://code.television4you.xyz/cliptv.php?id=837
 #EXTM3U TLCSoutheastAsia.us, tlchd
