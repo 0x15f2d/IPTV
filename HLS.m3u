@@ -151,7 +151,7 @@ http://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 #EXTM3U http://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 #EXTM3U This channel works but 403'd
 #EXTINF:-1 tvg-id="ATX.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/c6/AT-X_logo.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",AT-X
-http://sub2.neetball.net/live/neet.m3u8
+
 #EXTM3U AXNHDVietnam.vn, AXNVietnam.vn, axnhd, AXNHDSingapore.sg (tvg-shift="+1")
 #EXTINF:-1 tvg-id="AXNHDSingapore.sg" tvg-shift="+1" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/2016_AXN_logo.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",AXN Vietnam
 http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
