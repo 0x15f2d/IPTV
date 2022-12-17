@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg.xml.gz,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/au.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/sg.xml.gz,https://iptv-org.github.io/epg/guides/id.xml.gz,https://iptv-org.github.io/epg/guides/us.xml.gz,http://trada.info/epg.xml,http://lichphatsong.xyz/schedule/epg.xml.gz,https://iptv-org.github.io/epg/guides/ca.xml.gz,https://iptv-org.github.io/epg/guides/it.xml.gz,https://iptv-org.github.io/epg/guides/au.xml.gz,https://iptv-org.github.io/epg/guides/fr.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,http://viva-russia.ru/scheduler/epg/epg.xml.gz" tvg-shift="0" m3uautoload="1"
 
 
 #EXTM3U News
@@ -193,10 +193,12 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e82541186
 
 #EXTM3U VTV3.vn, vtv3hd, VTV3HD.vn
 #EXTINF:-1 tvg-id="vtv3hd" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/8/81/VTV3_%282013-present%29-0.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV3
-http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
+http://livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/playlist.m3u8
+#EXTM3U http://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/playlist.m3u8
 #EXTM3U VTV5.vn, vtv5hd, VTV5HD.vn
 #EXTINF:-1 tvg-id="vtv5hd" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/33/VTV5_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV5
-http://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8
+http://livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/playlist.m3u8
+#EXTM3U http://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/playlist.m3u8
 #EXTM3U warnertvhd (tvg-shift="-30 minutes"), WarnerTVSoutheastAsia.us (tvg-shift="+1)
 #EXTINF:-1 tvg-id="WarnerTVSoutheastAsia.us" tvg-shift="+1" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a2/WarnerTVAsia.png/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/warnertv_1000.stream/playlist_dvr_range-${start}-${offset}.m3u8",Warner TV SEA
 http://vips-livecdn.fptplay.net/hda3/warnertv_vhls.smil/playlist.m3u8
@@ -378,7 +380,8 @@ http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
 http://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTM3U VTV2.vn, vtv2hd, VTV2HD.vn
 #EXTINF:-1 tvg-id="vtv2hd" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/e/e9/VTV2_%282013-present%29.png/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV2
-http://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
+http://livecdn.fptplay.net/sevent/vtv2_vhls.smil/playlist.m3u8
+#EXTM3U http://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.us" group-title="Nature" tvg-logo="https://i.ibb.co/m8bvw3R/weather-spy-512px.png",WeatherSpy
 http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 #EXTM3U http://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
@@ -388,14 +391,15 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 #EXTM3U Regional
 #EXTINF:0 tvg-id="vtv6hd" group-title="Regional" tvg-logo="http://static.wikia.nocookie.net/logos/images/a/a8/VTV_C%E1%BA%A7n_Th%C6%A1_logo_01.11.2022.png/revision/latest/scale-to-width-down/512?path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https//tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",VTV Cần Thơ (VTV6)
 #EXTVLCOPT:http-user-agent="BearTV"
-http://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+http://livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/playlist.m3u8
+#EXTM3U http://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/playlist.m3u8
 
 
 #EXTM3U Credits:
 #EXTM3U http://playlist.vthanhtivi.pw/ (1666617578)
 #EXTM3U https://github.com/iptv-org/iptv (1667392151)
 #EXTM3U https://bit.ly/beartvplay (1665310481)
-#EXTM3U https://bit.ly/bearlivetv (1669553665)
+#EXTM3U https://bit.ly/bearlivetv (1671287653)
 
 #EXTM3U Useful stuff:
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/{channel_id}/live
