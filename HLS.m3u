@@ -141,9 +141,9 @@ http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="Movies" tvg-logo="https://i.ibb.co/c6pD6Kg/Hollywood-Classics-Logo-White400x200-0004-HWC.png",Hollywood Classics
 http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="Star1.jp" group-title="Movies" tvg-logo="https://i.ibb.co/nDyKnKN/Star-1.png", Star 1
-
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
 #EXTINF:-1 tvg-id="Star2.jp" group-title="Movies" tvg-logo="https://i.ibb.co/pLJ7GjH/Star-2.png", Star 2
-
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
 #EXTINF:-1 tvg-id="Star3.jp" group-title="Movies" tvg-logo="https://i.ibb.co/RbgdWDM/Star-3.png", Star 3
 
 #EXTINF:-1 tvg-id="WOWOWCinema.jp" tvg-logo="https://i.ibb.co/rwmpML0/WOWOW-Cinema-Logo-English.png" group-title="Movies",WOWOW Cinema
@@ -154,6 +154,8 @@ http://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http:/
 #EXTM3U AnimaxAsia.sg (tvg-shift="+1"), animaxhd
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/512" tvg-shift="+1" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/animaxport_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Animax Asia (VN)
 http://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Animax.jp" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/3/32/36BB0572-D313-4716-816C-042AA4D6B842.png/revision/latest/scale-to-width-down/512",Animax Japan
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/9/9f/Amc%2B_2020.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",AMC+
 #EXTM3U http://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
 #EXTM3U This channel works but 403'd
@@ -296,6 +298,8 @@ http://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
 #EXTM3U DaVinciAsia.de, davinci. Stream is -10 minutes RTC.
 #EXTINF:-1 tvg-id="DaVinciAsia.de" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/512",Da Vinci Asia
 http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/512",Discovery Channel Japan
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 #EXTM3U DreamWorksChannelAsia.us (tvg-shift="+1"), dreamworks
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-shift="+1" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DreamWorks Asia
 http://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/playlist.m3u8
@@ -401,7 +405,7 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 
 #EXTM3U Credits:
 #EXTM3U http://playlist.vthanhtivi.pw/ (1674376716)
-#EXTM3U https://github.com/iptv-org/iptv (1674376716)
+#EXTM3U https://github.com/iptv-org/iptv (1674377469)
 #EXTM3U https://bit.ly/beartvplay (1674376716)
 #EXTM3U https://bit.ly/bearlivetv (1671287653)
 
