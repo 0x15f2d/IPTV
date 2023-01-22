@@ -100,7 +100,7 @@ http://hls.youtb.workers.dev/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
 #EXTINF:-1 tvg-id="RTDoc.ru" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest/scale-to-width-down/512",RT Documentary
 http://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTM3U http://hls.rt.com/hls/rtdru.m3u8
-#EXTINF:-1 tvg-id="RTNews.ru" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg/revision/latest/scale-to-width-down/512",RT News
+#EXTINF:-1 tvg-id="RT.ru" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/6/62/RT_Flat.svg/revision/latest/scale-to-width-down/512",RT News
 http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RTUK.uk" group-title="News" tvg-logo="https://i.ibb.co/bBWnzy0/RT-UK-Transparent.png",RT UK
 #EXTM3U http://rt-uk.rttv.com/live/rtuk/playlist.m3u8
@@ -170,7 +170,7 @@ http://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/playlist.m3u8
 #EXTM3U This channel works but easily gets 403'd
 #EXTINF:-1 tvg-id="BBCAmericaEast.us" group-title="Drama/Reality TV" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/df/BBC_America_logo_2022.svg/revision/latest/scale-to-width-down/512" ,BBC America East
 http://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="ComedyHub.Samsung" tvg-logo="https://i.ibb.co/Fm954Dw/comedy-hub-samsung-1000x1000.png" group-title="Drama/Reality TV",Comedy Hub
+#EXTINF:-1 tvg-id="ComedyHub.Samsung" tvg-logo="https://i.ibb.co/Fm954Dw/comedy-hub-samsung-1000x1000.png" group-title="Drama/Reality TV",Comedy Hub by Samsung TV+
 http://uksono1-samsunguk.amagi.tv/playlist.m3u8
 #EXTM3U This ID doesn't exist.
 #EXTINF:-1 tvg-id="FoxJapan.jp" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest/scale-to-width-down/512" group-title="Drama/Reality TV",FOX Japan
@@ -404,7 +404,7 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 
 #EXTM3U Credits:
 #EXTM3U http://playlist.vthanhtivi.pw/ (1674376716)
-#EXTM3U https://github.com/iptv-org/iptv (1674377890)
+#EXTM3U https://github.com/iptv-org/iptv (1674378255)
 #EXTM3U https://bit.ly/beartvplay (1674376716)
 #EXTM3U https://bit.ly/bearlivetv (1671287653)
 
