@@ -298,7 +298,7 @@ http://vips-livecdn.fptplay.net/hda3/cbeebies_vhls.smil/playlist.m3u8
 #EXTM3U DaVinciAsia.de, davinci. Stream is -10 minutes RTC.
 #EXTINF:-1 tvg-id="DaVinciAsia.de" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/a/a5/Da_Vinci.svg/revision/latest/scale-to-width-down/512",Da Vinci Asia
 http://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/512",Discovery Channel Japan
+#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/512",Disney Channel Japan
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 #EXTM3U DreamWorksChannelAsia.us (tvg-shift="+1"), dreamworks
 #EXTINF:-1 tvg-id="DreamWorksChannelAsia.us" tvg-shift="+1" group-title="Kids" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/b/bf/DreamWorks_Animation_2016.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/dreamworks_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",DreamWorks Asia
@@ -405,7 +405,7 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 
 #EXTM3U Credits:
 #EXTM3U http://playlist.vthanhtivi.pw/ (1674376716)
-#EXTM3U https://github.com/iptv-org/iptv (1674377469)
+#EXTM3U https://github.com/iptv-org/iptv (1674376716)
 #EXTM3U https://bit.ly/beartvplay (1674376716)
 #EXTM3U https://bit.ly/bearlivetv (1671287653)
 
