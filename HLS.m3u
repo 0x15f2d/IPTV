@@ -42,7 +42,7 @@ http://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTM3U http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a6b92f6e22a617379789618&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=204&terminate=false&userId=
 #EXTM3U https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CBSNews/live (Not 24/7)
-#EXTINF:-1 tvg-id="CNAInternational.sg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/512",CNA International
+#EXTINF:-1 tvg-id="CNAInternational.sg" group-title="News" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/5/5f/CNA_2019.svg/revision/latest/scale-to-width-down/512",CNA Int'l
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTM3U http://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
 #EXTM3U http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/channelnewsasia/live
@@ -320,7 +320,7 @@ http://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Lifestyle Asia
 http://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/playlist.m3u8
 #EXTM3U discoveryasiahd, DiscoveryAsiaHongKong.hk (tvg-shift="+1")
-#EXTINF:-1 tvg-id="DiscoveryAsiaHongKong.hk" tvg-shift="+1" group-title="Lifestyle" tvg-logo="https://i.ibb.co/THpM604/discovery-asia-screenbug.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Asia
+#EXTINF:-1 tvg-id="DiscoveryAsiaHongKong.hk" tvg-shift="+1" group-title="Lifestyle" tvg-logo="https://i.ibb.co/THpM604/discovery-asia-screenbug.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Asia (VN)
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
 #EXTM3U DrFit.bg, drfithd
 #EXTINF:-1 tvg-id="drfithd" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/77/Dr._Fit_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Dr.Fit
@@ -351,7 +351,7 @@ https://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
 #EXTINF:-1 tvg-id="man" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/2/29/MAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Man
 
 #EXTM3U TLCSoutheastAsia.us, tlchd
-#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC Southeast Asia
+#EXTINF:-1 tvg-id="TLCSoutheastAsia.us" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC SEA
 http://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
 #EXTM3U Woman.bg, woman (tvg-shift="-1", trada.info only)
 #EXTINF:-1 tvg-id="woman" tvg-shift="-1" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
@@ -387,7 +387,7 @@ http://vips-livecdn.fptplay.net/hda2/bbcearth_vhls.smil/playlist.m3u8
 http://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTM3U http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTM3U ngwhd, NationalGeographicWildHongKong.hk, NationalGeographicWildSingapore.sg
-#EXTINF:-1 tvg-id="NationalGeographicWildHongKong.hk" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/National_Geographic_Wild_2018_%28Mini%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",National Geographic Wild (SEA)
+#EXTINF:-1 tvg-id="NationalGeographicWildHongKong.hk" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/c/cc/National_Geographic_Wild_2018_%28Mini%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/natgeowild_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Nat Geo Wild (SEA)
 http://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/playlist.m3u8
 #EXTM3U PlanetEarth.bg, planetearthhd
 #EXTINF:-1 tvg-id="planetearthhd" group-title="Nature" tvg-logo="http://static.wikia.nocookie.net/logos/images/5/5d/Planet_Earth_2018.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Planet Earth
@@ -404,7 +404,7 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 
 #EXTM3U Credits:
 #EXTM3U http://playlist.vthanhtivi.pw/ (1674376716)
-#EXTM3U https://github.com/iptv-org/iptv (1674532414)
+#EXTM3U https://github.com/iptv-org/iptv (1674532860)
 #EXTM3U https://bit.ly/beartvplay (1674376716)
 #EXTM3U https://bit.ly/bearlivetv (1671287653)
 
