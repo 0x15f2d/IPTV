@@ -319,8 +319,8 @@ http://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8
 #EXTM3U BBCLifestyleAsia.uk,bbclifestyle
 #EXTINF:-1 tvg-id="BBCLifestyleAsia.uk" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/2/29/BBC_Lifestyle.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/bbclifestyle_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8",BBC Lifestyle Asia
 http://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/playlist.m3u8
-#EXTM3U discoveryasiahd, DiscoveryAsiaHongKong.hk (tvg-shift="+1")
-#EXTINF:-1 tvg-id="DiscoveryAsiaHongKong.hk" tvg-shift="+1" group-title="Lifestyle" tvg-logo="https://i.ibb.co/THpM604/discovery-asia-screenbug.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Asia (VN)
+#EXTM3U discoveryasiahd, DiscoveryAsia.sg (tvg-shift="+1")
+#EXTINF:-1 tvg-id="DiscoveryAsia.sg" tvg-shift="+1" group-title="Lifestyle" tvg-logo="https://i.ibb.co/THpM604/discovery-asia-screenbug.png" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",Discovery Asia (VN)
 http://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8
 #EXTM3U DrFit.bg, drfithd
 #EXTINF:-1 tvg-id="drfithd" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/7/77/Dr._Fit_logo.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Dr.Fit
@@ -404,7 +404,7 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 
 #EXTM3U Credits:
 #EXTM3U http://playlist.vthanhtivi.pw/ (1674376716)
-#EXTM3U https://github.com/iptv-org/iptv (1674376716)
+#EXTM3U https://github.com/iptv-org/iptv (1674539215)
 #EXTM3U https://bit.ly/beartvplay (1674376716)
 #EXTM3U https://bit.ly/bearlivetv (1671287653)
 
