@@ -353,8 +353,8 @@ https://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
 #EXTM3U TLCSoutheastAsia.us, tlchd
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC Southeast Asia
 http://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
-#EXTM3U Woman.bg, woman
-#EXTINF:-1 tvg-id="woman" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
+#EXTM3U Woman.bg, woman (tvg-shift="+1")
+#EXTINF:-1 tvg-id="woman" tvg-shift="+1" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
 http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
@@ -404,7 +404,7 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 
 #EXTM3U Credits:
 #EXTM3U http://playlist.vthanhtivi.pw/ (1674376716)
-#EXTM3U https://github.com/iptv-org/iptv (1674531296)
+#EXTM3U https://github.com/iptv-org/iptv (1674532085)
 #EXTM3U https://bit.ly/beartvplay (1674376716)
 #EXTM3U https://bit.ly/bearlivetv (1671287653)
 
@@ -416,4 +416,4 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 #EXTM3U Notes:
 #EXTM3U tvg-shift="+N" = Shifts back -N hour.
 #EXTM3U tvg-shift="-N" = Shifts up +N hour.
-#EXTM3U All international FPT's streams may or may not -10 minutes late with RTC/EPG.
+#EXTM3U FPT non-vietnam channels will be -10 minutes late with RTC/EPG.
