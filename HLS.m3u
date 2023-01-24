@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/vidio.com.xml.gz,https://iptv-org.github.io/epg/guides/en/m.tv.sms.cz.xml.gz,https://iptv-org.github.io/epg/guides/en/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/en/tv.post.lu.xml.gz,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml.gz,https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml.gz,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml.gz,https://iptv-org.github.io/epg/guides/en/sky.com.xml.gz,https://iptv-org.github.io/epg/guides/en/dstv.com.xml.gz,https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz,https://iptv-org.github.io/epg/guides/en/directv.com.xml.gz,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz,https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml.gz,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml.gz,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml.gz,https://viva-russia.ru/scheduler/epg/epg.xml.gz,http://lichphatsong.xyz/schedule/epg.xml.gz,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml.gz,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml.gz,https://iptv-org.github.io/epg/guides/fr/tvhebdo.com.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml.gz" tvg-shift="0" m3uautoload="1"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/en/m.tv.sms.cz.xml.gz,https://iptv-org.github.io/epg/guides/en/mujtvprogram.cz.xml,https://iptv-org.github.io/epg/guides/en/tv.post.lu.xml.gz,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml.gz,https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz,https://iptv-org.github.io/epg/guides/en/abc.net.au.xml.gz,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml.gz,https://iptv-org.github.io/epg/guides/id/vidio.com.xml.gz,https://iptv-org.github.io/epg/guides/en/sky.com.xml.gz,https://iptv-org.github.io/epg/guides/en/dstv.com.xml.gz,https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz,https://iptv-org.github.io/epg/guides/en/directv.com.xml.gz,https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz,https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml.gz,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml.gz,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml.gz,https://viva-russia.ru/scheduler/epg/epg.xml.gz,http://lichphatsong.xyz/schedule/epg.xml.gz,http://trada.info/epg.xml,https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml.gz,https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml.gz,https://iptv-org.github.io/epg/guides/fr/tvhebdo.com.xml.gz,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml.gz" tvg-shift="0" m3uautoload="1"
 
 
 #EXTM3U News
@@ -353,8 +353,8 @@ https://api.vthanhtivi.pw/v1/getlink/tv360_s2/99/2
 #EXTM3U TLCSoutheastAsia.us, tlchd
 #EXTINF:-1 tvg-id="TLCSoutheastAsia.us" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/512" catchup="append" catchup-days="2" catchup-source="http://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TLC Southeast Asia
 http://vips-livecdn.fptplay.net/hda2/travelliving_vhls.smil/playlist.m3u8
-#EXTM3U Woman.bg, woman (tvg-shift="+1")
-#EXTINF:-1 tvg-id="woman" tvg-shift="+1" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
+#EXTM3U Woman.bg, woman (tvg-shift="-1", trada.info only)
+#EXTINF:-1 tvg-id="woman" tvg-shift="-1" group-title="Lifestyle" tvg-logo="http://static.wikia.nocookie.net/logos/images/0/08/WOMAN.png/revision/latest/scale-to-width-down/512?path-prefix=vi",Woman
 http://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
 
@@ -404,7 +404,7 @@ http://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
 
 #EXTM3U Credits:
 #EXTM3U http://playlist.vthanhtivi.pw/ (1674376716)
-#EXTM3U https://github.com/iptv-org/iptv (1674532085)
+#EXTM3U https://github.com/iptv-org/iptv (1674532414)
 #EXTM3U https://bit.ly/beartvplay (1674376716)
 #EXTM3U https://bit.ly/bearlivetv (1671287653)
 
