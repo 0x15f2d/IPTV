@@ -5,7 +5,7 @@ This is a self maintained IPTV personal project.
 🇻🇳 🇺🇸 🇪🇺 & 🇯🇵
 
 # Project status
-Not actively maintained.
+Currently stopped maintaining. You can get up-to-date ones at http://gg.gg/bearlivetv
 
 # Filing a bug
 You're welcome to file a bug. But i'll find out the bug before you can even filing one.
